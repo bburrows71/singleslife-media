@@ -24,7 +24,7 @@ Every post is built from the owner's own material, quoting or closely paraphrasi
   The Integration Blueprint. Bonuses: workbooks, Emergency Toolkit, self-assessment quiz, partner guide,
   90-day follow-up module, private community (Freedom Paradox Circle). Free preview available.
   Headline: "Stop Chasing. Stop Withdrawing. Start Connecting." Course posts 1-2x per week max.
-- Each caption ends with the article URL (or course URL). Slides say "on the blog at singles-life.app"
+- Each caption ends with the article URL (or course URL) followed by "(link in bio)" — the Instagram bio links to singles-life.app/blog.html. Slides say "on the blog at singles-life.app"
   rather than long URLs.
 
 ## Networks (from 2026-10-03: Claude runs the whole Metricool brand)
