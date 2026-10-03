@@ -11,7 +11,8 @@
    "instagram"
   ],
   "status": "scheduled",
-  "metricoolUuid": "1748431163872922666"
+  "metricoolUuid": "1748431163872922666",
+  "slot": "main"
  },
  {
   "date": "2026-10-05",
@@ -25,7 +26,8 @@
    "instagram"
   ],
   "status": "scheduled",
-  "metricoolUuid": "7832999678606788223"
+  "metricoolUuid": "7832999678606788223",
+  "slot": "main"
  },
  {
   "date": "2026-10-06",
@@ -39,7 +41,8 @@
    "instagram"
   ],
   "status": "scheduled",
-  "metricoolUuid": "-2779103953634310923"
+  "metricoolUuid": "-2779103953634310923",
+  "slot": "main"
  },
  {
   "date": "2026-10-07",
@@ -53,7 +56,8 @@
    "instagram"
   ],
   "status": "scheduled",
-  "metricoolUuid": "4451890130244094356"
+  "metricoolUuid": "4451890130244094356",
+  "slot": "main"
  },
  {
   "date": "2026-10-08",
@@ -67,7 +71,8 @@
    "instagram"
   ],
   "status": "scheduled",
-  "metricoolUuid": "-5090486660737186879"
+  "metricoolUuid": "-5090486660737186879",
+  "slot": "main"
  },
  {
   "date": "2026-10-09",
@@ -81,7 +86,8 @@
    "instagram"
   ],
   "status": "scheduled",
-  "metricoolUuid": "-5942093871379165629"
+  "metricoolUuid": "-5942093871379165629",
+  "slot": "main"
  },
  {
   "date": "2026-10-10",
@@ -95,6 +101,22 @@
    "instagram"
   ],
   "status": "scheduled",
-  "metricoolUuid": "-8287093347573546186"
+  "metricoolUuid": "-8287093347573546186",
+  "slot": "main"
+ },
+ {
+  "date": "2026-10-04",
+  "time": "18:00",
+  "slot": "evening",
+  "pillar": "Habits",
+  "format": "mini carousel",
+  "source": "https://singles-life.app/life-harvest.html",
+  "hook": "Every result in your life started as a seed.",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "91957624208835908"
  }
 ]
