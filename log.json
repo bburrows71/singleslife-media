@@ -10,7 +10,7 @@
    "facebook",
    "instagram"
   ],
-  "status": "draft",
+  "status": "scheduled",
   "metricoolUuid": "1748431163872922666"
  },
  {
@@ -24,7 +24,7 @@
    "facebook",
    "instagram"
   ],
-  "status": "draft",
+  "status": "scheduled",
   "metricoolUuid": "7832999678606788223"
  },
  {
@@ -38,7 +38,7 @@
    "facebook",
    "instagram"
   ],
-  "status": "draft",
+  "status": "scheduled",
   "metricoolUuid": "-2779103953634310923"
  },
  {
@@ -52,7 +52,7 @@
    "facebook",
    "instagram"
   ],
-  "status": "draft",
+  "status": "scheduled",
   "metricoolUuid": "4451890130244094356"
  },
  {
@@ -66,7 +66,7 @@
    "facebook",
    "instagram"
   ],
-  "status": "draft",
+  "status": "scheduled",
   "metricoolUuid": "-5090486660737186879"
  },
  {
@@ -80,7 +80,7 @@
    "facebook",
    "instagram"
   ],
-  "status": "draft",
+  "status": "scheduled",
   "metricoolUuid": "-5942093871379165629"
  },
  {
@@ -94,7 +94,7 @@
    "facebook",
    "instagram"
   ],
-  "status": "draft",
+  "status": "scheduled",
   "metricoolUuid": "-8287093347573546186"
  }
 ]

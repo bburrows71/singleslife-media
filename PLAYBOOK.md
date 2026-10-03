@@ -27,7 +27,14 @@ Every post is built from the owner's own material, quoting or closely paraphrasi
   rather than long URLs.
 
 ## Approval
-Posts go into Metricool as DRAFTS (draft: true). The owner approves/publishes them in Metricool.
+Owner switched to AUTO-POSTING on 2026-10-03: posts are created with draft false, autoPublish true.
+The owner can still edit or delete anything in the Metricool planner before it goes out.
+
+## Cadence
+- FLOOD (runs through 2026-10-15, posts through 2026-10-16): 2 posts per day.
+  Morning main post (carousel or single, ~9-12 AM best hour) + evening post (~6-8 PM best hour):
+  a single statement, checklist or 2-3 slide mini carousel from a DIFFERENT source than that day's main post.
+- WEEKLY (from Friday 2026-10-16): every Friday, fill the next 7 days with 1 post per day.
 
 ## Content pillars (rotate; never the same pillar two days running)
 1. Home upkeep: seasonal checklists, quick fixes, what to keep on hand.
@@ -37,7 +44,7 @@ Posts go into Metricool as DRAFTS (draft: true). The owner approves/publishes th
 5. Starting over: practical first steps after a breakup/divorce/move; tone is steady, never mopey.
 6. Letting go / minimalism: owning less, decluttering, making space yours.
 
-## Weekly format rhythm (America/Chicago)
+## Weekly format rhythm for main posts (America/Chicago)
 - Mon, Wed, Fri, Sun: carousel (5-7 slides: cover, 3-4 point slides or a checklist, cta).
 - Tue, Thu, Sat: single image (statement or checklist), sometimes a 2-3 slide mini carousel.
 - Tie in the calendar where it is natural (season, month start = bills, holidays, daylight saving).
