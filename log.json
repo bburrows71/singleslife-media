@@ -12,7 +12,9 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "1748431163872922666",
-  "slot": "main"
+  "slot": "main",
+  "piece": "image",
+  "firstComment": "added 2026-10-03"
  },
  {
   "date": "2026-10-05",
@@ -117,7 +119,9 @@
    "instagram"
   ],
   "status": "scheduled",
-  "metricoolUuid": "91957624208835908"
+  "metricoolUuid": "91957624208835908",
+  "piece": "image",
+  "firstComment": "added 2026-10-03"
  },
  {
   "date": "2026-10-04",
@@ -133,5 +137,53 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "7430084967160889374"
+ },
+ {
+  "date": "2026-10-04",
+  "time": "10:00",
+  "slot": "main",
+  "piece": "video",
+  "pillar": "Safety",
+  "format": "video",
+  "source": "https://singles-life.app/live-alone-safely.html",
+  "hook": "Living alone safely isn't about being scared. It's about being set up.",
+  "networks": [
+   "tiktok",
+   "youtube",
+   "instagram (trial reel)"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "8710064393831795067"
+ },
+ {
+  "date": "2026-10-04",
+  "time": "11:00",
+  "slot": "main",
+  "piece": "story",
+  "pillar": "Safety",
+  "format": "story",
+  "source": "https://singles-life.app/live-alone-safely.html",
+  "hook": "Living alone safely isn't about being scared. It's about being set up.",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "1633580621001606425"
+ },
+ {
+  "date": "2026-10-04",
+  "time": "18:00",
+  "slot": "evening",
+  "piece": "video",
+  "pillar": "Habits",
+  "format": "video (IG trial reel only; TikTok/YouTube video already scheduled)",
+  "source": "https://singles-life.app/life-harvest.html",
+  "hook": "Every result in your life started as a seed.",
+  "networks": [
+   "instagram (trial reel)"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "1854913733637325713"
  }
 ]
