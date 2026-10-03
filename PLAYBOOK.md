@@ -17,7 +17,8 @@ Every post is built from the owner's own material, quoting or closely paraphrasi
 - singles-life.app articles: budgeting.html, after-divorce.html, habits.html, live-alone-safely.html,
   living-alone-checklist.html, letting-go-of-things.html, misdirected-destruction.html,
   root-of-misdirected-destruction.html, pattern-quiz.html, root-cause-reflection.html,
-  breaking-the-cycles.html, life-harvest.html (blog index: singles-life.app/blog.html — check for new ones).
+  breaking-the-cycles.html, life-harvest.html, going-in-the-right-direction.html, truth-makes-you-free.html,
+  single-life-research.html (added 2026-10-03) (blog index: singles-life.app/blog.html — check for new ones).
 - The Freedom Paradox course (Thinkific, $129): bill-s-site-680c.thinkific.com/products/courses/the-freedom-paradox
   Modules: The Invisible Wall; The Roots of Withdrawal; The Retaliation Trap; Redefining Freedom vs. Connection;
   The Integration Blueprint. Bonuses: workbooks, Emergency Toolkit, self-assessment quiz, partner guide,

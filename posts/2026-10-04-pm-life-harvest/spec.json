@@ -1,0 +1,10 @@
+{
+ "slug": "2026-10-04-pm-life-harvest",
+ "label": "Life's harvest",
+ "footer": "singles-life.app",
+ "slides": [
+  {"type": "statement", "theme": "pine", "text": "A harvest is a produced result of what *seeds* we plant.", "attribution": "Life's Harvest"},
+  {"type": "checklist", "theme": "chalk", "title": "Clear the bad soil first", "items": ["Say sorry where it's owed", "Lose an argument on purpose", "End what isn't good for you"], "note": "Then plant new seeds: finances, relationships, diet, work, healthy habits."},
+  {"type": "cta", "theme": "highlight", "title": "Sow simple seeds.", "body": "Read Life's Harvest on the blog at singles-life.app"}
+ ]
+}
