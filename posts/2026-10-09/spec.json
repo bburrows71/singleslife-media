@@ -1,0 +1,52 @@
+{
+ "slug": "2026-10-09-habit-loop",
+ "label": "Tip of the day",
+ "footer": "singles-life.app",
+ "slides": [
+  {
+   "type": "cover",
+   "theme": "pine",
+   "kicker": "Habits",
+   "title": "Why bad habits win when you're tired",
+   "sub": "Every bad habit started as a choice. Repeat it enough and it starts choosing for you."
+  },
+  {
+   "type": "checklist",
+   "theme": "chalk",
+   "title": "The habit loop",
+   "items": [
+    "Cue: stress, boredom, a time, a place",
+    "Routine: the automatic behavior",
+    "Reward: what your brain gets"
+   ],
+   "note": "Willpower and decisions draw on the same limited tank. Tired = low tank."
+  },
+  {
+   "type": "point",
+   "theme": "chalk",
+   "n": "1",
+   "title": "Add friction",
+   "body": "Make the bad routine harder to reach. Delete the app. Move the trigger out of sight."
+  },
+  {
+   "type": "point",
+   "theme": "chalk",
+   "n": "2",
+   "title": "Same cue, new routine",
+   "body": "If stress is the cue, decide ahead of time what you'll do instead, so something better fires first."
+  },
+  {
+   "type": "point",
+   "theme": "chalk",
+   "n": "3",
+   "title": "Plan for low moments",
+   "body": "Change your surroundings and decide your response to fatigue before you're tired. A reminder is a cue you place on purpose."
+  },
+  {
+   "type": "cta",
+   "theme": "pine",
+   "title": "Change the loop, not your willpower.",
+   "body": "The full breakdown is on the blog at singles-life.app"
+  }
+ ]
+}

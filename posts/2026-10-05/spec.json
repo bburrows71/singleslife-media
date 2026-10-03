@@ -1,0 +1,52 @@
+{
+ "slug": "2026-10-05-single-income-budget",
+ "label": "Tip of the day",
+ "footer": "singles-life.app",
+ "slides": [
+  {
+   "type": "cover",
+   "theme": "pine",
+   "kicker": "One income",
+   "title": "Budgeting on a single income",
+   "sub": "No second paycheck to absorb the surprises. Here's how to build a budget that holds anyway."
+  },
+  {
+   "type": "checklist",
+   "theme": "chalk",
+   "title": "Start with 50 / 30 / 20",
+   "items": [
+    "50% needs: rent, utilities, groceries",
+    "30% wants: dining out, hobbies",
+    "20% savings and debt payoff"
+   ],
+   "note": "First, track what you really spend. Most people underestimate food and subscriptions."
+  },
+  {
+   "type": "point",
+   "theme": "chalk",
+   "n": "1",
+   "title": "Build the cushion first",
+   "body": "Three to six months of essentials is the goal. If that feels far off, start with $500 to $1,000 so one bad week doesn't land on a credit card."
+  },
+  {
+   "type": "point",
+   "theme": "chalk",
+   "n": "2",
+   "title": "Pay yourself first",
+   "body": "Set an automatic transfer to savings the day your paycheck lands. Don't wait to save whatever's left at month's end."
+  },
+  {
+   "type": "point",
+   "theme": "chalk",
+   "n": "3",
+   "title": "Hunt the recurring costs",
+   "body": "Audit subscriptions every few months. Negotiate internet and insurance. Ask your utility about budget billing."
+  },
+  {
+   "type": "cta",
+   "theme": "pine",
+   "title": "Small habits beat big moves.",
+   "body": "All nine steps for a one-income household are on the blog at singles-life.app"
+  }
+ ]
+}

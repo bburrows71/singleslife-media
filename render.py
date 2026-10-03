@@ -11,6 +11,7 @@ Slide types (all fields are plain text; keep them short):
   checklist {title, items:[...], note?}           3-6 short items
   statement {text, attribution?}                   single-image post, one strong line
   cta       {title?, body?}                        closing slide (save / share / app)
+Spec may set "footer" (default "singles-life.app") and "label" (header text on single images).
 Each slide may set theme: pine | chalk | highlight (default alternates sensibly).
 """
 import json, sys, pathlib, html, base64
@@ -66,7 +67,7 @@ def esc(s):
         on = not on
     return out
 
-def slide_html(sl, i, total, slug_label):
+def slide_html(sl, i, total, slug_label, footer="singles-life.app"):
     t = THEMES.get(sl.get("theme"), THEMES["pine"])
     var = ";".join(f"--{k}:{v}" for k, v in t.items())
     kind = sl.get("type", "point")
@@ -90,7 +91,7 @@ def slide_html(sl, i, total, slug_label):
 <body style="{var}"><div class="frame">
 <div class="top"><span class="brand"><span class="box"></span>Singles Life</span><span>{count}</span></div>
 <div class="body">{inner}</div>
-<div class="foot"><b>singles-life.app</b>{right}</div>
+<div class="foot"><b>{esc(footer)}</b>{right}</div>
 </div></body></html>"""
 
 FONTS = {}
@@ -104,7 +105,7 @@ def main():
         b = p.chromium.launch()
         pg = b.new_page(viewport={"width": 1080, "height": 1350})
         for i, sl in enumerate(slides):
-            pg.set_content(slide_html(sl, i, total, spec.get("label", "Tip of the day")), wait_until="load")
+            pg.set_content(slide_html(sl, i, total, spec.get("label", "Tip of the day"), spec.get("footer", "singles-life.app")), wait_until="load")
             pg.evaluate("document.fonts.ready")
             f = out / f"{spec['slug']}-{i+1:02d}.jpg"
             pg.screenshot(path=str(f), type="jpeg", quality=92)
