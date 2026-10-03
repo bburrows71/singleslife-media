@@ -1,6 +1,6 @@
 # Singles Life — daily social playbook
 
-This repo holds the images for Singles Life's daily Facebook + Instagram posts, scheduled through Metricool
+This repo holds the images and videos for Singles Life's social posts (Facebook, Instagram, TikTok, YouTube), scheduled through Metricool
 (brand "Singles-Life", blogId 7158515, timezone America/Chicago). Images must stay public: Metricool and
 Instagram fetch them from `https://raw.githubusercontent.com/bburrows71/singleslife-media/main/...`.
 
@@ -36,8 +36,21 @@ Every post is built from the owner's own material, quoting or closely paraphrasi
      5 hashtags (no long URLs; they aren't clickable there). youtubeData: type short, privacy public,
      title = hook (<= 90 chars) + " #shorts", 5-8 tags, category PEOPLE_BLOGS, madeForKids false.
      tiktokData: PUBLIC_TO_EVERYONE, commercialContentOwnBrand true, title = short hook, autoAddMusic false.
+  Also add instagram to the video post as a TRIAL REEL (instagramData {"type":"TRIAL_REEL","isAiGenerated":false};
+     shown to non-followers first, so it finds new people without repeating the feed post to followers).
+     If Metricool rejects TRIAL_REEL, drop instagram from the video post and note it in the run report.
+  3. Story (MAIN slot only) -> instagram + facebook, 1 hour after the main post: media = the cover slide (01.jpg),
+     instagramData {"type":"STORY"}, facebookData {"type":"STORY"}, and NO text field (stories have no caption).
+- First comment: on every image post (facebook + instagram) set firstCommentText to
+  "Read the full piece: <article or course URL>" so Facebook gets a clickable link right under the post.
 - Threads / LinkedIn / Pinterest: not connected yet. When getBrandSettings shows threads or linkedin, add them
   to the image post. Pinterest needs a board name written here first.
+
+## Weekly report (Mondays)
+Pull the last 7 days for facebook, instagram, tiktok and youtube with getAnalyticsAvailableMetrics /
+getAnalyticsDataByMetrics. Write reports/YYYY-MM-DD.md: followers gained, reach/views, engagement, top 3 posts
+and why, what to do more/less of. Update "What's working" at the bottom of this file. Never invent numbers.
+Put a 5-line plain-English summary at the top of that run's final report (the owner gets it as a push notification).
 
 ## Approval
 Owner switched to AUTO-POSTING on 2026-10-03: posts are created with draft false, autoPublish true.
