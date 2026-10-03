@@ -1,3 +1,100 @@
 [
-  {"date":"2026-10-04","time":"10:00","pillar":"Home upkeep","format":"carousel (6)","topic":"October home check: furnace filter, smoke/CO alarms, water shut-off, dryer vent, weatherstripping, flashlight","hook":"Nobody else is going to remind you, so here's your October home check.","networks":["facebook","instagram"],"metricoolUuid":"1748431163872922666"}
+ {
+  "date": "2026-10-04",
+  "time": "10:00",
+  "pillar": "Safety",
+  "format": "carousel",
+  "source": "https://singles-life.app/live-alone-safely.html",
+  "hook": "Living alone safely isn't about being scared. It's about being set up.",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "draft",
+  "metricoolUuid": "1748431163872922666"
+ },
+ {
+  "date": "2026-10-05",
+  "time": "10:00",
+  "pillar": "Money",
+  "format": "carousel",
+  "source": "https://singles-life.app/budgeting.html",
+  "hook": "No second income to absorb the surprises? Then the budget has to do the work.",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "draft",
+  "metricoolUuid": "7832999678606788223"
+ },
+ {
+  "date": "2026-10-06",
+  "time": "10:00",
+  "pillar": "Starting over",
+  "format": "single",
+  "source": "https://singles-life.app/misdirected-destruction.html",
+  "hook": "Ever blown up something that was actually working?",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "draft",
+  "metricoolUuid": "-2779103953634310923"
+ },
+ {
+  "date": "2026-10-07",
+  "time": "12:00",
+  "pillar": "Course",
+  "format": "carousel",
+  "source": "https://bill-s-site-680c.thinkific.com/products/courses/the-freedom-paradox",
+  "hook": "Pull them close. Push them away. Repeat.",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "draft",
+  "metricoolUuid": "4451890130244094356"
+ },
+ {
+  "date": "2026-10-08",
+  "time": "10:00",
+  "pillar": "Letting go",
+  "format": "single",
+  "source": "https://singles-life.app/letting-go-of-things.html",
+  "hook": "You were born owning nothing, and you were still smiling.",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "draft",
+  "metricoolUuid": "-5090486660737186879"
+ },
+ {
+  "date": "2026-10-09",
+  "time": "10:00",
+  "pillar": "Habits",
+  "format": "carousel",
+  "source": "https://singles-life.app/habits.html",
+  "hook": "Why do bad habits always win at 10pm?",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "draft",
+  "metricoolUuid": "-5942093871379165629"
+ },
+ {
+  "date": "2026-10-10",
+  "time": "10:00",
+  "pillar": "Starting over",
+  "format": "single",
+  "source": "https://singles-life.app/after-divorce.html",
+  "hook": "\"Keeping it together\" doesn't mean feeling nothing.",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "draft",
+  "metricoolUuid": "-8287093347573546186"
+ }
 ]

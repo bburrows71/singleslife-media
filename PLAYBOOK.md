@@ -12,6 +12,23 @@ Instagram fetch them from `https://raw.githubusercontent.com/bburrows71/singlesl
   Talk like a capable friend. Short sentences. No invented statistics, studies, quotes or app features.
   Only mention app features listed above.
 
+## Content sources (use these, not generic tips)
+Every post is built from the owner's own material, quoting or closely paraphrasing it. Never invent facts.
+- singles-life.app articles: budgeting.html, after-divorce.html, habits.html, live-alone-safely.html,
+  living-alone-checklist.html, letting-go-of-things.html, misdirected-destruction.html,
+  root-of-misdirected-destruction.html, pattern-quiz.html, root-cause-reflection.html,
+  breaking-the-cycles.html, life-harvest.html (blog index: singles-life.app/blog.html — check for new ones).
+- The Freedom Paradox course (Thinkific, $129): bill-s-site-680c.thinkific.com/products/courses/the-freedom-paradox
+  Modules: The Invisible Wall; The Roots of Withdrawal; The Retaliation Trap; Redefining Freedom vs. Connection;
+  The Integration Blueprint. Bonuses: workbooks, Emergency Toolkit, self-assessment quiz, partner guide,
+  90-day follow-up module, private community (Freedom Paradox Circle). Free preview available.
+  Headline: "Stop Chasing. Stop Withdrawing. Start Connecting." Course posts 1-2x per week max.
+- Each caption ends with the article URL (or course URL). Slides say "on the blog at singles-life.app"
+  rather than long URLs.
+
+## Approval
+Posts go into Metricool as DRAFTS (draft: true). The owner approves/publishes them in Metricool.
+
 ## Content pillars (rotate; never the same pillar two days running)
 1. Home upkeep: seasonal checklists, quick fixes, what to keep on hand.
 2. Money on one income: budgeting, bills, saving, splitting nothing with anyone.
