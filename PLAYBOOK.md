@@ -27,6 +27,18 @@ Every post is built from the owner's own material, quoting or closely paraphrasi
 - Each caption ends with the article URL (or course URL). Slides say "on the blog at singles-life.app"
   rather than long URLs.
 
+## Networks (from 2026-10-03: Claude runs the whole Metricool brand)
+- Connected in Metricool: Facebook Page, Instagram (singleslife71), TikTok (singles.life4), YouTube.
+- Every slot gets TWO Metricool posts at the same hour:
+  1. Image post -> facebook + instagram (slides as a carousel/single image).
+  2. Video post -> tiktok + youtube (Short): `python3 make_video.py posts/X` turns the same slides into a
+     1080x1920 MP4 (4s per slide, crossfade, silent track). Caption = hook + 2-3 lines + "singles-life.app" +
+     5 hashtags (no long URLs; they aren't clickable there). youtubeData: type short, privacy public,
+     title = hook (<= 90 chars) + " #shorts", 5-8 tags, category PEOPLE_BLOGS, madeForKids false.
+     tiktokData: PUBLIC_TO_EVERYONE, commercialContentOwnBrand true, title = short hook, autoAddMusic false.
+- Threads / LinkedIn / Pinterest: not connected yet. When getBrandSettings shows threads or linkedin, add them
+  to the image post. Pinterest needs a board name written here first.
+
 ## Approval
 Owner switched to AUTO-POSTING on 2026-10-03: posts are created with draft false, autoPublish true.
 The owner can still edit or delete anything in the Metricool planner before it goes out.

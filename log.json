@@ -118,5 +118,20 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "91957624208835908"
+ },
+ {
+  "date": "2026-10-04",
+  "time": "18:00",
+  "slot": "evening",
+  "pillar": "Habits",
+  "format": "video",
+  "source": "https://singles-life.app/life-harvest.html",
+  "hook": "Every result in your life started as a seed.",
+  "networks": [
+   "tiktok",
+   "youtube"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "7430084967160889374"
  }
 ]
