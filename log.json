@@ -29,7 +29,9 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "7832999678606788223",
-  "slot": "main"
+  "slot": "main",
+  "piece": "image",
+  "firstComment": "added 2026-10-03"
  },
  {
   "date": "2026-10-06",
@@ -44,7 +46,9 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "-2779103953634310923",
-  "slot": "main"
+  "slot": "main",
+  "piece": "image",
+  "firstComment": "added 2026-10-03"
  },
  {
   "date": "2026-10-07",
@@ -59,7 +63,9 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "4451890130244094356",
-  "slot": "main"
+  "slot": "main",
+  "piece": "image",
+  "firstComment": "added 2026-10-03"
  },
  {
   "date": "2026-10-08",
@@ -74,7 +80,9 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "-5090486660737186879",
-  "slot": "main"
+  "slot": "main",
+  "piece": "image",
+  "firstComment": "added 2026-10-03"
  },
  {
   "date": "2026-10-09",
@@ -89,7 +97,9 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "-5942093871379165629",
-  "slot": "main"
+  "slot": "main",
+  "piece": "image",
+  "firstComment": "added 2026-10-03"
  },
  {
   "date": "2026-10-10",
@@ -104,7 +114,9 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "-8287093347573546186",
-  "slot": "main"
+  "slot": "main",
+  "piece": "image",
+  "firstComment": "added 2026-10-03"
  },
  {
   "date": "2026-10-04",
@@ -185,5 +197,203 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "1854913733637325713"
+ },
+ {
+  "date": "2026-10-05",
+  "pillar": "Money",
+  "source": "https://singles-life.app/budgeting.html",
+  "hook": "No second income to absorb the surprises? Then the budget has to do the work.",
+  "time": "10:00",
+  "slot": "main",
+  "piece": "video",
+  "format": "video",
+  "networks": [
+   "tiktok",
+   "youtube",
+   "instagram (trial reel)"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "1493228195673358721"
+ },
+ {
+  "date": "2026-10-05",
+  "pillar": "Money",
+  "source": "https://singles-life.app/budgeting.html",
+  "hook": "No second income to absorb the surprises? Then the budget has to do the work.",
+  "time": "11:00",
+  "slot": "main",
+  "piece": "story",
+  "format": "story",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "4915310076417690670"
+ },
+ {
+  "date": "2026-10-06",
+  "pillar": "Starting over",
+  "source": "https://singles-life.app/misdirected-destruction.html",
+  "hook": "Ever blown up something that was actually working?",
+  "time": "10:00",
+  "slot": "main",
+  "piece": "video",
+  "format": "video",
+  "networks": [
+   "tiktok",
+   "youtube",
+   "instagram (trial reel)"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-386833356202687760"
+ },
+ {
+  "date": "2026-10-06",
+  "pillar": "Starting over",
+  "source": "https://singles-life.app/misdirected-destruction.html",
+  "hook": "Ever blown up something that was actually working?",
+  "time": "11:00",
+  "slot": "main",
+  "piece": "story",
+  "format": "story",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-5830310729664020316"
+ },
+ {
+  "date": "2026-10-07",
+  "pillar": "Course",
+  "source": "https://bill-s-site-680c.thinkific.com/products/courses/the-freedom-paradox",
+  "hook": "Pull them close. Push them away. Repeat.",
+  "time": "12:00",
+  "slot": "main",
+  "piece": "video",
+  "format": "video",
+  "networks": [
+   "tiktok",
+   "youtube",
+   "instagram (trial reel)"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "3072604875378871159"
+ },
+ {
+  "date": "2026-10-07",
+  "pillar": "Course",
+  "source": "https://bill-s-site-680c.thinkific.com/products/courses/the-freedom-paradox",
+  "hook": "Pull them close. Push them away. Repeat.",
+  "time": "13:00",
+  "slot": "main",
+  "piece": "story",
+  "format": "story",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-7585110966678893358"
+ },
+ {
+  "date": "2026-10-08",
+  "pillar": "Letting go",
+  "source": "https://singles-life.app/letting-go-of-things.html",
+  "hook": "You were born owning nothing, and you were still smiling.",
+  "time": "10:00",
+  "slot": "main",
+  "piece": "video",
+  "format": "video",
+  "networks": [
+   "tiktok",
+   "youtube",
+   "instagram (trial reel)"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-4368989189191021900"
+ },
+ {
+  "date": "2026-10-08",
+  "pillar": "Letting go",
+  "source": "https://singles-life.app/letting-go-of-things.html",
+  "hook": "You were born owning nothing, and you were still smiling.",
+  "time": "11:00",
+  "slot": "main",
+  "piece": "story",
+  "format": "story",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-625441155945971130"
+ },
+ {
+  "date": "2026-10-09",
+  "pillar": "Habits",
+  "source": "https://singles-life.app/habits.html",
+  "hook": "Why do bad habits always win at 10pm?",
+  "time": "10:00",
+  "slot": "main",
+  "piece": "video",
+  "format": "video",
+  "networks": [
+   "tiktok",
+   "youtube",
+   "instagram (trial reel)"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "5112996486628394974"
+ },
+ {
+  "date": "2026-10-09",
+  "pillar": "Habits",
+  "source": "https://singles-life.app/habits.html",
+  "hook": "Why do bad habits always win at 10pm?",
+  "time": "11:00",
+  "slot": "main",
+  "piece": "story",
+  "format": "story",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-5123758050375021889"
+ },
+ {
+  "date": "2026-10-10",
+  "pillar": "Starting over",
+  "source": "https://singles-life.app/after-divorce.html",
+  "hook": "\"Keeping it together\" doesn't mean feeling nothing.",
+  "time": "10:00",
+  "slot": "main",
+  "piece": "video",
+  "format": "video",
+  "networks": [
+   "tiktok",
+   "youtube",
+   "instagram (trial reel)"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-5443374317023968435"
+ },
+ {
+  "date": "2026-10-10",
+  "pillar": "Starting over",
+  "source": "https://singles-life.app/after-divorce.html",
+  "hook": "\"Keeping it together\" doesn't mean feeling nothing.",
+  "time": "11:00",
+  "slot": "main",
+  "piece": "story",
+  "format": "story",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-8859795753772691876"
  }
 ]
