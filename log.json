@@ -395,5 +395,38 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "-8859795753772691876"
+ },
+ {
+  "date": "2026-10-05",
+  "time": "17:00",
+  "slot": "evening",
+  "pillar": "Course",
+  "source": "https://bill-s-site-680c.thinkific.com/products/courses/the-freedom-paradox",
+  "hook": "Change is possible, for anyone. Just not with a quick fix.",
+  "status": "scheduled",
+  "piece": "image",
+  "format": "mini carousel",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "metricoolUuid": "-4022632512631255628"
+ },
+ {
+  "date": "2026-10-05",
+  "time": "17:00",
+  "slot": "evening",
+  "pillar": "Course",
+  "source": "https://bill-s-site-680c.thinkific.com/products/courses/the-freedom-paradox",
+  "hook": "Change is possible, for anyone. Just not with a quick fix.",
+  "status": "scheduled",
+  "piece": "video",
+  "format": "video",
+  "networks": [
+   "tiktok",
+   "youtube",
+   "instagram (trial reel)"
+  ],
+  "metricoolUuid": "1892792044816386434"
  }
 ]
