@@ -10,9 +10,12 @@ Everything here overrides the Singles Life playbook for this brand.
   (blogId 7158515). The owner chose SEPARATE accounts. Before scheduling anything, call getBrandSettings and
   compare each network ID in networksData of 7226677 against 7158515. Only post to networks whose ID is
   DIFFERENT. If none differ, schedule nothing and report: "Waiting for separate Pathways accounts in Metricool."
-- Pinterest (billburrows07) and Threads are connected on this brand: use them only if their IDs differ from
-  Singles Life's (Singles Life has neither, so they count as separate). Pinterest needs a board: use the board
-  named "Pathways to Good Life" if it exists, else skip Pinterest and say so in the report.
+- Threads is currently "singleslife71" (the Singles Life Instagram's Threads) and Pinterest is "billburrows07"
+  (personal). Neither counts as a Pathways account. A network is usable ONLY if its ID differs from Singles
+  Life's, its handle does not contain "singles", AND it is listed under "Approved networks" below.
+- Approved networks: (none yet — add facebook/instagram/tiktok/youtube/threads/pinterest here once the owner
+  connects Pathways' own accounts in Metricool and confirms them)
+- Pinterest needs a board: use the board named "Pathways to Good Life"; if missing, skip Pinterest.
 
 ## Cadence
 - FLOOD: 14 days of daily posting, 2 slots/day (main + evening), starting the first day this brand actually
