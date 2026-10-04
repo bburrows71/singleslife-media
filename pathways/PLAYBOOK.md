@@ -15,9 +15,11 @@ Everything here overrides the Singles Life playbook for this brand.
   Life's, its handle does not contain "singles", AND it is listed under "Approved networks" below.
 - Approved networks (owner confirmed 2026-10-04, connected their own new Pathways accounts):
   facebook (Page ID 1362549460276464), instagram (pathways2goodlife), youtube (channel UC-LJG2Uxg0ajy5zkYkv6FOA).
-  Not approved: pinterest (ID 07lgwy9fzmk7psp4johf4vrf6nn4uq appeared 2026-10-04, owner hasn't confirmed it),
-  tiktok and threads (not connected on this brand).
-- Pinterest needs a board: use the board named "Pathways to Good Life"; if missing, skip Pinterest.
+  pinterest (07lgwy9fzmk7psp4johf4vrf6nn4uq, owner confirmed 2026-10-04; pin only once the board below exists).
+  Not approved: tiktok and threads (not connected on this brand).
+- Pinterest needs a board: use the board named "Pathways to Good Life"; if missing, skip Pinterest
+  (2026-10-04: board not found yet, owner asked to create it). Pin = cover slide as a separate pinterest-only post,
+  pinTitle = hook, pinLink https://pathways2goodlife.com/.
 
 ## Cadence
 - FLOOD: 14 days of daily posting, 2 slots/day (main + evening), starting the first day this brand actually
