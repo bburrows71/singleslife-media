@@ -13,15 +13,17 @@ Everything here overrides the Singles Life playbook for this brand.
 - Threads is currently "singleslife71" (the Singles Life Instagram's Threads) and Pinterest is "billburrows07"
   (personal). Neither counts as a Pathways account. A network is usable ONLY if its ID differs from Singles
   Life's, its handle does not contain "singles", AND it is listed under "Approved networks" below.
-- Approved networks: (none yet — add facebook/instagram/tiktok/youtube/threads/pinterest here once the owner
-  connects Pathways' own accounts in Metricool and confirms them)
+- Approved networks (owner confirmed 2026-10-04, connected their own new Pathways accounts):
+  facebook (Page ID 1362549460276464), instagram (pathways2goodlife), youtube (channel UC-LJG2Uxg0ajy5zkYkv6FOA).
+  Not approved: pinterest (ID 07lgwy9fzmk7psp4johf4vrf6nn4uq appeared 2026-10-04, owner hasn't confirmed it),
+  tiktok and threads (not connected on this brand).
 - Pinterest needs a board: use the board named "Pathways to Good Life"; if missing, skip Pinterest.
 
 ## Cadence
 - FLOOD: 14 days of daily posting, 2 slots/day (main + evening), starting the first day this brand actually
   posts. Record that date here as `Flood start:` the first time posts are scheduled.
 - WEEKLY afterwards: every Friday, fill the next 7 days with 1 main slot per day.
-- Flood start: (not started)
+- Flood start: 2026-10-05 (flood runs through 2026-10-18)
 
 ## Brand
 - Pathways to Good Life (pathways2goodlife.com). Coach: Bill Burrows. Tagline: "Less clutter. Fewer cycles. More you."
