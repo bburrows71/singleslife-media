@@ -1,1 +1,82 @@
-[]
+[
+ {
+  "date": "2026-10-05",
+  "time": "11:00",
+  "slot": "main",
+  "piece": "image",
+  "area": "intro: four pathways + three areas",
+  "format": "carousel-6",
+  "source": "https://pathways2goodlife.com",
+  "hook": "What feels heaviest right now? (Which pathway are you on?)",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-4764195202704453990"
+ },
+ {
+  "date": "2026-10-05",
+  "time": "11:00",
+  "slot": "main",
+  "piece": "video",
+  "area": "intro: four pathways + three areas",
+  "format": "short",
+  "source": "https://pathways2goodlife.com",
+  "hook": "What feels heaviest right now? (Which pathway are you on?)",
+  "networks": [
+   "youtube",
+   "instagram TRIAL_REEL"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-4827229542091699322"
+ },
+ {
+  "date": "2026-10-05",
+  "time": "12:00",
+  "slot": "main",
+  "piece": "story",
+  "area": "intro: four pathways + three areas",
+  "format": "story",
+  "source": "https://pathways2goodlife.com",
+  "hook": "What feels heaviest right now? (Which pathway are you on?)",
+  "networks": [
+   "instagram STORY",
+   "facebook STORY"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "9115051004523530264"
+ },
+ {
+  "date": "2026-10-05",
+  "time": "18:30",
+  "slot": "evening",
+  "piece": "image",
+  "area": "simplicity: what simple means",
+  "format": "carousel-5",
+  "source": "https://pathways2goodlife.com",
+  "hook": "\"Simple\" doesn't mean easy.",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-9168220128975958934"
+ },
+ {
+  "date": "2026-10-05",
+  "time": "18:30",
+  "slot": "evening",
+  "piece": "video",
+  "area": "simplicity: what simple means",
+  "format": "short",
+  "source": "https://pathways2goodlife.com",
+  "hook": "\"Simple\" doesn't mean easy.",
+  "networks": [
+   "youtube",
+   "instagram TRIAL_REEL"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-2629688435254735598"
+ }
+]
