@@ -36,11 +36,10 @@ Every post is built from the owner's own material, quoting or closely paraphrasi
      5 hashtags (no long URLs; they aren't clickable there). youtubeData: type short, privacy public,
      title = hook (<= 90 chars) + " #shorts", 5-8 tags, category PEOPLE_BLOGS, madeForKids false.
      tiktokData: PUBLIC_TO_EVERYONE, commercialContentOwnBrand true, title = short hook, autoAddMusic false.
-  Also add instagram to the video post as a TRIAL REEL (instagramData {"type":"TRIAL_REEL","isAiGenerated":false};
-     shown to non-followers first, so it finds new people without repeating the feed post to followers).
-     If Metricool rejects TRIAL_REEL, drop instagram from the video post and note it in the run report.
-     2026-10-05: Instagram rejected the Oct 4 trial reels at publish time ("does not meet the trial reel follower
-     requirement"). Until the account grows, do NOT add instagram to new video posts (video = tiktok + youtube only).
+  Also add instagram to the video post as a regular REEL that stays out of the grid:
+     instagramData {"type":"REEL","showReelOnFeed":false,"isAiGenerated":false}.
+     (2026-10-05: Instagram rejected TRIAL_REEL because singleslife71 doesn't have enough followers yet, and
+     Metricool then emailed the owner to post by hand. Do NOT use TRIAL_REEL.)
   3. Story (MAIN slot only) -> instagram + facebook, 1 hour after the main post: media = the cover slide (01.jpg),
      instagramData {"type":"STORY"}, facebookData {"type":"STORY"}, and NO text field (stories have no caption).
 - First comment: on every image post (facebook + instagram) set firstCommentText to
