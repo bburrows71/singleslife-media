@@ -39,6 +39,8 @@ Every post is built from the owner's own material, quoting or closely paraphrasi
   Also add instagram to the video post as a TRIAL REEL (instagramData {"type":"TRIAL_REEL","isAiGenerated":false};
      shown to non-followers first, so it finds new people without repeating the feed post to followers).
      If Metricool rejects TRIAL_REEL, drop instagram from the video post and note it in the run report.
+     2026-10-05: Instagram rejected the Oct 4 trial reels at publish time ("does not meet the trial reel follower
+     requirement"). Until the account grows, do NOT add instagram to new video posts (video = tiktok + youtube only).
   3. Story (MAIN slot only) -> instagram + facebook, 1 hour after the main post: media = the cover slide (01.jpg),
      instagramData {"type":"STORY"}, facebookData {"type":"STORY"}, and NO text field (stories have no caption).
 - First comment: on every image post (facebook + instagram) set firstCommentText to
@@ -91,3 +93,7 @@ The owner can still edit or delete anything in the Metricool planner before it g
    slide order, instagramData.type POST, facebookData.type POST, autoPublish true, at the best hour from
    getBestTimeToPostByNetwork (instagram) for that date, between 9 AM and 7 PM.
 7. Append an entry to `log.json` and push.
+
+## What's working
+- 2026-10-05: Not enough data yet (first posts went live Oct 4). Facebook/Instagram image posts, stories and
+  TikTok/YouTube Shorts all publish fine; Instagram Trial Reels fail (follower requirement). Report: reports/2026-10-05.md
