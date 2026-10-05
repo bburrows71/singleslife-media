@@ -78,5 +78,83 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "-2629688435254735598"
+ },
+ {
+  "date": "2026-10-06",
+  "area": "a steady solo life",
+  "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
+  "hook": "One set of shoulders (one income, one household, one person)",
+  "status": "scheduled",
+  "time": "10:00",
+  "slot": "main",
+  "piece": "image",
+  "format": "carousel-3",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "metricoolUuid": "-883879514791851206"
+ },
+ {
+  "date": "2026-10-06",
+  "area": "a steady solo life",
+  "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
+  "hook": "One set of shoulders (one income, one household, one person)",
+  "status": "scheduled",
+  "time": "10:00",
+  "slot": "main",
+  "piece": "video",
+  "format": "short",
+  "networks": [
+   "youtube"
+  ],
+  "metricoolUuid": "4389751201547898737"
+ },
+ {
+  "date": "2026-10-06",
+  "area": "a steady solo life",
+  "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
+  "hook": "One set of shoulders (one income, one household, one person)",
+  "status": "scheduled",
+  "time": "11:00",
+  "slot": "main",
+  "piece": "story",
+  "format": "story",
+  "networks": [
+   "instagram STORY",
+   "facebook STORY"
+  ],
+  "metricoolUuid": "-1536952891341061790"
+ },
+ {
+  "date": "2026-10-06",
+  "area": "relationship patterns: testing the people who love you",
+  "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
+  "hook": "Do you test the people who love you?",
+  "status": "scheduled",
+  "time": "17:00",
+  "slot": "evening",
+  "piece": "image",
+  "format": "carousel-2",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "metricoolUuid": "3426839686973442948"
+ },
+ {
+  "date": "2026-10-06",
+  "area": "relationship patterns: testing the people who love you",
+  "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
+  "hook": "Do you test the people who love you?",
+  "status": "scheduled",
+  "time": "17:00",
+  "slot": "evening",
+  "piece": "video",
+  "format": "short",
+  "networks": [
+   "youtube"
+  ],
+  "metricoolUuid": "-977153144753993766"
  }
 ]

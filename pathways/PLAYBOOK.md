@@ -65,3 +65,7 @@ Everything here overrides the Singles Life playbook for this brand.
 ## Captions
 - Hook, 3-6 short lines, soft CTA to pathways2goodlife.com "(link in bio)", 5 hashtags
   (e.g. #lifecoaching #breakingcycles #simpleliving #attachmentstyles #startingover — vary them).
+
+## What's working
+- 2026-10-05: No data yet (first Pathways posts go live Oct 5). Video posts = YouTube Short only (IG trial reels
+  fail the follower requirement on the sister account). Pinterest board still missing. Report: reports/2026-10-05.md
