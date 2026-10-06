@@ -156,5 +156,85 @@
    "youtube"
   ],
   "metricoolUuid": "-977153144753993766"
+ },
+ {
+  "date": "2026-10-07",
+  "area": "relationship patterns: repeating the same mistakes (Bill's three starting points)",
+  "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
+  "hook": "I repeat the same mistakes.",
+  "status": "scheduled",
+  "time": "12:00",
+  "slot": "main",
+  "piece": "image",
+  "format": "carousel-5",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "metricoolUuid": "-1150161182044896594"
+ },
+ {
+  "date": "2026-10-07",
+  "area": "relationship patterns: repeating the same mistakes (Bill's three starting points)",
+  "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
+  "hook": "I repeat the same mistakes.",
+  "status": "scheduled",
+  "time": "12:00",
+  "slot": "main",
+  "piece": "video",
+  "format": "short",
+  "networks": [
+   "youtube",
+   "instagram REEL (off-grid)"
+  ],
+  "metricoolUuid": "-298327789660126745"
+ },
+ {
+  "date": "2026-10-07",
+  "area": "relationship patterns: repeating the same mistakes (Bill's three starting points)",
+  "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
+  "hook": "I repeat the same mistakes.",
+  "status": "scheduled",
+  "time": "13:00",
+  "slot": "main",
+  "piece": "story",
+  "format": "story",
+  "networks": [
+   "instagram STORY",
+   "facebook STORY"
+  ],
+  "metricoolUuid": "-7692765973832578934"
+ },
+ {
+  "date": "2026-10-07",
+  "area": "owning less: cluttered and loud",
+  "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
+  "hook": "Does your life feel cluttered and loud?",
+  "status": "scheduled",
+  "time": "17:00",
+  "slot": "evening",
+  "piece": "image",
+  "format": "carousel-2",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "metricoolUuid": "3965428144316697846"
+ },
+ {
+  "date": "2026-10-07",
+  "area": "owning less: cluttered and loud",
+  "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
+  "hook": "Does your life feel cluttered and loud?",
+  "status": "scheduled",
+  "time": "17:00",
+  "slot": "evening",
+  "piece": "video",
+  "format": "short",
+  "networks": [
+   "youtube",
+   "instagram REEL (off-grid)"
+  ],
+  "metricoolUuid": "-7807681303968594931"
  }
 ]

@@ -18,7 +18,7 @@ Everything here overrides the Singles Life playbook for this brand.
   pinterest (07lgwy9fzmk7psp4johf4vrf6nn4uq, owner confirmed 2026-10-04; pin only once the board below exists).
   Not approved: tiktok and threads (not connected on this brand).
 - Pinterest needs a board: use the board named "Pathways to Good Life"; if missing, skip Pinterest
-  (2026-10-04: board not found yet, owner asked to create it). Pin = cover slide as a separate pinterest-only post,
+  (2026-10-04 and 2026-10-06: board not found, Metricool could not resolve it; owner asked to create it). Pin = cover slide as a separate pinterest-only post,
   pinTitle = hook, pinLink https://pathways2goodlife.com/.
 
 ## Cadence
