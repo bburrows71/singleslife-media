@@ -236,5 +236,85 @@
    "instagram REEL (off-grid)"
   ],
   "metricoolUuid": "-7807681303968594931"
+ },
+ {
+  "date": "2026-10-08",
+  "area": "course: The Freedom Paradox (free chapter: The Invisible Wall)",
+  "source": "https://bill-s-site-680c.thinkific.com/products/courses/the-freedom-paradox (course facts as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
+  "hook": "Start with The Invisible Wall.",
+  "status": "scheduled",
+  "time": "10:00",
+  "slot": "main",
+  "piece": "image",
+  "format": "carousel-5",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "metricoolUuid": "5100867039461524951"
+ },
+ {
+  "date": "2026-10-08",
+  "area": "course: The Freedom Paradox (free chapter: The Invisible Wall)",
+  "source": "https://bill-s-site-680c.thinkific.com/products/courses/the-freedom-paradox (course facts as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
+  "hook": "Start with The Invisible Wall.",
+  "status": "scheduled",
+  "time": "10:00",
+  "slot": "main",
+  "piece": "video",
+  "format": "short",
+  "networks": [
+   "youtube",
+   "instagram REEL (off-grid)"
+  ],
+  "metricoolUuid": "-4763756309414918104"
+ },
+ {
+  "date": "2026-10-08",
+  "area": "course: The Freedom Paradox (free chapter: The Invisible Wall)",
+  "source": "https://bill-s-site-680c.thinkific.com/products/courses/the-freedom-paradox (course facts as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
+  "hook": "Start with The Invisible Wall.",
+  "status": "scheduled",
+  "time": "11:00",
+  "slot": "main",
+  "piece": "story",
+  "format": "story",
+  "networks": [
+   "instagram STORY",
+   "facebook STORY"
+  ],
+  "metricoolUuid": "6173511797178781553"
+ },
+ {
+  "date": "2026-10-08",
+  "area": "a steady solo life: I'm starting over on my own (entry point)",
+  "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
+  "hook": "I'm starting over on my own.",
+  "status": "scheduled",
+  "time": "18:00",
+  "slot": "evening",
+  "piece": "image",
+  "format": "carousel-2",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "metricoolUuid": "-5544969811661141009"
+ },
+ {
+  "date": "2026-10-08",
+  "area": "a steady solo life: I'm starting over on my own (entry point)",
+  "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
+  "hook": "I'm starting over on my own.",
+  "status": "scheduled",
+  "time": "18:00",
+  "slot": "evening",
+  "piece": "video",
+  "format": "short",
+  "networks": [
+   "youtube",
+   "instagram REEL (off-grid)"
+  ],
+  "metricoolUuid": "-8936789414105494623"
  }
 ]
