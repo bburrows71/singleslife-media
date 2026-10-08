@@ -55,6 +55,9 @@ Everything here overrides the Singles Life playbook for this brand.
   breaking-the-cycles, life-harvest, habits, letting-go-of-things, after-divorce (singles-life.app/<name>.html).
   Re-angle them for coaching; link to pathways2goodlife.com, not singles-life.app.
 - Don't post the same idea on both brands within 7 days: check ../log.json too.
+- 2026-10-09 run: live WebFetch of pathways2goodlife.com and singles-life.app is blocked in unattended runs (permission
+  prompt unanswered). Every idea in the text recorded here was used by one of the brands within 7 days, so Oct 9
+  was skipped. Fix: allow those domains for the scheduled task, or save article text under pathways/sources/.
 - Course posts: at most 3 per week on this brand (it's the main offer), never two days in a row.
 
 ## Look
