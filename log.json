@@ -428,5 +428,38 @@
    "instagram (trial reel)"
   ],
   "metricoolUuid": "1892792044816386434"
+ },
+ {
+  "date": "2026-10-09",
+  "time": "17:00",
+  "slot": "evening",
+  "pillar": "Safety",
+  "source": "https://singles-life.app/live-alone-safely.html",
+  "hook": "You're not a person managing alone. You're a person managing, full stop.",
+  "status": "scheduled",
+  "piece": "image",
+  "format": "mini carousel",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "metricoolUuid": "228371281992631713"
+ },
+ {
+  "date": "2026-10-09",
+  "time": "17:00",
+  "slot": "evening",
+  "pillar": "Safety",
+  "source": "https://singles-life.app/live-alone-safely.html",
+  "hook": "You're not a person managing alone. You're a person managing, full stop.",
+  "status": "scheduled",
+  "piece": "video",
+  "format": "video",
+  "networks": [
+   "tiktok",
+   "youtube",
+   "instagram (reel, off-grid)"
+  ],
+  "metricoolUuid": "-4127731749994019568"
  }
 ]
