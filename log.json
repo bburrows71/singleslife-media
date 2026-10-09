@@ -461,5 +461,38 @@
    "instagram (reel, off-grid)"
   ],
   "metricoolUuid": "-4127731749994019568"
+ },
+ {
+  "date": "2026-10-10",
+  "time": "18:00",
+  "slot": "evening",
+  "pillar": "Home upkeep",
+  "source": "https://singles-life.app/living-alone-checklist.html",
+  "hook": "Your fall home check, before the cold sets in.",
+  "status": "scheduled",
+  "piece": "image",
+  "format": "mini carousel",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "metricoolUuid": "1437238356298842363"
+ },
+ {
+  "date": "2026-10-10",
+  "time": "18:00",
+  "slot": "evening",
+  "pillar": "Home upkeep",
+  "source": "https://singles-life.app/living-alone-checklist.html",
+  "hook": "Your fall home check, before the cold sets in.",
+  "status": "scheduled",
+  "piece": "video",
+  "format": "video",
+  "networks": [
+   "tiktok",
+   "youtube",
+   "instagram (reel, off-grid)"
+  ],
+  "metricoolUuid": "-1876572276539701023"
  }
 ]
