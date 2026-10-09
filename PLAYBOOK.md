@@ -19,6 +19,9 @@ Every post is built from the owner's own material, quoting or closely paraphrasi
   root-of-misdirected-destruction.html, pattern-quiz.html, root-cause-reflection.html,
   breaking-the-cycles.html, life-harvest.html, going-in-the-right-direction.html, truth-makes-you-free.html,
   single-life-research.html (added 2026-10-03) (blog index: singles-life.app/blog.html — check for new ones).
+- 2026-10-09 run: WebFetch of singles-life.app is blocked in unattended runs (permission prompt unanswered,
+  and the site isn't in search results), so the Oct 10 evening slot was skipped rather than written from memory.
+  Fix: allow singles-life.app + the Thinkific course page for the scheduled task, or save article text in sources/<name>.md.
 - The Freedom Paradox course (Thinkific, $129): bill-s-site-680c.thinkific.com/products/courses/the-freedom-paradox
   Modules: The Invisible Wall; The Roots of Withdrawal; The Retaliation Trap; Redefining Freedom vs. Connection;
   The Integration Blueprint. Bonuses: workbooks, Emergency Toolkit, self-assessment quiz, partner guide,
