@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-10-pm-fall-home-check",
+ "label": "Home care",
+ "footer": "singles-life.app",
+ "slides": [
+  {
+   "type": "checklist",
+   "theme": "chalk",
+   "title": "Your fall home check",
+   "items": [
+    "Flush the water heater",
+    "Clean the dryer vent",
+    "Clear the gutters",
+    "Look under sinks for drips",
+    "Swap the HVAC filter"
+   ],
+   "note": "Small drips are cheap to fix. Water damage is not."
+  },
+  {
+   "type": "cta",
+   "theme": "pine",
+   "title": "Put it on a schedule.",
+   "body": "Weekly, monthly, seasonal: let a reminder carry it, not your memory. The full checklist is on the blog at singles-life.app"
+  }
+ ]
+}
