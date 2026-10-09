@@ -58,6 +58,8 @@ Everything here overrides the Singles Life playbook for this brand.
 - 2026-10-09 run: live WebFetch of pathways2goodlife.com and singles-life.app is blocked in unattended runs (permission
   prompt unanswered). Every idea in the text recorded here was used by one of the brands within 7 days, so Oct 9
   was skipped. Fix: allow those domains for the scheduled task, or save article text under pathways/sources/.
+- 2026-10-09 (for Oct 10): same block again (WebFetch permission withdrawn; sites not in web search). Oct 10 main +
+  evening skipped. Ideas used Oct 5 (intro, simple-isn't-easy) free up again from Oct 12.
 - Course posts: at most 3 per week on this brand (it's the main offer), never two days in a row.
 
 ## Look
