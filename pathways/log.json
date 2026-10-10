@@ -316,5 +316,100 @@
    "instagram REEL (off-grid)"
   ],
   "metricoolUuid": "-8936789414105494623"
+ },
+ {
+  "date": "2026-10-11",
+  "time": "10:00",
+  "slot": "main",
+  "piece": "image",
+  "area": "relationship patterns: listen first (The Wisdom of Speaking Less)",
+  "format": "carousel",
+  "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
+  "hook": "First listen. Then understand. Then speak.",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "6393031144925775340"
+ },
+ {
+  "date": "2026-10-11",
+  "time": "10:00",
+  "slot": "main",
+  "piece": "video",
+  "area": "relationship patterns: listen first (The Wisdom of Speaking Less)",
+  "format": "video",
+  "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
+  "hook": "First listen. Then understand. Then speak.",
+  "networks": [
+   "youtube",
+   "instagram-reel"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-2698739121194908623"
+ },
+ {
+  "date": "2026-10-11",
+  "time": "10:00",
+  "slot": "main",
+  "piece": "pin",
+  "area": "relationship patterns: listen first (The Wisdom of Speaking Less)",
+  "format": "pin",
+  "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
+  "hook": "First listen. Then understand. Then speak.",
+  "networks": [
+   "pinterest"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "7325156432310258835"
+ },
+ {
+  "date": "2026-10-11",
+  "time": "11:00",
+  "slot": "main",
+  "piece": "story",
+  "area": "relationship patterns: listen first (The Wisdom of Speaking Less)",
+  "format": "story",
+  "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
+  "hook": "First listen. Then understand. Then speak.",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "8439065818708396740"
+ },
+ {
+  "date": "2026-10-11",
+  "time": "18:00",
+  "slot": "evening",
+  "piece": "image",
+  "area": "relationship patterns: breaking the talk-without-listening loop (The Wisdom of Speaking Less)",
+  "format": "carousel",
+  "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
+  "hook": "Talking without listening is a loop.",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "8808820605296200137"
+ },
+ {
+  "date": "2026-10-11",
+  "time": "18:00",
+  "slot": "evening",
+  "piece": "video",
+  "area": "relationship patterns: breaking the talk-without-listening loop (The Wisdom of Speaking Less)",
+  "format": "video",
+  "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
+  "hook": "Talking without listening is a loop.",
+  "networks": [
+   "youtube",
+   "instagram-reel"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-7004519900686367904"
  }
 ]

@@ -20,6 +20,8 @@ Everything here overrides the Singles Life playbook for this brand.
 - Pinterest needs a board: use the board named "Pathways to Good Life"; if missing, skip Pinterest
   (2026-10-04, 2026-10-06 and 2026-10-08: board not found, Metricool could not resolve it; owner asked to create it). Pin = cover slide as a separate pinterest-only post,
   pinTitle = hook, pinLink https://pathways2goodlife.com/.
+- 2026-10-10: board NAME still unresolvable, but the owner's own Pathways pin draft uses boardId 1107674539542383834;
+  Claude used that ID for the Oct 11 pin (accepted). Use it unless the owner says otherwise.
 
 ## Cadence
 - FLOOD: 14 days of daily posting, 2 slots/day (main + evening), starting the first day this brand actually
@@ -60,6 +62,9 @@ Everything here overrides the Singles Life playbook for this brand.
   was skipped. Fix: allow those domains for the scheduled task, or save article text under pathways/sources/.
 - 2026-10-09 (for Oct 10): same block again (WebFetch permission withdrawn; sites not in web search). Oct 10 main +
   evening skipped. Ideas used Oct 5 (intro, simple-isn't-easy) free up again from Oct 12.
+- 2026-10-10 (for Oct 11): fetch blocked again; both slots built from pathways/sources/the-wisdom-of-speaking-less.md
+  (main: listen first / nature listens first; evening: the speaking-without-listening loop). The owner's own
+  draft quote card for that article ("We learn very little when we listen very little") sits in Metricool as a draft.
 - Course posts: at most 3 per week on this brand (it's the main offer), never two days in a row.
 
 ## Look
