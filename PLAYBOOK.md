@@ -19,9 +19,11 @@ Every post is built from the owner's own material, quoting or closely paraphrasi
   root-of-misdirected-destruction.html, pattern-quiz.html, root-cause-reflection.html,
   breaking-the-cycles.html, life-harvest.html, going-in-the-right-direction.html, truth-makes-you-free.html,
   single-life-research.html (added 2026-10-03),
-  the-loop-that-keeps-you-stuck.html (added 2026-10-09) (blog index: singles-life.app/blog.html — check for new ones).
+  the-loop-that-keeps-you-stuck.html (added 2026-10-09),
+  the-wisdom-of-speaking-less.html (seen 2026-10-10 in the owner's own Metricool draft; not yet read by Claude) (blog index: singles-life.app/blog.html — check for new ones).
 - Unattended runs may be unable to WebFetch singles-life.app (permission prompt unanswered). If so, skip the slot
-  rather than write from memory, and tell the owner. (2026-10-09: Oct 10 evening was filled later the same day.)
+  rather than write from memory, and tell the owner. (2026-10-09: Oct 10 evening was filled later the same day. 2026-10-10: blocked again for singles-life.app AND
+  thinkific; Oct 11 left empty.)
 - The Freedom Paradox course (Thinkific, $129): bill-s-site-680c.thinkific.com/products/courses/the-freedom-paradox
   Modules: The Invisible Wall; The Roots of Withdrawal; The Retaliation Trap; Redefining Freedom vs. Connection;
   The Integration Blueprint. Bonuses: workbooks, Emergency Toolkit, self-assessment quiz, partner guide,
