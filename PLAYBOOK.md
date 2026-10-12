@@ -23,7 +23,7 @@ Every post is built from the owner's own material, quoting or closely paraphrasi
   the-wisdom-of-speaking-less.html (seen 2026-10-10 in the owner's own Metricool draft; not yet read by Claude) (blog index: singles-life.app/blog.html — check for new ones).
 - Unattended runs may be unable to WebFetch singles-life.app (permission prompt unanswered). If so, skip the slot
   rather than write from memory, and tell the owner. (2026-10-09: Oct 10 evening was filled later the same day. 2026-10-10: blocked again for singles-life.app AND
-  thinkific; Oct 11 left empty.)
+  thinkific; Oct 11 left empty. 2026-10-12: blocked again for both; Oct 13 left empty.)
 - The Freedom Paradox course (Thinkific, $129): bill-s-site-680c.thinkific.com/products/courses/the-freedom-paradox
   Modules: The Invisible Wall; The Roots of Withdrawal; The Retaliation Trap; Redefining Freedom vs. Connection;
   The Integration Blueprint. Bonuses: workbooks, Emergency Toolkit, self-assessment quiz, partner guide,
@@ -101,3 +101,8 @@ The owner can still edit or delete anything in the Metricool planner before it g
 ## What's working
 - 2026-10-05: Not enough data yet (first posts went live Oct 4). Facebook/Instagram image posts, stories and
   TikTok/YouTube Shorts all publish fine; Instagram Trial Reels fail (follower requirement). Report: reports/2026-10-05.md
+- 2026-10-12 (week Oct 5-11): TikTok carries reach (~1,300 views, +1 follower); Instagram feed posts reach only 3-6
+  people each, off-grid Reels reach more; Facebook near zero. Best by far: the Misdirected Destruction question hook
+  ("Ever blown up something that was actually working?": 311 TikTok + 155 IG Reel views). Pattern / self-recognition
+  hooks beat checklists; single statement slides work well as video. Budgeting did best on YouTube (120 views).
+  Report: reports/2026-10-12.md
