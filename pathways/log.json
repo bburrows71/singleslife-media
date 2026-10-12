@@ -411,5 +411,100 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "-7004519900686367904"
+ },
+ {
+  "date": "2026-10-13",
+  "time": "12:00",
+  "slot": "main",
+  "piece": "image",
+  "area": "relationship patterns: leave room to learn / humility (The Wisdom of Speaking Less)",
+  "format": "carousel",
+  "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
+  "hook": "You don't have to be the smartest person in the room.",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "4786260911020591304"
+ },
+ {
+  "date": "2026-10-13",
+  "time": "12:00",
+  "slot": "main",
+  "piece": "video",
+  "area": "relationship patterns: leave room to learn / humility (The Wisdom of Speaking Less)",
+  "format": "video",
+  "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
+  "hook": "You don't have to be the smartest person in the room.",
+  "networks": [
+   "youtube",
+   "instagram-reel"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-3517663737935738917"
+ },
+ {
+  "date": "2026-10-13",
+  "time": "12:00",
+  "slot": "main",
+  "piece": "pin",
+  "area": "relationship patterns: leave room to learn / humility (The Wisdom of Speaking Less)",
+  "format": "pin",
+  "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
+  "hook": "You don't have to be the smartest person in the room.",
+  "networks": [
+   "pinterest"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "7132751476688896604"
+ },
+ {
+  "date": "2026-10-13",
+  "time": "13:00",
+  "slot": "main",
+  "piece": "story",
+  "area": "relationship patterns: leave room to learn / humility (The Wisdom of Speaking Less)",
+  "format": "story",
+  "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
+  "hook": "You don't have to be the smartest person in the room.",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-5464528818594296911"
+ },
+ {
+  "date": "2026-10-13",
+  "time": "17:00",
+  "slot": "evening",
+  "piece": "image",
+  "area": "mindset: change is possible (Bill's quote)",
+  "format": "single",
+  "source": "https://pathways2goodlife.com (Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+  "hook": "Change is possible for anyone. Is it easy? No. But it can be done.",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-608668379636412794"
+ },
+ {
+  "date": "2026-10-13",
+  "time": "17:00",
+  "slot": "evening",
+  "piece": "video",
+  "area": "mindset: change is possible (Bill's quote)",
+  "format": "video",
+  "source": "https://pathways2goodlife.com (Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+  "hook": "Change is possible for anyone. Is it easy? No. But it can be done.",
+  "networks": [
+   "youtube",
+   "instagram-reel"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "6824004403854920577"
  }
 ]

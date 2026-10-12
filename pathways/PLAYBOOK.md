@@ -65,6 +65,10 @@ Everything here overrides the Singles Life playbook for this brand.
 - 2026-10-10 (for Oct 11): fetch blocked again; both slots built from pathways/sources/the-wisdom-of-speaking-less.md
   (main: listen first / nature listens first; evening: the speaking-without-listening loop). The owner's own
   draft quote card for that article ("We learn very little when we listen very little") sits in Metricool as a draft.
+- 2026-10-12 (for Oct 13): fetch blocked again. Main built from pathways/sources/the-wisdom-of-speaking-less.md (leave room to learn);
+  evening = Bill's "Change is possible" quote recorded above. NEW Journal post seen only in the owner's own Metricool drafts
+  for Oct 13 (not read by Claude): "The Groove My Mind Wore Into the Floor" (pathways2goodlife.com/the-groove-my-mind-wore-into-the-floor.html).
+  Save its text under pathways/sources/ so runs can use it.
 - Course posts: at most 3 per week on this brand (it's the main offer), never two days in a row.
 
 ## Look
@@ -79,3 +83,7 @@ Everything here overrides the Singles Life playbook for this brand.
 ## What's working
 - 2026-10-05: No data yet (first Pathways posts go live Oct 5). Video posts = YouTube Short only (IG trial reels
   fail the follower requirement on the sister account). Pinterest board still missing. Report: reports/2026-10-05.md
+- 2026-10-12 (week Oct 5-11): Instagram 2 -> 9 followers. Off-grid IG Reels carry reach ("Talking without listening is a loop."
+  138 views / 132 reached); feed carousels reach 1-7 each. Best feed post: "Do you test the people who love you?" (6 interactions).
+  Course-first post weakest. Facebook 0 followers / 0 views. YouTube 103 views Oct 5-8. Pattern / self-recognition hooks win.
+  Owner's own drafts may sit in the planner (e.g. Oct 13 10:00): schedule around them, never on top. Report: reports/2026-10-12.md
