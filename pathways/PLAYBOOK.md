@@ -69,6 +69,9 @@ Everything here overrides the Singles Life playbook for this brand.
   evening = Bill's "Change is possible" quote recorded above. NEW Journal post seen only in the owner's own Metricool drafts
   for Oct 13 (not read by Claude): "The Groove My Mind Wore Into the Floor" (pathways2goodlife.com/the-groove-my-mind-wore-into-the-floor.html).
   Save its text under pathways/sources/ so runs can use it.
+- 2026-10-13 (for Oct 14): fetch blocked again (groove article too). Main from pathways/sources/the-wisdom-of-speaking-less.md (discipline of quiet);
+  evening = Bill's "be honest about the inner struggles" quote. Unused angles left in that source: "enter the room ready to receive" and
+  "speak when words add clarity, encouragement, truth, or warning" (both close to Oct 13 ideas; free from Oct 20). Source text is running out.
 - Course posts: at most 3 per week on this brand (it's the main offer), never two days in a row.
 
 ## Look

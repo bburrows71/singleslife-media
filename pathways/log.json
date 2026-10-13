@@ -506,5 +506,100 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "6824004403854920577"
+ },
+ {
+  "date": "2026-10-14",
+  "time": "12:00",
+  "slot": "main",
+  "piece": "image",
+  "area": "relationship patterns: the discipline of quiet (The Wisdom of Speaking Less)",
+  "format": "carousel 6",
+  "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
+  "hook": "Listening isn't waiting for your turn to talk.",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "7638865130700032213"
+ },
+ {
+  "date": "2026-10-14",
+  "time": "12:00",
+  "slot": "main",
+  "piece": "video",
+  "area": "relationship patterns: the discipline of quiet (The Wisdom of Speaking Less)",
+  "format": "short/reel",
+  "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
+  "hook": "Listening isn't waiting for your turn to talk.",
+  "networks": [
+   "instagram",
+   "youtube"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "3649912207521369258"
+ },
+ {
+  "date": "2026-10-14",
+  "time": "12:00",
+  "slot": "main",
+  "piece": "pin",
+  "area": "relationship patterns: the discipline of quiet (The Wisdom of Speaking Less)",
+  "format": "pin",
+  "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
+  "hook": "Listening isn't waiting for your turn to talk.",
+  "networks": [
+   "pinterest"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "4426544826001081146"
+ },
+ {
+  "date": "2026-10-14",
+  "time": "13:00",
+  "slot": "main",
+  "piece": "story",
+  "area": "relationship patterns: the discipline of quiet (The Wisdom of Speaking Less)",
+  "format": "story",
+  "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
+  "hook": "Listening isn't waiting for your turn to talk.",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "7083004265127496648"
+ },
+ {
+  "date": "2026-10-14",
+  "time": "17:00",
+  "slot": "evening",
+  "piece": "image",
+  "area": "mindset: be honest about hidden inner struggles (Bill's quote)",
+  "format": "single",
+  "source": "https://pathways2goodlife.com (Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+  "hook": "Be honest about the inner struggles most of us learn to hide.",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-860989043658371606"
+ },
+ {
+  "date": "2026-10-14",
+  "time": "17:00",
+  "slot": "evening",
+  "piece": "video",
+  "area": "mindset: be honest about hidden inner struggles (Bill's quote)",
+  "format": "short/reel",
+  "source": "https://pathways2goodlife.com (Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+  "hook": "Be honest about the inner struggles most of us learn to hide.",
+  "networks": [
+   "instagram",
+   "youtube"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-6905419654243597360"
  }
 ]
