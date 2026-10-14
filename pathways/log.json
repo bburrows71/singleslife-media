@@ -601,5 +601,100 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "-6905419654243597360"
+ },
+ {
+  "date": "2026-10-15",
+  "time": "10:00",
+  "slot": "main",
+  "piece": "image",
+  "area": "relationship patterns: I keep pushing good people away (entry point) + course mention (The Freedom Paradox)",
+  "format": "carousel",
+  "source": "https://pathways2goodlife.com (entry point, work areas and course facts as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+  "hook": "\"I keep pushing good people away.\"",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "1883873866558357538"
+ },
+ {
+  "date": "2026-10-15",
+  "time": "10:00",
+  "slot": "main",
+  "piece": "video",
+  "area": "relationship patterns: I keep pushing good people away (entry point) + course mention (The Freedom Paradox)",
+  "format": "short/reel",
+  "source": "https://pathways2goodlife.com (entry point, work areas and course facts as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+  "hook": "\"I keep pushing good people away.\"",
+  "networks": [
+   "instagram",
+   "youtube"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-7315935613627905554"
+ },
+ {
+  "date": "2026-10-15",
+  "time": "10:00",
+  "slot": "main",
+  "piece": "pin",
+  "area": "relationship patterns: I keep pushing good people away (entry point) + course mention (The Freedom Paradox)",
+  "format": "pin",
+  "source": "https://pathways2goodlife.com (entry point, work areas and course facts as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+  "hook": "\"I keep pushing good people away.\"",
+  "networks": [
+   "pinterest"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "1160269181563719195"
+ },
+ {
+  "date": "2026-10-15",
+  "time": "11:00",
+  "slot": "main",
+  "piece": "story",
+  "area": "relationship patterns: I keep pushing good people away (entry point) + course mention (The Freedom Paradox)",
+  "format": "story",
+  "source": "https://pathways2goodlife.com (entry point, work areas and course facts as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+  "hook": "\"I keep pushing good people away.\"",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-4472727136961281399"
+ },
+ {
+  "date": "2026-10-15",
+  "time": "18:00",
+  "slot": "evening",
+  "piece": "image",
+  "area": "owning less: the habits that refill the closet",
+  "format": "single",
+  "source": "https://pathways2goodlife.com (work-area text and tagline as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+  "hook": "Letting go of the things is half of it. The other half: the habits that refill the closet.",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "5047065390366738997"
+ },
+ {
+  "date": "2026-10-15",
+  "time": "18:00",
+  "slot": "evening",
+  "piece": "video",
+  "area": "owning less: the habits that refill the closet",
+  "format": "short/reel",
+  "source": "https://pathways2goodlife.com (work-area text and tagline as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+  "hook": "Letting go of the things is half of it. The other half: the habits that refill the closet.",
+  "networks": [
+   "instagram",
+   "youtube"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "5502572254309010977"
  }
 ]

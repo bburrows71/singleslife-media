@@ -72,6 +72,8 @@ Everything here overrides the Singles Life playbook for this brand.
 - 2026-10-13 (for Oct 14): fetch blocked again (groove article too). Main from pathways/sources/the-wisdom-of-speaking-less.md (discipline of quiet);
   evening = Bill's "be honest about the inner struggles" quote. Unused angles left in that source: "enter the room ready to receive" and
   "speak when words add clarity, encouragement, truth, or warning" (both close to Oct 13 ideas; free from Oct 20). Source text is running out.
+- 2026-10-14 (for Oct 15): fetch blocked again (groove article too). Main = "I keep pushing good people away" entry point + three pattern
+  names + soft Freedom Paradox mention (course post 1 of this week); evening = owning less / habits that refill the closet. Both from text recorded here.
 - Course posts: at most 3 per week on this brand (it's the main offer), never two days in a row.
 
 ## Look
