@@ -696,5 +696,100 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "5502572254309010977"
+ },
+ {
+  "date": "2026-10-16",
+  "time": "10:00",
+  "slot": "main",
+  "piece": "image",
+  "area": "brand: Less clutter. Fewer cycles. More you. (three work areas)",
+  "format": "carousel",
+  "source": "https://pathways2goodlife.com (tagline, work areas and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+  "hook": "Less clutter. Fewer cycles. More you.",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "5485458961850125641"
+ },
+ {
+  "date": "2026-10-16",
+  "time": "10:00",
+  "slot": "main",
+  "piece": "video",
+  "area": "brand: Less clutter. Fewer cycles. More you. (three work areas)",
+  "format": "short/reel",
+  "source": "https://pathways2goodlife.com (tagline, work areas and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+  "hook": "Less clutter. Fewer cycles. More you.",
+  "networks": [
+   "instagram",
+   "youtube"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "2529532039534365020"
+ },
+ {
+  "date": "2026-10-16",
+  "time": "10:00",
+  "slot": "main",
+  "piece": "pin",
+  "area": "brand: Less clutter. Fewer cycles. More you. (three work areas)",
+  "format": "pin",
+  "source": "https://pathways2goodlife.com (tagline, work areas and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+  "hook": "Less clutter. Fewer cycles. More you.",
+  "networks": [
+   "pinterest"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "6817967156295584954"
+ },
+ {
+  "date": "2026-10-16",
+  "time": "11:00",
+  "slot": "main",
+  "piece": "story",
+  "area": "brand: Less clutter. Fewer cycles. More you. (three work areas)",
+  "format": "story",
+  "source": "https://pathways2goodlife.com (tagline, work areas and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+  "hook": "Less clutter. Fewer cycles. More you.",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-5548775605423748876"
+ },
+ {
+  "date": "2026-10-16",
+  "time": "18:00",
+  "slot": "evening",
+  "piece": "image",
+  "area": "owning less / simplicity: keep daily life simple enough to have room for the work (Bill's quote)",
+  "format": "single",
+  "source": "https://pathways2goodlife.com (tagline, work areas and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+  "hook": "Keep your daily life simple enough that you have room to do that work.",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "279599223749365350"
+ },
+ {
+  "date": "2026-10-16",
+  "time": "18:00",
+  "slot": "evening",
+  "piece": "video",
+  "area": "owning less / simplicity: keep daily life simple enough to have room for the work (Bill's quote)",
+  "format": "short/reel",
+  "source": "https://pathways2goodlife.com (tagline, work areas and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+  "hook": "Keep your daily life simple enough that you have room to do that work.",
+  "networks": [
+   "instagram",
+   "youtube"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "8094828029843817804"
  }
 ]
