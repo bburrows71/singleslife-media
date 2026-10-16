@@ -76,6 +76,9 @@ Everything here overrides the Singles Life playbook for this brand.
   names + soft Freedom Paradox mention (course post 1 of this week); evening = owning less / habits that refill the closet. Both from text recorded here.
 - 2026-10-15 (for Oct 16): fetch blocked again (groove article too). Main = tagline carousel "Less clutter. Fewer cycles. More you." (three work areas);
   evening = Bill's "keep your daily life simple enough that you have room to do that work" quote. Recorded text is now nearly used up within 7 days.
+- 2026-10-16 (for Oct 17): fetch blocked again (home + groove article). Main = "I repeat the same mistakes" entry point + Freedom Paradox chapter list
+  (course post 2 of week Oct 12-18); evening = steady solo life "one income, one household, one set of shoulders". Unused recorded text left for Oct 18:
+  "My life feels cluttered and loud" (close to Oct 15-16 clutter ideas) and "I'm starting over on my own" (Singles Life used starting over Oct 10; free from Oct 17).
 - Course posts: at most 3 per week on this brand (it's the main offer), never two days in a row.
 
 ## Look

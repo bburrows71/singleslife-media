@@ -791,5 +791,100 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "8094828029843817804"
+ },
+ {
+  "date": "2026-10-17",
+  "time": "10:00",
+  "slot": "main",
+  "piece": "image",
+  "area": "relationship patterns: I repeat the same mistakes (entry point) + The Freedom Paradox chapter list (course post 2 of week)",
+  "format": "carousel",
+  "source": "https://pathways2goodlife.com (entry point, course facts and work-area text as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+  "hook": "\"I repeat the same mistakes.\"",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-895842369083389496"
+ },
+ {
+  "date": "2026-10-17",
+  "time": "10:00",
+  "slot": "main",
+  "piece": "video",
+  "area": "relationship patterns: I repeat the same mistakes (entry point) + The Freedom Paradox chapter list (course post 2 of week)",
+  "format": "short/reel",
+  "source": "https://pathways2goodlife.com (entry point, course facts and work-area text as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+  "hook": "\"I repeat the same mistakes.\"",
+  "networks": [
+   "instagram",
+   "youtube"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "1967547386155123764"
+ },
+ {
+  "date": "2026-10-17",
+  "time": "10:00",
+  "slot": "main",
+  "piece": "pin",
+  "area": "relationship patterns: I repeat the same mistakes (entry point) + The Freedom Paradox chapter list (course post 2 of week)",
+  "format": "pin",
+  "source": "https://pathways2goodlife.com (entry point, course facts and work-area text as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+  "hook": "\"I repeat the same mistakes.\"",
+  "networks": [
+   "pinterest"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-644756624174659496"
+ },
+ {
+  "date": "2026-10-17",
+  "time": "11:00",
+  "slot": "main",
+  "piece": "story",
+  "area": "relationship patterns: I repeat the same mistakes (entry point) + The Freedom Paradox chapter list (course post 2 of week)",
+  "format": "story",
+  "source": "https://pathways2goodlife.com (entry point, course facts and work-area text as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+  "hook": "\"I repeat the same mistakes.\"",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-6150770396905454594"
+ },
+ {
+  "date": "2026-10-17",
+  "time": "18:00",
+  "slot": "evening",
+  "piece": "image",
+  "area": "steady solo life: one income, one household, one set of shoulders",
+  "format": "single",
+  "source": "https://pathways2goodlife.com (entry point, course facts and work-area text as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+  "hook": "One income. One household. One set of shoulders keeping it all running.",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-3489046576336319031"
+ },
+ {
+  "date": "2026-10-17",
+  "time": "18:00",
+  "slot": "evening",
+  "piece": "video",
+  "area": "steady solo life: one income, one household, one set of shoulders",
+  "format": "short/reel",
+  "source": "https://pathways2goodlife.com (entry point, course facts and work-area text as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+  "hook": "One income. One household. One set of shoulders keeping it all running.",
+  "networks": [
+   "instagram",
+   "youtube"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-1621828177433113228"
  }
 ]
