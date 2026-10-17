@@ -886,5 +886,100 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "-1621828177433113228"
+ },
+ {
+  "date": "2026-10-18",
+  "time": "10:00",
+  "slot": "main",
+  "piece": "image",
+  "area": "relationship patterns: testing the people who love you + Bill's 'be true to yourself and your feelings'",
+  "format": "carousel",
+  "source": "https://pathways2goodlife.com (patterns, entry point, closing line and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+  "hook": "Do you test the people who love you?",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "8903170159885894364"
+ },
+ {
+  "date": "2026-10-18",
+  "time": "10:00",
+  "slot": "main",
+  "piece": "video",
+  "area": "relationship patterns: testing the people who love you + Bill's 'be true to yourself and your feelings'",
+  "format": "short/reel",
+  "source": "https://pathways2goodlife.com (patterns, entry point, closing line and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+  "hook": "Do you test the people who love you?",
+  "networks": [
+   "instagram",
+   "youtube"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-2467599216850746332"
+ },
+ {
+  "date": "2026-10-18",
+  "time": "10:00",
+  "slot": "main",
+  "piece": "pin",
+  "area": "relationship patterns: testing the people who love you + Bill's 'be true to yourself and your feelings'",
+  "format": "pin",
+  "source": "https://pathways2goodlife.com (patterns, entry point, closing line and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+  "hook": "Do you test the people who love you?",
+  "networks": [
+   "pinterest"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-1132489819645325795"
+ },
+ {
+  "date": "2026-10-18",
+  "time": "11:00",
+  "slot": "main",
+  "piece": "story",
+  "area": "relationship patterns: testing the people who love you + Bill's 'be true to yourself and your feelings'",
+  "format": "story",
+  "source": "https://pathways2goodlife.com (patterns, entry point, closing line and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+  "hook": "Do you test the people who love you?",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "2796495740432305164"
+ },
+ {
+  "date": "2026-10-18",
+  "time": "18:00",
+  "slot": "evening",
+  "piece": "image",
+  "area": "a steady solo life: I'm starting over on my own (entry point) + closing line Simple isn't easy. It's just lighter.",
+  "format": "mini carousel",
+  "source": "https://pathways2goodlife.com (patterns, entry point, closing line and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+  "hook": "\"I'm starting over on my own.\"",
+  "networks": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "6916485636970267763"
+ },
+ {
+  "date": "2026-10-18",
+  "time": "18:00",
+  "slot": "evening",
+  "piece": "video",
+  "area": "a steady solo life: I'm starting over on my own (entry point) + closing line Simple isn't easy. It's just lighter.",
+  "format": "short/reel",
+  "source": "https://pathways2goodlife.com (patterns, entry point, closing line and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+  "hook": "\"I'm starting over on my own.\"",
+  "networks": [
+   "instagram",
+   "youtube"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "1442289181223700522"
  }
 ]
