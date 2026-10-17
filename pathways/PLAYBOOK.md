@@ -79,6 +79,9 @@ Everything here overrides the Singles Life playbook for this brand.
 - 2026-10-16 (for Oct 17): fetch blocked again (home + groove article). Main = "I repeat the same mistakes" entry point + Freedom Paradox chapter list
   (course post 2 of week Oct 12-18); evening = steady solo life "one income, one household, one set of shoulders". Unused recorded text left for Oct 18:
   "My life feels cluttered and loud" (close to Oct 15-16 clutter ideas) and "I'm starting over on my own" (Singles Life used starting over Oct 10; free from Oct 17).
+- 2026-10-17 (for Oct 18, last flood day): fetch blocked again (groove article; sites absent from web search). Main = "Do you test the people who love you?"
+  (best Oct 6 performer, >7 days) + Bill's "be true to yourself and your feelings"; evening = "I'm starting over on my own" + closing line.
+  Every recorded idea has now been used within the last 14 days. Weekly mode starts; first batch Fri Oct 23 needs NEW source text in pathways/sources/.
 - Course posts: at most 3 per week on this brand (it's the main offer), never two days in a row.
 
 ## Look
