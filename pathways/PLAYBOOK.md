@@ -46,6 +46,9 @@ Everything here overrides the Singles Life playbook for this brand.
   articles into posts (the owner promotes those himself; "The Groove My Mind Wore Into the Floor" and "Right or Close" are already posted by him).
   pathways/sources/ is background for voice and themes only. Never quote or attribute new words to Bill; write in the brand voice.
   Before writing, read the owner's own IG/FB posts for the last 30 days (Metricool analytics IGPO03 / FBPO03) and don't overlap them.
+- NOT SINGLES LIFE TERRITORY (owner, 2026-10-19: "the new post ideas sound like they are based off single life"): Pathways posts are coaching / inner work.
+  No household tips, home upkeep, one-income budgeting, living-alone safety, cooking for one, solo routines, practical decluttering or shopping tips.
+  Test: if the post could run on Singles Life, don't post it on Pathways.
 - No fixed sign-off on slides: the last slide's footer is blank unless the spec sets "signoff".
 - Never reuse a hook, quote or idea that appears in pathways/log.json in the last 30 days, or in ../log.json in the last 7 days.
 - The same article at most twice in any 7 days, and never the same section twice in 30 days. Rotate articles; never the same article two days running.

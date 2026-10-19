@@ -1,37 +1,39 @@
-# Pathways original idea bank (owner, 2026-10-19: "I don't want them just based of my journal articles. I want you to create new stuff")
-Original posts written for the brand's three areas, in the plainspoken Pathways voice. Practical tools, questions, small exercises.
-Rules: no invented stats, studies, quotes, testimonials or outcomes; never put words in Bill's mouth; nothing from books Claude hasn't read;
-coaching, not therapy (no diagnosing, no clinical advice). Mark an idea [used YYYY-MM-DD] when scheduled; never reuse a used idea.
-Add 5 new ideas whenever fewer than 10 unused remain (check pathways/log.json and the owner's own IG/FB posts so nothing overlaps).
+# Pathways original idea bank (owner, 2026-10-19: "I want you to create new stuff"; "the new post ideas sound like they are based off single life")
+Pathways = life COACHING: the inner work. Self-honesty, relationship patterns, how people change, mental/emotional clutter.
+NOT Singles Life territory: no household tips, home upkeep, budgeting on one income, living-alone safety, cooking for one, solo routines,
+practical decluttering/shopping tips, "starting over on your own" logistics. If an idea could run on Singles Life, it doesn't belong here.
+Rules: plainspoken voice; questions and small exercises the reader does on themselves; no invented stats, studies, quotes, testimonials or outcomes;
+never put words in Bill's mouth; nothing from books Claude hasn't read; coaching, not therapy (no diagnosing, no clinical advice).
+Mark an idea [used YYYY-MM-DD] when scheduled; never reuse. Add 5 new coaching ideas whenever fewer than 10 unused remain.
 
-## Owning less
-1. [used 2026-10-20] Three questions before you buy it: Where will it live? What will it replace? Would I still want it next week?
-2. The "maybe" box: things you can't decide on go in a dated box; if you never open it in 60 days, you have your answer.
-3. Clear one surface a day, not one room a weekend. Small wins you can actually see.
-4. Duplicates audit: how many can openers, chargers, mugs do you really use? Keep the best one.
-5. Unsubscribe day: the clutter that arrives by email and text, and the shopping it starts.
-6. Gifts and guilt: you can keep the thought without keeping the thing.
+## Self-honesty
+1. [used 2026-10-20] Three questions for the end of a hard day: What did I feel today that I didn't say? Where did I run on autopilot? What's one thing I'd do differently tomorrow?
+2. "Fine" isn't a feeling. Try naming what's actually there, even just to yourself.
+3. What happened vs. the story you told yourself about it: write them in two columns.
+4. Listen for your "always" and "never." They're usually the story talking.
+5. What you complain about most points to what you care about most.
+6. Write down the thing you won't say out loud. Nobody has to read it.
 
-## A steady solo life
-7. The 20-minute Sunday reset for one: one load of laundry, look at this week's bills, plan three dinners, clear one surface, message one person.
-8. Your "if I get sick" shelf: what to have on hand before you need it when you live alone.
-9. Cook once, eat three ways: one batch, three different meals.
-10. One page that runs your house: bills, due dates, logins hint list, who to call for what.
-11. A standing weekly check-in with one friend, on the calendar, so connection doesn't depend on mood.
-12. Eating at the table even when it's just you: small rituals that make a home feel like yours.
+## Relationship patterns
+7. Taking space without disappearing: "I need an hour. I'll call you at 8."
+8. A boundary protects you. A punishment is meant to hurt them. Know which one you're setting.
+9. Before you hit send: wait 20 minutes, then read it out loud.
+10. After a rough conversation, ask: what did I want them to understand?
+11. An apology with "but" in it is an argument.
+12. Ask for what you need before it turns into resentment.
+13. Do you pull back right when things start going well? Notice the timing.
 
-## Relationship patterns (fresh angles only)
-13. Before you pull away, try this: name the urge, notice what happened right before it, send one honest sentence instead of silence.
-14. "I need an hour, I'll call you at 8": how to take space without disappearing.
-15. Write the text, wait 20 minutes, reread it out loud before sending.
-16. The difference between a boundary and a punishment.
-17. Notice who you're really mad at before you answer the person in front of you.
-18. A question for after a rough conversation: what did I want them to understand?
+## How change actually happens
+14. Start smaller than feels useful.
+15. A bad day isn't starting over.
+16. Pick one thing to stop this month instead of five to start.
+17. A 10-minute weekly look back: what worked, what didn't, one change.
+18. Compare yourself to last month's you, not to someone else's highlight reel.
+19. "No" is a complete sentence. You don't owe a long explanation.
 
-## Starting over / building habits
-19. Start smaller than feels useful: the two-minute version of the habit you keep postponing.
-20. Your first 30 days on your own: three things to do, three things that can wait.
-21. Make the good choice the easy one: set things out the night before.
-22. A "done" list at night instead of another to-do list.
-23. Pick one thing to stop this month, not five things to start.
-24. A weekly 10-minute look back: what worked, what didn't, one change for next week.
+## Mental clutter
+20. The open-loops list: write down everything you're carrying in your head. Then pick one to close.
+21. Audit your yeses: which commitments did you agree to out of guilt?
+22. Ten minutes with no input: no phone, no music, no podcast. Notice what comes up.
+23. Letting go of an old version of yourself you keep trying to live up to.
+24. Holding onto something because of who gave it, not because you want it.
