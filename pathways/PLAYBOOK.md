@@ -24,10 +24,28 @@ Everything here overrides the Singles Life playbook for this brand.
   Claude used that ID for the Oct 11 pin (accepted). Use it unless the owner says otherwise.
 
 ## Cadence
-- FLOOD: 14 days of daily posting, 2 slots/day (main + evening), starting the first day this brand actually
-  posts. Record that date here as `Flood start:` the first time posts are scheduled.
-- WEEKLY afterwards: every Friday, fill the next 7 days with 1 main slot per day.
+- FLOOD ran 2026-10-05 to 2026-10-18 (2 slots/day).
 - Flood start: 2026-10-05 (flood runs through 2026-10-18)
+- DAILY from 2026-10-20 (owner, 2026-10-19: "Keep doing daily posts but I want them different. I keep seeing the same posts reposted").
+  The weekly/Friday mode is cancelled. Every run schedules TOMORROW: exactly ONE post per day. Mondays also do the weekly report.
+
+## Daily format: one piece per network per day (no reposting the same thing in several formats)
+- Alternate by day of month: EVEN dates = REEL day, ODD dates = CAROUSEL day.
+  - REEL day: one video post -> instagram REEL with showReelOnFeed TRUE + facebook REEL + youtube Short. No image post, no story, no pin.
+  - CAROUSEL day: one image post -> instagram + facebook carousel (firstCommentText "Read more: <article URL>");
+    a separate youtube-only Short of the same slides (YouTube is a different audience); a Pinterest pin of the cover (board below). No IG Reel, no story.
+- No Stories, no evening slot. If a network rejects a format (e.g. facebook REEL), drop that network for that piece and note it here.
+
+## Variety rules (hard)
+- Every post is built from ONE specific section of ONE article in pathways/sources/ (or a newly fetched Journal post, saved there first).
+  Name the article + section in log.json "source".
+- Never reuse a hook, quote or idea that appears in pathways/log.json in the last 30 days, or in ../log.json in the last 7 days.
+- The same article at most twice in any 7 days, and never the same section twice in 30 days. Rotate articles; never the same article two days running.
+- Stock brand lines (tagline "Less clutter. Fewer cycles. More you.", "Simple isn't easy. It's just lighter.", "Change is possible...", the four entry-point sentences,
+  the course chapter list) were used to death in the flood: do NOT use them as hooks; at most one stock line per week, as a sign-off only.
+- Course mentions at most 2/week, never on consecutive days, always second to the idea. Pattern-post CTA can be the free pattern quiz (pathways2goodlife.com/pattern-quiz.html).
+- Each run first tries WebFetch on pathways2goodlife.com to find new Journal posts and saves notes for any new one under pathways/sources/.
+  If fetch is blocked, use pathways/sources/ (7 articles as of 2026-10-19; plenty for 30+ distinct posts).
 
 ## Brand
 - Pathways to Good Life (pathways2goodlife.com). Coach: Bill Burrows. Tagline: "Less clutter. Fewer cycles. More you."
