@@ -88,7 +88,7 @@ def slide_html(sl, i, total, slug_label, footer="pathways2goodlife.com"):
     else:
         n = sl.get("n")
         inner = (f'<div class="num">{esc(n)}</div>' if n else "") + f'<h2>{esc(sl["title"])}</h2><p class="p">{esc(sl["body"])}</p>'
-    right = '<span class="swipe">Swipe →</span>' if (total > 1 and i < total - 1) else "<span>Simple isn't easy. It's just lighter.</span>"
+    right = '<span class="swipe">Swipe →</span>' if (total > 1 and i < total - 1) else f'<span>{esc(sl.get("signoff", ""))}</span>'
     return f"""<!doctype html><html><head><meta charset="utf-8"><style>{CSS % FONTS}</style></head>
 <body style="{var}"><div class="frame">
 <div class="top"><span class="brand"><svg class="mk" viewBox="0 0 40 40" width="34" height="34"><path d="M6 34 C 14 34, 12 20, 20 20 S 26 6, 34 6" fill="none" stroke="var(--mark)" stroke-width="4" stroke-linecap="round"/><circle cx="34" cy="6" r="4.5" fill="var(--mark)"/></svg>Pathways</span><span>{count}</span></div>
