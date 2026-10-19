@@ -34,6 +34,10 @@ Every post is built from the owner's own material, quoting or closely paraphrasi
 - Each caption ends with the article URL (or course URL) followed by "(link in bio)" — the Instagram bio links to singles-life.app/blog.html. Slides say "on the blog at singles-life.app"
   rather than long URLs.
 
+## No book-based posts (owner, 2026-10-19)
+- Never build a post on ideas from books or outside authors Claude hasn't read (e.g. Tony Robbins, Ryan Holiday), even if an article mentions them.
+  Use only Bill's own words and explanations.
+
 ## Brand separation (owner, 2026-10-19)
 - Never post Pathways to Good Life content here: no pathways2goodlife.com links or Journal posts, nothing from pathways/ (its posts, sources or slides),
   no #pathwaystogoodlife. Only ever schedule to blogId 7158515; never to 7226677 (Pathways).
