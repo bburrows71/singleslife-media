@@ -71,10 +71,9 @@ Everything here overrides the Singles Life playbook for this brand.
   The Integration Blueprint, bonus content. Includes Emergency Toolkit, self-assessment quiz, partner guide,
   private student community. Link: pathways2goodlife.com (course section) or
   bill-s-site-680c.thinkific.com/products/courses/the-freedom-paradox
-- Singles Life articles (the site is built from them) on relationship patterns, habits, cycles, letting go and
-  starting over: misdirected-destruction, root-of-misdirected-destruction, pattern-quiz, root-cause-reflection,
-  breaking-the-cycles, life-harvest, habits, letting-go-of-things, after-divorce (singles-life.app/<name>.html).
-  Re-angle them for coaching; link to pathways2goodlife.com, not singles-life.app.
+- NO Singles Life content on Pathways (owner, 2026-10-19: "I don't want singles life posted on pathways2goodlife and vice-versa").
+  Never use singles-life.app articles, Singles Life posts/slides from ../posts/, Singles Life hashtags (#singlelife) or links to singles-life.app.
+  Pathways' own versions of pattern articles on pathways2goodlife.com (e.g. misdirected-destruction) are fine.
 - Don't post the same idea on both brands within 7 days: check ../log.json too.
 - 2026-10-09 run: live WebFetch of pathways2goodlife.com and singles-life.app is blocked in unattended runs (permission
   prompt unanswered). Every idea in the text recorded here was used by one of the brands within 7 days, so Oct 9
