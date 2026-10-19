@@ -1,6 +1,7 @@
 # Right or Close — Bill Burrows (Patterns)
 URL: https://pathways2goodlife.com/right-or-close.html
 Fetched 2026-10-19 (owner present). Owner already posted its hook "Do I want to be right here, or do I want to be close?" on Oct 13. Use other sections.
+OFF-LIMITS (owner, 2026-10-19): do NOT build posts on the sections that draw on books (Tony Robbins, Ryan Holiday) or on the Gottman / Rosenberg / study citations. Claude hasn't read those books. Use only Bill's own lines and the intro, threat/flooding description in Bill's words, and the three tools.
 
 ## Intro
 - "Somewhere in the middle of the argument, it stops being about what started it."
@@ -11,10 +12,10 @@ Fetched 2026-10-19 (owner present). Owner already posted its hook "Do I want to 
 - Criticism threatens self-image; self-justification excuses behavior, even reshapes memory: "the story keeps matching the person they need to believe they are."
 - Flooding (heart rate above about 100 bpm) makes listening nearly impossible. "the part of the brain that could choose differently is, measurably, offline."
 - "The anger you can see on the surface is very often standing in for something underneath it."
-## The rule you didn't know you'd written (draws on Tony Robbins)
+## [OFF-LIMITS: book-based] The rule you didn't know you'd written (draws on Tony Robbins)
 - Anger often comes from a private rule being broken. "It's about the rule they broke."
 - "What's more important? My relationship or my rules?" A decision you can make in seconds.
-## Being right is a performance. Repair is the actual work. (draws on Ryan Holiday)
+## [OFF-LIMITS: book-based] Being right is a performance. Repair is the actual work. (draws on Ryan Holiday)
 - "Needing to win the argument is a "to be" move." ... "but only one of them fixes anything."
 - Treat the relationship as the thing to build, not a scoreboard. "ego damage rarely arrives as one dramatic collapse."
 ## What actually breaks the pattern
@@ -22,9 +23,9 @@ Fetched 2026-10-19 (owner present). Owner already posted its hook "Do I want to 
   1. A pre-chosen repair phrase: "that came out wrong, let me try again."
   2. A named pause with a set return time, spent calming down, not rehearsing. "Not storming off."
   3. A silent self-check: "do I want to be right here, or do I want to be close?"
-- Gottman: stability depends more on whether repair attempts are made and accepted than on how often couples fight.
-- Rosenberg: a position (specific demand) vs the need underneath. "I need to feel like my time with you matters."
-- (Article cites a study of 500+ people linking self-compassion to real compromise; cite only as "the article cites".)
+- [OFF-LIMITS] Gottman: stability depends more on whether repair attempts are made and accepted than on how often couples fight.
+- [OFF-LIMITS] Rosenberg: a position (specific demand) vs the need underneath. "I need to feel like my time with you matters."
+- [OFF-LIMITS] (Article cites a study of 500+ people linking self-compassion to real compromise; cite only as "the article cites".)
 - "Being easier on yourself doesn't make you a pushover in a fight."
 - "The question was never whether you're capable of being right."
 - Sidebar: "This isn't a character flaw."

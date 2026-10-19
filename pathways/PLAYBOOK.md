@@ -38,6 +38,9 @@ Everything here overrides the Singles Life playbook for this brand.
 - No Stories, no evening slot. If a network rejects a format (e.g. facebook REEL), drop that network for that piece and note it here.
 
 ## Variety rules (hard)
+- NO BOOK-BASED POSTS (owner, 2026-10-19): never build a post on ideas from books or outside authors Claude hasn't read (e.g. Tony Robbins, Ryan Holiday,
+  Gottman, Rosenberg, cited studies), even when a Journal post mentions them. Sections marked [OFF-LIMITS] in pathways/sources/ are skipped.
+  Use only Bill's own words and explanations.
 - Every post is built from ONE specific section of ONE article in pathways/sources/ (or a newly fetched Journal post, saved there first).
   Name the article + section in log.json "source".
 - Never reuse a hook, quote or idea that appears in pathways/log.json in the last 30 days, or in ../log.json in the last 7 days.
