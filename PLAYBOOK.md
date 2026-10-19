@@ -40,7 +40,7 @@ Every post is built from the owner's own material, quoting or closely paraphrasi
 
 ## Brand separation (owner, 2026-10-19)
 - Never post Pathways to Good Life content here: no pathways2goodlife.com links or Journal posts, nothing from pathways/ (its posts, sources or slides),
-  no #pathwaystogoodlife. Only ever schedule to blogId 7158515; never to 7226677 (Pathways).
+  no #pathwaystogoodlife, and no cognitive-neuroscience / brain-science posts (that topic belongs to Pathways). Only ever schedule to blogId 7158515; never to 7226677 (Pathways).
 
 ## Networks (from 2026-10-03: Claude runs the whole Metricool brand)
 - Connected in Metricool: Facebook Page, Instagram (singleslife71), TikTok (singles.life4), YouTube.

@@ -49,6 +49,8 @@ Everything here overrides the Singles Life playbook for this brand.
 - NOT SINGLES LIFE TERRITORY (owner, 2026-10-19: "the new post ideas sound like they are based off single life"): Pathways posts are coaching / inner work.
   No household tips, home upkeep, one-income budgeting, living-alone safety, cooking for one, solo routines, practical decluttering or shopping tips.
   Test: if the post could run on Singles Life, don't post it on Pathways.
+- COGNITIVE NEUROSCIENCE is a Pathways topic (owner, 2026-10-19). Brain posts follow the SOURCE RULE in pathways/ideas.md (read a reputable
+  source that day, cite it in the caption, plain accurate wording, no medical advice). Aim for about 2 brain posts a week, never two days running.
 - No fixed sign-off on slides: the last slide's footer is blank unless the spec sets "signoff".
 - Never reuse a hook, quote or idea that appears in pathways/log.json in the last 30 days, or in ../log.json in the last 7 days.
 - The same article at most twice in any 7 days, and never the same section twice in 30 days. Rotate articles; never the same article two days running.

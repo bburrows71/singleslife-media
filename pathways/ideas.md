@@ -6,6 +6,24 @@ Rules: plainspoken voice; questions and small exercises the reader does on thems
 never put words in Bill's mouth; nothing from books Claude hasn't read; coaching, not therapy (no diagnosing, no clinical advice).
 Mark an idea [used YYYY-MM-DD] when scheduled; never reuse. Add 5 new coaching ideas whenever fewer than 10 unused remain.
 
+## Brain & behavior (cognitive neuroscience) — owner, 2026-10-19: "We will post anything about Cognitive Neuroscience on pathways2goodlife"
+SOURCE RULE: every brain post must rest on a reputable source the run actually reads that day (WebSearch/WebFetch: NIH/NIMH/NIA, university or
+hospital pages, peer-reviewed papers or their official summaries). Put "Source: <name>" in the caption. State only what the source says, in plain words;
+no exaggeration ("rewire your brain in 7 days"), no invented numbers, no medical advice, no diagnosing. If no source can be read, pick a coaching idea instead.
+Turn the finding into something the reader can notice or try (still coaching). Topics to research (not claims):
+B1. Neuroplasticity: what research says about how practice changes the brain over time.
+B2. Habits: how repeated behavior becomes automatic, and what helps a new habit form.
+B3. Attention: what task-switching costs and what helps focus.
+B4. Stress response: what happens in the body/brain under acute stress, and what helps it settle.
+B5. Sleep and emotion: what research says about sleep and emotional reactivity.
+B6. Naming emotions ("affect labeling"): what studies found about putting feelings into words.
+B7. Prediction: the brain as a prediction machine, and why the familiar feels safer.
+B8. Rumination vs reflection: what research distinguishes them.
+B9. Social connection and the brain: what studies say about loneliness and belonging.
+B10. Exercise and the brain: what research says about movement, mood and thinking.
+B11. Memory: why memories change each time they're recalled.
+B12. Decision fatigue / self-control: what newer research does and doesn't support.
+
 ## Self-honesty
 1. [used 2026-10-20] Three questions for the end of a hard day: What did I feel today that I didn't say? Where did I run on autopilot? What's one thing I'd do differently tomorrow?
 2. "Fine" isn't a feeling. Try naming what's actually there, even just to yourself.
