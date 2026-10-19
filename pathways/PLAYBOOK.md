@@ -100,3 +100,8 @@ Everything here overrides the Singles Life playbook for this brand.
   138 views / 132 reached); feed carousels reach 1-7 each. Best feed post: "Do you test the people who love you?" (6 interactions).
   Course-first post weakest. Facebook 0 followers / 0 views. YouTube 103 views Oct 5-8. Pattern / self-recognition hooks win.
   Owner's own drafts may sit in the planner (e.g. Oct 13 10:00): schedule around them, never on top. Report: reports/2026-10-12.md
+- 2026-10-19 (week Oct 12-18): Instagram 13 -> 78 followers (+47, mostly Oct 17-18). Reels still carry reach: "I'm starting over on my own."
+  (Oct 18 pm) 106 views / 102 reached; other Reels 3-12 views. Best feed: "Be honest about the inner struggles..." (Oct 14) 18 views / 5 interactions.
+  First-person entry-point sentences + Bill's honesty quotes win; course-chapter-list hooks are weakest. Facebook 0 followers, ~0 views.
+  YouTube 190 views Oct 12-16, 0 subs. New owner Journal post seen in IG: pathways2goodlife.com/right-or-close.html ("Do I want to be right
+  here, or do I want to be close?"), not yet readable by unattended runs. Report: reports/2026-10-19.md
