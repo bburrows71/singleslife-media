@@ -41,15 +41,18 @@ Everything here overrides the Singles Life playbook for this brand.
 - NO BOOK-BASED POSTS (owner, 2026-10-19): never build a post on ideas from books or outside authors Claude hasn't read (e.g. Tony Robbins, Ryan Holiday,
   Gottman, Rosenberg, cited studies), even when a Journal post mentions them. Sections marked [OFF-LIMITS] in pathways/sources/ are skipped.
   Use only Bill's own words and explanations.
-- Every post is built from ONE specific section of ONE article in pathways/sources/ (or a newly fetched Journal post, saved there first).
-  Name the article + section in log.json "source".
+- ORIGINAL CONTENT ONLY (owner, 2026-10-19: "I don't want them just based of my journal articles. I want you to create new stuff").
+  Build every post from an unused idea in pathways/ideas.md (mark it [used DATE]; add 5 new ideas when fewer than 10 remain). Do NOT turn Journal
+  articles into posts (the owner promotes those himself; "The Groove My Mind Wore Into the Floor" and "Right or Close" are already posted by him).
+  pathways/sources/ is background for voice and themes only. Never quote or attribute new words to Bill; write in the brand voice.
+  Before writing, read the owner's own IG/FB posts for the last 30 days (Metricool analytics IGPO03 / FBPO03) and don't overlap them.
+- No fixed sign-off on slides: the last slide's footer is blank unless the spec sets "signoff".
 - Never reuse a hook, quote or idea that appears in pathways/log.json in the last 30 days, or in ../log.json in the last 7 days.
 - The same article at most twice in any 7 days, and never the same section twice in 30 days. Rotate articles; never the same article two days running.
 - Stock brand lines (tagline "Less clutter. Fewer cycles. More you.", "Simple isn't easy. It's just lighter.", "Change is possible...", the four entry-point sentences,
   the course chapter list) were used to death in the flood: do NOT use them as hooks; at most one stock line per week, as a sign-off only.
 - Course mentions at most 2/week, never on consecutive days, always second to the idea. Pattern-post CTA can be the free pattern quiz (pathways2goodlife.com/pattern-quiz.html).
-- Each run first tries WebFetch on pathways2goodlife.com to find new Journal posts and saves notes for any new one under pathways/sources/.
-  If fetch is blocked, use pathways/sources/ (7 articles as of 2026-10-19; plenty for 30+ distinct posts).
+- Links/CTAs: pathways2goodlife.com, the free pattern quiz (pathways2goodlife.com/pattern-quiz.html) or The Freedom Paradox free Module 1 (course max 2/week).
 
 ## Brand
 - Pathways to Good Life (pathways2goodlife.com). Coach: Bill Burrows. Tagline: "Less clutter. Fewer cycles. More you."
