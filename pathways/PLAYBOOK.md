@@ -34,6 +34,7 @@ Everything here overrides the Singles Life playbook for this brand.
   - REEL day: one video post -> instagram REEL with showReelOnFeed TRUE + facebook REEL + youtube Short. No image post, no story, no pin.
   - CAROUSEL day: one image post -> instagram + facebook carousel (firstCommentText "Read more: <article URL>");
     a separate youtube-only Short of the same slides (YouTube is a different audience); a Pinterest pin of the cover (board below). No IG Reel, no story.
+- Time: REEL days 18:00 (best Reel so far went out at 6 PM); CAROUSEL days best hour 9-13 (fallback 10:00). Metricool best-time data is still all 0.
 - No Stories, no evening slot. If a network rejects a format (e.g. facebook REEL), drop that network for that piece and note it here.
 
 ## Variety rules (hard)
