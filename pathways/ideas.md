@@ -18,7 +18,7 @@ B4. Stress response: what happens in the body/brain under acute stress, and what
 B5. Sleep and emotion: what research says about sleep and emotional reactivity.
 B6. Naming emotions ("affect labeling"): what studies found about putting feelings into words.
 B7. Prediction: the brain as a prediction machine, and why the familiar feels safer.
-B8. Rumination vs reflection: what research distinguishes them.
+B8. [used 2026-10-21] Rumination vs reflection: what research distinguishes them.
 B9. Social connection and the brain: what studies say about loneliness and belonging.
 B10. Exercise and the brain: what research says about movement, mood and thinking.
 B11. Memory: why memories change each time they're recalled.
