@@ -998,5 +998,51 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "-3230436713799988001"
+ },
+ {
+  "date": "2026-10-21",
+  "time": "10:00",
+  "slot": "daily",
+  "area": "Brain & behavior",
+  "source": "https://deepblue.lib.umich.edu/bitstream/2027.42/44342/1/10608_2004_Article_464752.pdf (Treynor, Gonzalez & Nolen-Hoeksema 2003, Cognitive Therapy and Research; ideas.md B8)",
+  "hook": "Brooding or reflecting?",
+  "status": "scheduled",
+  "piece": "image",
+  "format": "carousel (IG + FB)",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "metricoolUuid": "-3079496697153109163"
+ },
+ {
+  "date": "2026-10-21",
+  "time": "10:00",
+  "slot": "daily",
+  "area": "Brain & behavior",
+  "source": "https://deepblue.lib.umich.edu/bitstream/2027.42/44342/1/10608_2004_Article_464752.pdf (Treynor, Gonzalez & Nolen-Hoeksema 2003, Cognitive Therapy and Research; ideas.md B8)",
+  "hook": "Brooding or reflecting?",
+  "status": "scheduled",
+  "piece": "video",
+  "format": "youtube short of slides",
+  "networks": [
+   "youtube"
+  ],
+  "metricoolUuid": "5784217941038088259"
+ },
+ {
+  "date": "2026-10-21",
+  "time": "10:00",
+  "slot": "daily",
+  "area": "Brain & behavior",
+  "source": "https://deepblue.lib.umich.edu/bitstream/2027.42/44342/1/10608_2004_Article_464752.pdf (Treynor, Gonzalez & Nolen-Hoeksema 2003, Cognitive Therapy and Research; ideas.md B8)",
+  "hook": "Brooding or reflecting?",
+  "status": "scheduled",
+  "piece": "pin",
+  "format": "pinterest pin of cover",
+  "networks": [
+   "pinterest"
+  ],
+  "metricoolUuid": "5369045596593539881"
  }
 ]
