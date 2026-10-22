@@ -16,7 +16,7 @@ B2. Habits: how repeated behavior becomes automatic, and what helps a new habit 
 B3. Attention: what task-switching costs and what helps focus.
 B4. Stress response: what happens in the body/brain under acute stress, and what helps it settle.
 B5. Sleep and emotion: what research says about sleep and emotional reactivity.
-B6. Naming emotions ("affect labeling"): what studies found about putting feelings into words.
+B6. [used 2026-10-23] Naming emotions ("affect labeling"): what studies found about putting feelings into words.
 B7. Prediction: the brain as a prediction machine, and why the familiar feels safer.
 B8. [used 2026-10-21] Rumination vs reflection: what research distinguishes them.
 B9. Social connection and the brain: what studies say about loneliness and belonging.
@@ -26,7 +26,7 @@ B12. Decision fatigue / self-control: what newer research does and doesn't suppo
 
 ## Self-honesty
 1. [used 2026-10-20] Three questions for the end of a hard day: What did I feel today that I didn't say? Where did I run on autopilot? What's one thing I'd do differently tomorrow?
-2. "Fine" isn't a feeling. Try naming what's actually there, even just to yourself.
+2. (close to B6, used 2026-10-23: hold until 2026-11-22) "Fine" isn't a feeling. Try naming what's actually there, even just to yourself.
 3. What happened vs. the story you told yourself about it: write them in two columns.
 4. Listen for your "always" and "never." They're usually the story talking.
 5. What you complain about most points to what you care about most.
