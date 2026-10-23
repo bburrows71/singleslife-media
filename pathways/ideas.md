@@ -42,7 +42,7 @@ B12. Decision fatigue / self-control: what newer research does and doesn't suppo
 13. Do you pull back right when things start going well? Notice the timing.
 
 ## How change actually happens
-14. Start smaller than feels useful.
+14. [used 2026-10-24] Start smaller than feels useful.
 15. A bad day isn't starting over.
 16. Pick one thing to stop this month instead of five to start.
 17. A 10-minute weekly look back: what worked, what didn't, one change.
