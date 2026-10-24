@@ -1124,5 +1124,51 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "-3777731475277789518"
+ },
+ {
+  "date": "2026-10-25",
+  "time": "10:00",
+  "slot": "daily",
+  "area": "Mental clutter",
+  "source": "original (pathways/ideas.md #20)",
+  "hook": "What are you still carrying?",
+  "status": "scheduled",
+  "piece": "image",
+  "format": "carousel (IG + FB)",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "metricoolUuid": "-694188629027372092"
+ },
+ {
+  "date": "2026-10-25",
+  "time": "10:00",
+  "slot": "daily",
+  "area": "Mental clutter",
+  "source": "original (pathways/ideas.md #20)",
+  "hook": "What are you still carrying?",
+  "status": "scheduled",
+  "piece": "video",
+  "format": "youtube short of slides",
+  "networks": [
+   "youtube"
+  ],
+  "metricoolUuid": "-1367456994222978933"
+ },
+ {
+  "date": "2026-10-25",
+  "time": "10:00",
+  "slot": "daily",
+  "area": "Mental clutter",
+  "source": "original (pathways/ideas.md #20)",
+  "hook": "What are you still carrying?",
+  "status": "scheduled",
+  "piece": "pin",
+  "format": "pinterest pin of cover",
+  "networks": [
+   "pinterest"
+  ],
+  "metricoolUuid": "2804208492684463692"
  }
 ]
