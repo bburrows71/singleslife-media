@@ -1170,5 +1170,22 @@
    "pinterest"
   ],
   "metricoolUuid": "2804208492684463692"
+ },
+ {
+  "date": "2026-10-26",
+  "time": "18:00",
+  "slot": "daily",
+  "piece": "video",
+  "area": "Brain & behavior",
+  "format": "reel (IG feed + FB reel + YT short)",
+  "source": "https://newsarchive.berkeley.edu/news/media/releases/2007/10/22_sleeploss.shtml (pathways/ideas.md B5)",
+  "hook": "Tired makes feelings louder.",
+  "networks": [
+   "instagram",
+   "facebook",
+   "youtube"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-8758377288675340709"
  }
 ]
