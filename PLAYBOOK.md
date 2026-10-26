@@ -23,7 +23,7 @@ Every post is built from the owner's own material, quoting or closely paraphrasi
   the-wisdom-of-speaking-less.html (seen 2026-10-10 in the owner's own Metricool draft; not yet read by Claude) (blog index: singles-life.app/blog.html — check for new ones).
 - Unattended runs may be unable to WebFetch singles-life.app (permission prompt unanswered). If so, skip the slot
   rather than write from memory, and tell the owner. (2026-10-09: Oct 10 evening was filled later the same day. 2026-10-10: blocked again for singles-life.app AND
-  thinkific; Oct 11 left empty. 2026-10-12: blocked again for both; Oct 13 left empty. 2026-10-13: blocked again for both; Oct 14 left empty. 2026-10-14: blocked again for both; Oct 15 left empty. 2026-10-15: blocked again for both; Oct 16 left empty. 2026-10-16 (first WEEKLY run): blocked again for both; Oct 17-23 left empty. 2026-10-23 (weekly run): blocked again for both; Oct 24-30 left empty.)
+  thinkific; Oct 11 left empty. 2026-10-12: blocked again for both; Oct 13 left empty. 2026-10-13: blocked again for both; Oct 14 left empty. 2026-10-14: blocked again for both; Oct 15 left empty. 2026-10-15: blocked again for both; Oct 16 left empty. 2026-10-16 (first WEEKLY run): blocked again for both; Oct 17-23 left empty. 2026-10-23 (weekly run): blocked again for both; Oct 24-30 left empty. 2026-10-26 (Monday report): still blocked.)
   Fix options: approve web fetches for singles-life.app + the Thinkific URL in the task's settings, or commit the
   article text into a `sources/` folder here so runs can read it from the repo.
 - The Freedom Paradox course (Thinkific, $129): bill-s-site-680c.thinkific.com/products/courses/the-freedom-paradox
@@ -116,3 +116,6 @@ The owner can still edit or delete anything in the Metricool planner before it g
   ("Ever blown up something that was actually working?": 311 TikTok + 155 IG Reel views). Pattern / self-recognition
   hooks beat checklists; single statement slides work well as video. Budgeting did best on YouTube (120 views).
   Report: reports/2026-10-12.md
+- 2026-10-26 (week Oct 19-25): nothing published since Oct 10 (source fetches blocked), so no new learnings. Old content still
+  trickles: TikTok 38 views, IG 4, FB 5, YT 3; followers IG 52, TikTok 7, FB 3, YT 50. Oct 12 conclusions stand untested.
+  Report: reports/2026-10-26.md
