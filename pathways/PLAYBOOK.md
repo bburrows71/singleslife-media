@@ -134,3 +134,6 @@ Everything here overrides the Singles Life playbook for this brand.
   First-person entry-point sentences + Bill's honesty quotes win; course-chapter-list hooks are weakest. Facebook 0 followers, ~0 views.
   YouTube 190 views Oct 12-16, 0 subs. New owner Journal post seen in IG: pathways2goodlife.com/right-or-close.html ("Do I want to be right
   here, or do I want to be close?"), not yet readable by unattended runs. Report: reports/2026-10-19.md
+- 2026-10-26 (week Oct 19-25, first daily week): Instagram 100 -> 136 followers. Best: Reel "A boundary or a punishment?" (Oct 22) 26 views / 23 reached;
+  carousels "Brooding or reflecting?" (brain, Oct 21) 16 views and "What are you still carrying?" (Oct 25) 12 views. "X or Y?" question hooks did best.
+  Other Reels 4 views. Oct 23 IG carousel missing from IG analytics (FB got it): likely failed on IG. Facebook 0 followers; YouTube 36 views. Report: reports/2026-10-26.md

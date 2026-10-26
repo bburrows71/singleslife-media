@@ -1187,5 +1187,51 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "-8758377288675340709"
+ },
+ {
+  "date": "2026-10-27",
+  "time": "09:00",
+  "slot": "daily",
+  "area": "Self-honesty",
+  "source": "original (pathways/ideas.md #3)",
+  "hook": "What happened, or the story?",
+  "status": "scheduled",
+  "piece": "image",
+  "format": "carousel (IG + FB)",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "metricoolUuid": "9193988282032737690"
+ },
+ {
+  "date": "2026-10-27",
+  "time": "09:00",
+  "slot": "daily",
+  "area": "Self-honesty",
+  "source": "original (pathways/ideas.md #3)",
+  "hook": "What happened, or the story?",
+  "status": "scheduled",
+  "piece": "video",
+  "format": "youtube short of slides",
+  "networks": [
+   "youtube"
+  ],
+  "metricoolUuid": "-6430603980668189331"
+ },
+ {
+  "date": "2026-10-27",
+  "time": "09:00",
+  "slot": "daily",
+  "area": "Self-honesty",
+  "source": "original (pathways/ideas.md #3)",
+  "hook": "What happened, or the story?",
+  "status": "scheduled",
+  "piece": "pin",
+  "format": "pinterest pin of cover",
+  "networks": [
+   "pinterest"
+  ],
+  "metricoolUuid": "1619607956493520472"
  }
 ]
