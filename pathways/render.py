@@ -48,7 +48,7 @@ h2{font-family:Brico;font-weight:400;font-size:92px;line-height:1.02;letter-spac
 .kicker{display:inline-block;align-self:flex-start;background:var(--mark);color:var(--bg);font:800 28px/1 Fig;letter-spacing:.12em;text-transform:uppercase;padding:14px 20px;border-radius:6px}
 .sub{font:500 44px/1.32 Fig;color:var(--muted);max-width:860px;text-wrap:pretty}
 .p{font:500 46px/1.36 Fig;max-width:880px;text-wrap:pretty}
-.num{font-family:Brico;font-weight:400;font-size:200px;line-height:.8;color:var(--mark)}
+.num{font-family:Brico;font-weight:400;font-size:200px;line-height:.8;color:var(--mark);margin-bottom:28px}
 ul{list-style:none;display:flex;flex-direction:column;gap:30px}
 li{display:grid;grid-template-columns:62px 1fr;gap:26px;align-items:start;font:600 46px/1.25 Fig}
 li .box{width:52px;height:52px;border-width:5px;border-radius:9px;margin-top:2px}
