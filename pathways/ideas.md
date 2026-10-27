@@ -33,7 +33,7 @@ B12. Decision fatigue / self-control: what newer research does and doesn't suppo
 6. Write down the thing you won't say out loud. Nobody has to read it.
 
 ## Relationship patterns
-7. Taking space without disappearing: "I need an hour. I'll call you at 8."
+7. [used 2026-10-28] Taking space without disappearing: "I need an hour. I'll call you at 8."
 8. [used 2026-10-22] A boundary protects you. A punishment is meant to hurt them. Know which one you're setting.
 9. Before you hit send: wait 20 minutes, then read it out loud.
 10. After a rough conversation, ask: what did I want them to understand?
