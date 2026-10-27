@@ -1233,5 +1233,22 @@
    "pinterest"
   ],
   "metricoolUuid": "1619607956493520472"
+ },
+ {
+  "date": "2026-10-28",
+  "time": "18:00",
+  "slot": "daily",
+  "piece": "video",
+  "area": "Relationship patterns",
+  "format": "reel (IG feed + FB reel + YT short)",
+  "source": "original (pathways/ideas.md #7)",
+  "hook": "Take space. Don't disappear.",
+  "networks": [
+   "instagram",
+   "facebook",
+   "youtube"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "1389354349617955147"
  }
 ]
