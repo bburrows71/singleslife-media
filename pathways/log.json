@@ -1250,5 +1250,51 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "1389354349617955147"
+ },
+ {
+  "date": "2026-10-29",
+  "time": "10:00",
+  "slot": "daily",
+  "area": "Brain & behavior",
+  "source": "https://www.health.harvard.edu/healthy-aging-and-longevity/understanding-the-stress-response (pathways/ideas.md B4)",
+  "hook": "Your body reacts first.",
+  "status": "scheduled",
+  "piece": "image",
+  "format": "carousel (IG + FB)",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "metricoolUuid": "600580691556321790"
+ },
+ {
+  "date": "2026-10-29",
+  "time": "10:00",
+  "slot": "daily",
+  "area": "Brain & behavior",
+  "source": "https://www.health.harvard.edu/healthy-aging-and-longevity/understanding-the-stress-response (pathways/ideas.md B4)",
+  "hook": "Your body reacts first.",
+  "status": "scheduled",
+  "piece": "video",
+  "format": "youtube short of slides",
+  "networks": [
+   "youtube"
+  ],
+  "metricoolUuid": "-8464768445026710816"
+ },
+ {
+  "date": "2026-10-29",
+  "time": "10:00",
+  "slot": "daily",
+  "area": "Brain & behavior",
+  "source": "https://www.health.harvard.edu/healthy-aging-and-longevity/understanding-the-stress-response (pathways/ideas.md B4)",
+  "hook": "Your body reacts first.",
+  "status": "scheduled",
+  "piece": "pin",
+  "format": "pinterest pin of cover",
+  "networks": [
+   "pinterest"
+  ],
+  "metricoolUuid": "-7887748307660092335"
  }
 ]
