@@ -51,7 +51,7 @@ B12. Decision fatigue / self-control: what newer research does and doesn't suppo
 
 ## Mental clutter
 20. [used 2026-10-25] The open-loops list: write down everything you're carrying in your head. Then pick one to close.
-21. Audit your yeses: which commitments did you agree to out of guilt?
+21. [used 2026-10-31] Audit your yeses: which commitments did you agree to out of guilt?
 22. Ten minutes with no input: no phone, no music, no podcast. Notice what comes up.
 23. Letting go of an old version of yourself you keep trying to live up to.
 24. Holding onto something because of who gave it, not because you want it.
