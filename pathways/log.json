@@ -1313,5 +1313,51 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "-4563553037138377442"
+ },
+ {
+  "date": "2026-10-31",
+  "time": "11:00",
+  "slot": "daily",
+  "area": "Mental clutter",
+  "source": "original (pathways/ideas.md #21)",
+  "hook": "Did you say yes, or did you feel guilty?",
+  "status": "scheduled",
+  "piece": "image",
+  "format": "carousel (IG + FB)",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "metricoolUuid": "8862800356695493709"
+ },
+ {
+  "date": "2026-10-31",
+  "time": "11:00",
+  "slot": "daily",
+  "area": "Mental clutter",
+  "source": "original (pathways/ideas.md #21)",
+  "hook": "Did you say yes, or did you feel guilty?",
+  "status": "scheduled",
+  "piece": "video",
+  "format": "youtube short of slides",
+  "networks": [
+   "youtube"
+  ],
+  "metricoolUuid": "-7188161955161816408"
+ },
+ {
+  "date": "2026-10-31",
+  "time": "11:00",
+  "slot": "daily",
+  "area": "Mental clutter",
+  "source": "original (pathways/ideas.md #21)",
+  "hook": "Did you say yes, or did you feel guilty?",
+  "status": "scheduled",
+  "piece": "pin",
+  "format": "pinterest pin of cover",
+  "networks": [
+   "pinterest"
+  ],
+  "metricoolUuid": "880715643228537641"
  }
 ]
