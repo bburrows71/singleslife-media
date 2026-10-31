@@ -1359,5 +1359,51 @@
    "pinterest"
   ],
   "metricoolUuid": "880715643228537641"
+ },
+ {
+  "date": "2026-11-01",
+  "time": "09:00",
+  "slot": "daily",
+  "area": "Relationship patterns",
+  "source": "original (pathways/ideas.md #13)",
+  "hook": "Do you pull back when it's good?",
+  "status": "scheduled",
+  "piece": "2026-11-01-pull-back",
+  "format": "carousel (IG + FB)",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "metricoolUuid": "3774948985774689703"
+ },
+ {
+  "date": "2026-11-01",
+  "time": "09:00",
+  "slot": "daily",
+  "area": "Relationship patterns",
+  "source": "original (pathways/ideas.md #13)",
+  "hook": "Do you pull back when it's good?",
+  "status": "scheduled",
+  "piece": "2026-11-01-pull-back-video",
+  "format": "youtube short of slides",
+  "networks": [
+   "youtube"
+  ],
+  "metricoolUuid": "-7404414708455944215"
+ },
+ {
+  "date": "2026-11-01",
+  "time": "09:00",
+  "slot": "daily",
+  "area": "Relationship patterns",
+  "source": "original (pathways/ideas.md #13)",
+  "hook": "Do you pull back when it's good?",
+  "status": "scheduled",
+  "piece": "2026-11-01-pull-back-01",
+  "format": "pinterest pin of cover",
+  "networks": [
+   "pinterest"
+  ],
+  "metricoolUuid": "179848626112446481"
  }
 ]
