@@ -39,7 +39,7 @@ B12. Decision fatigue / self-control: what newer research does and doesn't suppo
 10. After a rough conversation, ask: what did I want them to understand?
 11. An apology with "but" in it is an argument.
 12. Ask for what you need before it turns into resentment.
-13. Do you pull back right when things start going well? Notice the timing.
+13. [used 2026-11-01] Do you pull back right when things start going well? Notice the timing.
 
 ## How change actually happens
 14. [used 2026-10-24] Start smaller than feels useful.
