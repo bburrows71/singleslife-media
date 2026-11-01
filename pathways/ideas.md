@@ -13,7 +13,7 @@ no exaggeration ("rewire your brain in 7 days"), no invented numbers, no medical
 Turn the finding into something the reader can notice or try (still coaching). Topics to research (not claims):
 B1. Neuroplasticity: what research says about how practice changes the brain over time.
 B2. Habits: how repeated behavior becomes automatic, and what helps a new habit form.
-B3. Attention: what task-switching costs and what helps focus.
+B3. [used 2026-11-02] Attention: what task-switching costs and what helps focus.
 B4. [used 2026-10-29] Stress response: what happens in the body/brain under acute stress, and what helps it settle.
 B5. [used 2026-10-26] Sleep and emotion: what research says about sleep and emotional reactivity.
 B6. [used 2026-10-23] Naming emotions ("affect labeling"): what studies found about putting feelings into words.
