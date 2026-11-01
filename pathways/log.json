@@ -1405,5 +1405,22 @@
    "pinterest"
   ],
   "metricoolUuid": "179848626112446481"
+ },
+ {
+  "date": "2026-11-02",
+  "time": "18:00",
+  "slot": "daily",
+  "piece": "video",
+  "area": "Brain & behavior",
+  "format": "reel (IG feed + FB reel + YT short)",
+  "source": "https://www.apa.org/topics/research/multitasking (pathways/ideas.md B3)",
+  "hook": "Every switch costs something.",
+  "networks": [
+   "instagram",
+   "facebook",
+   "youtube"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-648345893826770430"
  }
 ]
