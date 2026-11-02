@@ -29,7 +29,7 @@ B12. Decision fatigue / self-control: what newer research does and doesn't suppo
 2. (close to B6, used 2026-10-23: hold until 2026-11-22) "Fine" isn't a feeling. Try naming what's actually there, even just to yourself.
 3. [used 2026-10-27] What happened vs. the story you told yourself about it: write them in two columns.
 4. Listen for your "always" and "never." They're usually the story talking.
-5. What you complain about most points to what you care about most.
+5. [used 2026-11-03] What you complain about most points to what you care about most.
 6. Write down the thing you won't say out loud. Nobody has to read it.
 
 ## Relationship patterns

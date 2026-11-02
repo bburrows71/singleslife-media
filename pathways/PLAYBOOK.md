@@ -137,3 +137,6 @@ Everything here overrides the Singles Life playbook for this brand.
 - 2026-10-26 (week Oct 19-25, first daily week): Instagram 100 -> 136 followers. Best: Reel "A boundary or a punishment?" (Oct 22) 26 views / 23 reached;
   carousels "Brooding or reflecting?" (brain, Oct 21) 16 views and "What are you still carrying?" (Oct 25) 12 views. "X or Y?" question hooks did best.
   Other Reels 4 views. Oct 23 IG carousel missing from IG analytics (FB got it): likely failed on IG. Facebook 0 followers; YouTube 36 views. Report: reports/2026-10-26.md
+- 2026-11-02 (week Oct 26-Nov 1): Instagram 134 -> 137 followers. Best: Reel "Take space. Don't disappear." (Oct 28) 73 views / 66 reached, a concrete
+  sentence to use; carousels "Your body reacts first." (brain, Oct 29) 24 views / 4 interactions and "What happened, or the story?" 19 views. Encouragement Reels
+  weakest ("A bad day isn't starting over." 3 views). Facebook 0 followers; YouTube 251 views, 0 subs. Report: reports/2026-11-02.md
