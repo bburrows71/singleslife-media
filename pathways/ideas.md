@@ -37,7 +37,7 @@ B12. Decision fatigue / self-control: what newer research does and doesn't suppo
 8. [used 2026-10-22] A boundary protects you. A punishment is meant to hurt them. Know which one you're setting.
 9. Before you hit send: wait 20 minutes, then read it out loud.
 10. After a rough conversation, ask: what did I want them to understand?
-11. An apology with "but" in it is an argument.
+11. [used 2026-11-04] An apology with "but" in it is an argument.
 12. Ask for what you need before it turns into resentment.
 13. [used 2026-11-01] Do you pull back right when things start going well? Notice the timing.
 

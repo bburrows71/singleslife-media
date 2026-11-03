@@ -1,0 +1,39 @@
+{
+ "slug": "2026-11-04-sorry-but",
+ "slides": [
+  {
+   "type": "cover",
+   "theme": "ink",
+   "kicker": "Relationship patterns",
+   "title": "“I’m sorry, *but…”*",
+   "sub": "Listen to what comes after the comma."
+  },
+  {
+   "type": "point",
+   "theme": "paper",
+   "n": "1",
+   "title": "The \"but\" cancels it.",
+   "body": "Whatever came before it, the other person hears what comes after. That's usually the defense."
+  },
+  {
+   "type": "point",
+   "theme": "paper",
+   "n": "2",
+   "title": "Now it's an argument.",
+   "body": "\"I'm sorry, but you were yelling too\" asks them to apologize back. The conversation starts over."
+  },
+  {
+   "type": "point",
+   "theme": "paper",
+   "n": "3",
+   "title": "Two talks, not one.",
+   "body": "Your side of it matters. It can wait for its own conversation, after the apology has landed."
+  },
+  {
+   "type": "cta",
+   "theme": "sage",
+   "title": "Stop at the period.",
+   "body": "\"I'm sorry I snapped at you.\" Then stop. Notice what you want to add, and what it's protecting."
+  }
+ ]
+}
