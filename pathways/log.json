@@ -1468,5 +1468,22 @@
    "pinterest"
   ],
   "metricoolUuid": "-6276299117653176413"
+ },
+ {
+  "date": "2026-11-04",
+  "time": "18:00",
+  "slot": "daily",
+  "piece": "2026-11-04-sorry-but-video",
+  "area": "Relationship patterns",
+  "format": "reel (IG feed + FB reel + YT short)",
+  "source": "original (pathways/ideas.md #11)",
+  "hook": "An apology with \"but\" in it is an argument.",
+  "networks": [
+   "instagram",
+   "facebook",
+   "youtube"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-4438400988902699778"
  }
 ]
