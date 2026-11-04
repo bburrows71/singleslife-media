@@ -1485,5 +1485,51 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "-4438400988902699778"
+ },
+ {
+  "date": "2026-11-05",
+  "time": "09:00",
+  "slot": "daily",
+  "area": "Brain & behavior",
+  "source": "https://www.mpi.nl/news/our-brain-prediction-machine-always-active (ideas.md B7)",
+  "hook": "Your brain is always guessing.",
+  "status": "scheduled",
+  "piece": "2026-11-05-guessing",
+  "format": "carousel (IG + FB)",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "metricoolUuid": "-7167877706903500008"
+ },
+ {
+  "date": "2026-11-05",
+  "time": "09:00",
+  "slot": "daily",
+  "area": "Brain & behavior",
+  "source": "https://www.mpi.nl/news/our-brain-prediction-machine-always-active (ideas.md B7)",
+  "hook": "Your brain is always guessing.",
+  "status": "scheduled",
+  "piece": "2026-11-05-guessing-video",
+  "format": "youtube short of slides",
+  "networks": [
+   "youtube"
+  ],
+  "metricoolUuid": "-2801851293783407313"
+ },
+ {
+  "date": "2026-11-05",
+  "time": "09:00",
+  "slot": "daily",
+  "area": "Brain & behavior",
+  "source": "https://www.mpi.nl/news/our-brain-prediction-machine-always-active (ideas.md B7)",
+  "hook": "Your brain is always guessing.",
+  "status": "scheduled",
+  "piece": "2026-11-05-guessing-01",
+  "format": "pinterest pin of cover",
+  "networks": [
+   "pinterest"
+  ],
+  "metricoolUuid": "-8458004986025523174"
  }
 ]
