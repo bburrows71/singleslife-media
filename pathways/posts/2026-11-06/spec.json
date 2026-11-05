@@ -1,0 +1,10 @@
+{
+ "slug": "2026-11-06-stop-one",
+ "slides": [
+  {"type": "cover", "theme": "ink", "kicker": "How change happens", "title": "Stop *one thing* first.", "sub": "Before you start five new ones."},
+  {"type": "point", "theme": "paper", "n": "1", "title": "Starting is the easy part.", "body": "A new plan feels good on day one. Then it piles on top of everything that was already there."},
+  {"type": "point", "theme": "paper", "n": "2", "title": "What keeps undoing it?", "body": "Most of us already know the one habit that quietly cancels the rest. Look for that first."},
+  {"type": "point", "theme": "paper", "n": "3", "title": "Make it small and clear.", "body": "Not \"stop being so negative.\" Something you'd catch: \"Stop saying I'm fine when I'm not.\" \"Stop replaying the argument at night.\""},
+  {"type": "cta", "theme": "sage", "title": "One for this month.", "body": "Finish the sentence: \"This month I'm stopping ___.\" Then notice what that habit was doing for you."}
+ ]
+}
