@@ -1531,5 +1531,22 @@
    "pinterest"
   ],
   "metricoolUuid": "-8458004986025523174"
+ },
+ {
+  "date": "2026-11-06",
+  "time": "18:00",
+  "slot": "daily",
+  "piece": "2026-11-06-stop-one-video",
+  "area": "How change actually happens",
+  "format": "reel (IG feed + FB reel + YT short)",
+  "source": "original (pathways/ideas.md #16)",
+  "hook": "Stop one thing first.",
+  "networks": [
+   "instagram",
+   "facebook",
+   "youtube"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-2699671523828479803"
  }
 ]
