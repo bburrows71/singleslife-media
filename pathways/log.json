@@ -1548,5 +1548,51 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "-2699671523828479803"
+ },
+ {
+  "date": "2026-11-07",
+  "time": "10:00",
+  "slot": "daily",
+  "area": "Mental clutter",
+  "source": "original (pathways/ideas.md #23)",
+  "hook": "Who are you still trying to be?",
+  "status": "scheduled",
+  "piece": "2026-11-07-old-version",
+  "format": "carousel (IG + FB)",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "metricoolUuid": "1877254962690345160"
+ },
+ {
+  "date": "2026-11-07",
+  "time": "10:00",
+  "slot": "daily",
+  "area": "Mental clutter",
+  "source": "original (pathways/ideas.md #23)",
+  "hook": "Who are you still trying to be?",
+  "status": "scheduled",
+  "piece": "2026-11-07-old-version-video",
+  "format": "youtube short of slides",
+  "networks": [
+   "youtube"
+  ],
+  "metricoolUuid": "-7724366411919243730"
+ },
+ {
+  "date": "2026-11-07",
+  "time": "10:00",
+  "slot": "daily",
+  "area": "Mental clutter",
+  "source": "original (pathways/ideas.md #23)",
+  "hook": "Who are you still trying to be?",
+  "status": "scheduled",
+  "piece": "2026-11-07-old-version-01",
+  "format": "pinterest pin of cover",
+  "networks": [
+   "pinterest"
+  ],
+  "metricoolUuid": "3214593202072142025"
  }
 ]
