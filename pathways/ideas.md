@@ -11,7 +11,7 @@ SOURCE RULE: every brain post must rest on a reputable source the run actually r
 hospital pages, peer-reviewed papers or their official summaries). Put "Source: <name>" in the caption. State only what the source says, in plain words;
 no exaggeration ("rewire your brain in 7 days"), no invented numbers, no medical advice, no diagnosing. If no source can be read, pick a coaching idea instead.
 Turn the finding into something the reader can notice or try (still coaching). Topics to research (not claims):
-B1. Neuroplasticity: what research says about how practice changes the brain over time.
+B1. [used 2026-11-09] Neuroplasticity: what research says about how practice changes the brain over time.
 B2. Habits: how repeated behavior becomes automatic, and what helps a new habit form.
 B3. [used 2026-11-02] Attention: what task-switching costs and what helps focus.
 B4. [used 2026-10-29] Stress response: what happens in the body/brain under acute stress, and what helps it settle.
