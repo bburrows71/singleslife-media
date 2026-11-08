@@ -1611,5 +1611,51 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "-8756613275624256579"
+ },
+ {
+  "date": "2026-11-09",
+  "time": "10:00",
+  "slot": "daily",
+  "piece": "2026-11-09-practice",
+  "area": "Brain & behavior",
+  "format": "carousel (IG + FB)",
+  "source": "https://ox.ac.uk/node/8103 (pathways/ideas.md B1)",
+  "hook": "Practice counts before it looks good.",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-6127479040502706490"
+ },
+ {
+  "date": "2026-11-09",
+  "time": "10:00",
+  "slot": "daily",
+  "piece": "2026-11-09-practice-video",
+  "area": "Brain & behavior",
+  "format": "youtube short of slides",
+  "source": "https://ox.ac.uk/node/8103 (pathways/ideas.md B1)",
+  "hook": "Practice counts before it looks good.",
+  "networks": [
+   "youtube"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-1855625629275566386"
+ },
+ {
+  "date": "2026-11-09",
+  "time": "10:00",
+  "slot": "daily",
+  "piece": "2026-11-09-practice-01",
+  "area": "Brain & behavior",
+  "format": "pinterest pin of cover",
+  "source": "https://ox.ac.uk/node/8103 (pathways/ideas.md B1)",
+  "hook": "Practice counts before it looks good.",
+  "networks": [
+   "pinterest"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-3079955472950410329"
  }
 ]
