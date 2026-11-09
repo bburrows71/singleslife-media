@@ -1657,5 +1657,22 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "-3079955472950410329"
+ },
+ {
+  "date": "2026-11-10",
+  "time": "18:00",
+  "slot": "daily",
+  "piece": "2026-11-10-before-send-video",
+  "area": "Relationship patterns",
+  "format": "reel (IG feed + FB reel + YT short)",
+  "source": "original (pathways/ideas.md #9)",
+  "hook": "Wait before you hit send.",
+  "networks": [
+   "instagram",
+   "facebook",
+   "youtube"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "-1035997525852795630"
  }
 ]
