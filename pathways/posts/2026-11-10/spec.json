@@ -1,0 +1,10 @@
+{
+ "slug": "2026-11-10-before-send",
+ "slides": [
+  {"type": "cover", "theme": "ink", "kicker": "Relationship patterns", "title": "Wait before you hit *send*.", "sub": "Twenty minutes. Then read it out loud."},
+  {"type": "point", "theme": "paper", "n": "1", "title": "Write it. Don't send it.", "body": "When a message is hot, get it all out. Type every word. Then leave it sitting in drafts."},
+  {"type": "point", "theme": "paper", "n": "2", "title": "Wait twenty minutes.", "body": "Walk, breathe, do something else. Let the heat drop before you decide what goes out."},
+  {"type": "point", "theme": "paper", "n": "3", "title": "Read it out loud.", "body": "Hear it the way they will. Would you say this to their face, in this tone? What would you cut?"},
+  {"type": "cta", "theme": "sage", "title": "Try it this week.", "body": "Next hot message: save it as a draft, set a timer, read it aloud before it goes. Notice what you changed."}
+ ]
+}

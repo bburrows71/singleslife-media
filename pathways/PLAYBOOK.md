@@ -140,3 +140,6 @@ Everything here overrides the Singles Life playbook for this brand.
 - 2026-11-02 (week Oct 26-Nov 1): Instagram 134 -> 137 followers. Best: Reel "Take space. Don't disappear." (Oct 28) 73 views / 66 reached, a concrete
   sentence to use; carousels "Your body reacts first." (brain, Oct 29) 24 views / 4 interactions and "What happened, or the story?" 19 views. Encouragement Reels
   weakest ("A bad day isn't starting over." 3 views). Facebook 0 followers; YouTube 251 views, 0 subs. Report: reports/2026-11-02.md
+- 2026-11-09 (week Nov 2-8): Instagram 137 -> 134 followers (0 gained, 3 lost). Reels carry the reach: "An apology with 'but' in it is an argument." (Nov 4)
+  68 views / 66 reached and brain Reel "Every switch costs something." (Nov 2, APA) 65 / 59 / 3 interactions; every Reel beat every carousel (carousels 10-25 views).
+  Concrete-sentence relationship Reels win again. Facebook 0 followers; YouTube 268 views Nov 2-6, 0 subs. Report: reports/2026-11-09.md
