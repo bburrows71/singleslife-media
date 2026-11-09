@@ -122,3 +122,6 @@ The owner can still edit or delete anything in the Metricool planner before it g
 - 2026-11-02 (week Oct 26-Nov 1): third straight week with nothing published (sources still blocked). Old content nearly flat:
   TikTok 6 views, FB 2, YT 1, IG 0 reach; IG followers 52 -> 51, others flat (TikTok 7, FB 3, YT 50). No new learnings.
   Report: reports/2026-11-02.md
+- 2026-11-09 (week Nov 2-8): fourth straight week with nothing published (sources still blocked). IG followers rose anyway 51 -> 55
+  (13 views, 8 reached); TikTok 7 -> 8 (1 view); FB flat at 3 (0 activity); YT flat at 50 (1 view). No new learnings.
+  Report: reports/2026-11-09.md
