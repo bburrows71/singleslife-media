@@ -46,7 +46,7 @@ B12. Decision fatigue / self-control: what newer research does and doesn't suppo
 15. [used 2026-10-30] A bad day isn't starting over.
 16. [used 2026-11-06] Pick one thing to stop this month instead of five to start.
 17. A 10-minute weekly look back: what worked, what didn't, one change.
-18. Compare yourself to last month's you, not to someone else's highlight reel.
+18. [used 2026-11-11] Compare yourself to last month's you, not to someone else's highlight reel.
 19. "No" is a complete sentence. You don't owe a long explanation.
 
 ## Mental clutter
