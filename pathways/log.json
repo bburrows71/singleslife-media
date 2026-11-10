@@ -1,1678 +1,1724 @@
 [
- {
-  "date": "2026-10-05",
-  "time": "11:00",
-  "slot": "main",
-  "piece": "image",
-  "area": "intro: four pathways + three areas",
-  "format": "carousel-6",
-  "source": "https://pathways2goodlife.com",
-  "hook": "What feels heaviest right now? (Which pathway are you on?)",
-  "networks": [
-   "facebook",
-   "instagram"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-4764195202704453990"
- },
- {
-  "date": "2026-10-05",
-  "time": "11:00",
-  "slot": "main",
-  "piece": "video",
-  "area": "intro: four pathways + three areas",
-  "format": "short",
-  "source": "https://pathways2goodlife.com",
-  "hook": "What feels heaviest right now? (Which pathway are you on?)",
-  "networks": [
-   "youtube",
-   "instagram TRIAL_REEL"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-4827229542091699322"
- },
- {
-  "date": "2026-10-05",
-  "time": "12:00",
-  "slot": "main",
-  "piece": "story",
-  "area": "intro: four pathways + three areas",
-  "format": "story",
-  "source": "https://pathways2goodlife.com",
-  "hook": "What feels heaviest right now? (Which pathway are you on?)",
-  "networks": [
-   "instagram STORY",
-   "facebook STORY"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "9115051004523530264"
- },
- {
-  "date": "2026-10-05",
-  "time": "18:30",
-  "slot": "evening",
-  "piece": "image",
-  "area": "simplicity: what simple means",
-  "format": "carousel-5",
-  "source": "https://pathways2goodlife.com",
-  "hook": "\"Simple\" doesn't mean easy.",
-  "networks": [
-   "facebook",
-   "instagram"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-9168220128975958934"
- },
- {
-  "date": "2026-10-05",
-  "time": "18:30",
-  "slot": "evening",
-  "piece": "video",
-  "area": "simplicity: what simple means",
-  "format": "short",
-  "source": "https://pathways2goodlife.com",
-  "hook": "\"Simple\" doesn't mean easy.",
-  "networks": [
-   "youtube",
-   "instagram TRIAL_REEL"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-2629688435254735598"
- },
- {
-  "date": "2026-10-06",
-  "area": "a steady solo life",
-  "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
-  "hook": "One set of shoulders (one income, one household, one person)",
-  "status": "scheduled",
-  "time": "10:00",
-  "slot": "main",
-  "piece": "image",
-  "format": "carousel-3",
-  "networks": [
-   "facebook",
-   "instagram"
-  ],
-  "metricoolUuid": "-883879514791851206"
- },
- {
-  "date": "2026-10-06",
-  "area": "a steady solo life",
-  "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
-  "hook": "One set of shoulders (one income, one household, one person)",
-  "status": "scheduled",
-  "time": "10:00",
-  "slot": "main",
-  "piece": "video",
-  "format": "short",
-  "networks": [
-   "youtube"
-  ],
-  "metricoolUuid": "4389751201547898737"
- },
- {
-  "date": "2026-10-06",
-  "area": "a steady solo life",
-  "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
-  "hook": "One set of shoulders (one income, one household, one person)",
-  "status": "scheduled",
-  "time": "11:00",
-  "slot": "main",
-  "piece": "story",
-  "format": "story",
-  "networks": [
-   "instagram STORY",
-   "facebook STORY"
-  ],
-  "metricoolUuid": "-1536952891341061790"
- },
- {
-  "date": "2026-10-06",
-  "area": "relationship patterns: testing the people who love you",
-  "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
-  "hook": "Do you test the people who love you?",
-  "status": "scheduled",
-  "time": "17:00",
-  "slot": "evening",
-  "piece": "image",
-  "format": "carousel-2",
-  "networks": [
-   "facebook",
-   "instagram"
-  ],
-  "metricoolUuid": "3426839686973442948"
- },
- {
-  "date": "2026-10-06",
-  "area": "relationship patterns: testing the people who love you",
-  "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
-  "hook": "Do you test the people who love you?",
-  "status": "scheduled",
-  "time": "17:00",
-  "slot": "evening",
-  "piece": "video",
-  "format": "short",
-  "networks": [
-   "youtube"
-  ],
-  "metricoolUuid": "-977153144753993766"
- },
- {
-  "date": "2026-10-07",
-  "area": "relationship patterns: repeating the same mistakes (Bill's three starting points)",
-  "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
-  "hook": "I repeat the same mistakes.",
-  "status": "scheduled",
-  "time": "12:00",
-  "slot": "main",
-  "piece": "image",
-  "format": "carousel-5",
-  "networks": [
-   "facebook",
-   "instagram"
-  ],
-  "metricoolUuid": "-1150161182044896594"
- },
- {
-  "date": "2026-10-07",
-  "area": "relationship patterns: repeating the same mistakes (Bill's three starting points)",
-  "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
-  "hook": "I repeat the same mistakes.",
-  "status": "scheduled",
-  "time": "12:00",
-  "slot": "main",
-  "piece": "video",
-  "format": "short",
-  "networks": [
-   "youtube",
-   "instagram REEL (off-grid)"
-  ],
-  "metricoolUuid": "-298327789660126745"
- },
- {
-  "date": "2026-10-07",
-  "area": "relationship patterns: repeating the same mistakes (Bill's three starting points)",
-  "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
-  "hook": "I repeat the same mistakes.",
-  "status": "scheduled",
-  "time": "13:00",
-  "slot": "main",
-  "piece": "story",
-  "format": "story",
-  "networks": [
-   "instagram STORY",
-   "facebook STORY"
-  ],
-  "metricoolUuid": "-7692765973832578934"
- },
- {
-  "date": "2026-10-07",
-  "area": "owning less: cluttered and loud",
-  "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
-  "hook": "Does your life feel cluttered and loud?",
-  "status": "scheduled",
-  "time": "17:00",
-  "slot": "evening",
-  "piece": "image",
-  "format": "carousel-2",
-  "networks": [
-   "facebook",
-   "instagram"
-  ],
-  "metricoolUuid": "3965428144316697846"
- },
- {
-  "date": "2026-10-07",
-  "area": "owning less: cluttered and loud",
-  "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
-  "hook": "Does your life feel cluttered and loud?",
-  "status": "scheduled",
-  "time": "17:00",
-  "slot": "evening",
-  "piece": "video",
-  "format": "short",
-  "networks": [
-   "youtube",
-   "instagram REEL (off-grid)"
-  ],
-  "metricoolUuid": "-7807681303968594931"
- },
- {
-  "date": "2026-10-08",
-  "area": "course: The Freedom Paradox (free chapter: The Invisible Wall)",
-  "source": "https://bill-s-site-680c.thinkific.com/products/courses/the-freedom-paradox (course facts as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
-  "hook": "Start with The Invisible Wall.",
-  "status": "scheduled",
-  "time": "10:00",
-  "slot": "main",
-  "piece": "image",
-  "format": "carousel-5",
-  "networks": [
-   "facebook",
-   "instagram"
-  ],
-  "metricoolUuid": "5100867039461524951"
- },
- {
-  "date": "2026-10-08",
-  "area": "course: The Freedom Paradox (free chapter: The Invisible Wall)",
-  "source": "https://bill-s-site-680c.thinkific.com/products/courses/the-freedom-paradox (course facts as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
-  "hook": "Start with The Invisible Wall.",
-  "status": "scheduled",
-  "time": "10:00",
-  "slot": "main",
-  "piece": "video",
-  "format": "short",
-  "networks": [
-   "youtube",
-   "instagram REEL (off-grid)"
-  ],
-  "metricoolUuid": "-4763756309414918104"
- },
- {
-  "date": "2026-10-08",
-  "area": "course: The Freedom Paradox (free chapter: The Invisible Wall)",
-  "source": "https://bill-s-site-680c.thinkific.com/products/courses/the-freedom-paradox (course facts as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
-  "hook": "Start with The Invisible Wall.",
-  "status": "scheduled",
-  "time": "11:00",
-  "slot": "main",
-  "piece": "story",
-  "format": "story",
-  "networks": [
-   "instagram STORY",
-   "facebook STORY"
-  ],
-  "metricoolUuid": "6173511797178781553"
- },
- {
-  "date": "2026-10-08",
-  "area": "a steady solo life: I'm starting over on my own (entry point)",
-  "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
-  "hook": "I'm starting over on my own.",
-  "status": "scheduled",
-  "time": "18:00",
-  "slot": "evening",
-  "piece": "image",
-  "format": "carousel-2",
-  "networks": [
-   "facebook",
-   "instagram"
-  ],
-  "metricoolUuid": "-5544969811661141009"
- },
- {
-  "date": "2026-10-08",
-  "area": "a steady solo life: I'm starting over on my own (entry point)",
-  "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
-  "hook": "I'm starting over on my own.",
-  "status": "scheduled",
-  "time": "18:00",
-  "slot": "evening",
-  "piece": "video",
-  "format": "short",
-  "networks": [
-   "youtube",
-   "instagram REEL (off-grid)"
-  ],
-  "metricoolUuid": "-8936789414105494623"
- },
- {
-  "date": "2026-10-11",
-  "time": "10:00",
-  "slot": "main",
-  "piece": "image",
-  "area": "relationship patterns: listen first (The Wisdom of Speaking Less)",
-  "format": "carousel",
-  "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
-  "hook": "First listen. Then understand. Then speak.",
-  "networks": [
-   "facebook",
-   "instagram"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "6393031144925775340"
- },
- {
-  "date": "2026-10-11",
-  "time": "10:00",
-  "slot": "main",
-  "piece": "video",
-  "area": "relationship patterns: listen first (The Wisdom of Speaking Less)",
-  "format": "video",
-  "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
-  "hook": "First listen. Then understand. Then speak.",
-  "networks": [
-   "youtube",
-   "instagram-reel"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-2698739121194908623"
- },
- {
-  "date": "2026-10-11",
-  "time": "10:00",
-  "slot": "main",
-  "piece": "pin",
-  "area": "relationship patterns: listen first (The Wisdom of Speaking Less)",
-  "format": "pin",
-  "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
-  "hook": "First listen. Then understand. Then speak.",
-  "networks": [
-   "pinterest"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "7325156432310258835"
- },
- {
-  "date": "2026-10-11",
-  "time": "11:00",
-  "slot": "main",
-  "piece": "story",
-  "area": "relationship patterns: listen first (The Wisdom of Speaking Less)",
-  "format": "story",
-  "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
-  "hook": "First listen. Then understand. Then speak.",
-  "networks": [
-   "instagram",
-   "facebook"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "8439065818708396740"
- },
- {
-  "date": "2026-10-11",
-  "time": "18:00",
-  "slot": "evening",
-  "piece": "image",
-  "area": "relationship patterns: breaking the talk-without-listening loop (The Wisdom of Speaking Less)",
-  "format": "carousel",
-  "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
-  "hook": "Talking without listening is a loop.",
-  "networks": [
-   "facebook",
-   "instagram"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "8808820605296200137"
- },
- {
-  "date": "2026-10-11",
-  "time": "18:00",
-  "slot": "evening",
-  "piece": "video",
-  "area": "relationship patterns: breaking the talk-without-listening loop (The Wisdom of Speaking Less)",
-  "format": "video",
-  "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
-  "hook": "Talking without listening is a loop.",
-  "networks": [
-   "youtube",
-   "instagram-reel"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-7004519900686367904"
- },
- {
-  "date": "2026-10-13",
-  "time": "12:00",
-  "slot": "main",
-  "piece": "image",
-  "area": "relationship patterns: leave room to learn / humility (The Wisdom of Speaking Less)",
-  "format": "carousel",
-  "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
-  "hook": "You don't have to be the smartest person in the room.",
-  "networks": [
-   "facebook",
-   "instagram"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "4786260911020591304"
- },
- {
-  "date": "2026-10-13",
-  "time": "12:00",
-  "slot": "main",
-  "piece": "video",
-  "area": "relationship patterns: leave room to learn / humility (The Wisdom of Speaking Less)",
-  "format": "video",
-  "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
-  "hook": "You don't have to be the smartest person in the room.",
-  "networks": [
-   "youtube",
-   "instagram-reel"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-3517663737935738917"
- },
- {
-  "date": "2026-10-13",
-  "time": "12:00",
-  "slot": "main",
-  "piece": "pin",
-  "area": "relationship patterns: leave room to learn / humility (The Wisdom of Speaking Less)",
-  "format": "pin",
-  "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
-  "hook": "You don't have to be the smartest person in the room.",
-  "networks": [
-   "pinterest"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "7132751476688896604"
- },
- {
-  "date": "2026-10-13",
-  "time": "13:00",
-  "slot": "main",
-  "piece": "story",
-  "area": "relationship patterns: leave room to learn / humility (The Wisdom of Speaking Less)",
-  "format": "story",
-  "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
-  "hook": "You don't have to be the smartest person in the room.",
-  "networks": [
-   "instagram",
-   "facebook"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-5464528818594296911"
- },
- {
-  "date": "2026-10-13",
-  "time": "17:00",
-  "slot": "evening",
-  "piece": "image",
-  "area": "mindset: change is possible (Bill's quote)",
-  "format": "single",
-  "source": "https://pathways2goodlife.com (Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
-  "hook": "Change is possible for anyone. Is it easy? No. But it can be done.",
-  "networks": [
-   "facebook",
-   "instagram"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-608668379636412794"
- },
- {
-  "date": "2026-10-13",
-  "time": "17:00",
-  "slot": "evening",
-  "piece": "video",
-  "area": "mindset: change is possible (Bill's quote)",
-  "format": "video",
-  "source": "https://pathways2goodlife.com (Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
-  "hook": "Change is possible for anyone. Is it easy? No. But it can be done.",
-  "networks": [
-   "youtube",
-   "instagram-reel"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "6824004403854920577"
- },
- {
-  "date": "2026-10-14",
-  "time": "12:00",
-  "slot": "main",
-  "piece": "image",
-  "area": "relationship patterns: the discipline of quiet (The Wisdom of Speaking Less)",
-  "format": "carousel 6",
-  "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
-  "hook": "Listening isn't waiting for your turn to talk.",
-  "networks": [
-   "facebook",
-   "instagram"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "7638865130700032213"
- },
- {
-  "date": "2026-10-14",
-  "time": "12:00",
-  "slot": "main",
-  "piece": "video",
-  "area": "relationship patterns: the discipline of quiet (The Wisdom of Speaking Less)",
-  "format": "short/reel",
-  "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
-  "hook": "Listening isn't waiting for your turn to talk.",
-  "networks": [
-   "instagram",
-   "youtube"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "3649912207521369258"
- },
- {
-  "date": "2026-10-14",
-  "time": "12:00",
-  "slot": "main",
-  "piece": "pin",
-  "area": "relationship patterns: the discipline of quiet (The Wisdom of Speaking Less)",
-  "format": "pin",
-  "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
-  "hook": "Listening isn't waiting for your turn to talk.",
-  "networks": [
-   "pinterest"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "4426544826001081146"
- },
- {
-  "date": "2026-10-14",
-  "time": "13:00",
-  "slot": "main",
-  "piece": "story",
-  "area": "relationship patterns: the discipline of quiet (The Wisdom of Speaking Less)",
-  "format": "story",
-  "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
-  "hook": "Listening isn't waiting for your turn to talk.",
-  "networks": [
-   "facebook",
-   "instagram"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "7083004265127496648"
- },
- {
-  "date": "2026-10-14",
-  "time": "17:00",
-  "slot": "evening",
-  "piece": "image",
-  "area": "mindset: be honest about hidden inner struggles (Bill's quote)",
-  "format": "single",
-  "source": "https://pathways2goodlife.com (Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
-  "hook": "Be honest about the inner struggles most of us learn to hide.",
-  "networks": [
-   "facebook",
-   "instagram"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-860989043658371606"
- },
- {
-  "date": "2026-10-14",
-  "time": "17:00",
-  "slot": "evening",
-  "piece": "video",
-  "area": "mindset: be honest about hidden inner struggles (Bill's quote)",
-  "format": "short/reel",
-  "source": "https://pathways2goodlife.com (Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
-  "hook": "Be honest about the inner struggles most of us learn to hide.",
-  "networks": [
-   "instagram",
-   "youtube"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-6905419654243597360"
- },
- {
-  "date": "2026-10-15",
-  "time": "10:00",
-  "slot": "main",
-  "piece": "image",
-  "area": "relationship patterns: I keep pushing good people away (entry point) + course mention (The Freedom Paradox)",
-  "format": "carousel",
-  "source": "https://pathways2goodlife.com (entry point, work areas and course facts as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
-  "hook": "\"I keep pushing good people away.\"",
-  "networks": [
-   "facebook",
-   "instagram"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "1883873866558357538"
- },
- {
-  "date": "2026-10-15",
-  "time": "10:00",
-  "slot": "main",
-  "piece": "video",
-  "area": "relationship patterns: I keep pushing good people away (entry point) + course mention (The Freedom Paradox)",
-  "format": "short/reel",
-  "source": "https://pathways2goodlife.com (entry point, work areas and course facts as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
-  "hook": "\"I keep pushing good people away.\"",
-  "networks": [
-   "instagram",
-   "youtube"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-7315935613627905554"
- },
- {
-  "date": "2026-10-15",
-  "time": "10:00",
-  "slot": "main",
-  "piece": "pin",
-  "area": "relationship patterns: I keep pushing good people away (entry point) + course mention (The Freedom Paradox)",
-  "format": "pin",
-  "source": "https://pathways2goodlife.com (entry point, work areas and course facts as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
-  "hook": "\"I keep pushing good people away.\"",
-  "networks": [
-   "pinterest"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "1160269181563719195"
- },
- {
-  "date": "2026-10-15",
-  "time": "11:00",
-  "slot": "main",
-  "piece": "story",
-  "area": "relationship patterns: I keep pushing good people away (entry point) + course mention (The Freedom Paradox)",
-  "format": "story",
-  "source": "https://pathways2goodlife.com (entry point, work areas and course facts as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
-  "hook": "\"I keep pushing good people away.\"",
-  "networks": [
-   "facebook",
-   "instagram"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-4472727136961281399"
- },
- {
-  "date": "2026-10-15",
-  "time": "18:00",
-  "slot": "evening",
-  "piece": "image",
-  "area": "owning less: the habits that refill the closet",
-  "format": "single",
-  "source": "https://pathways2goodlife.com (work-area text and tagline as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
-  "hook": "Letting go of the things is half of it. The other half: the habits that refill the closet.",
-  "networks": [
-   "facebook",
-   "instagram"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "5047065390366738997"
- },
- {
-  "date": "2026-10-15",
-  "time": "18:00",
-  "slot": "evening",
-  "piece": "video",
-  "area": "owning less: the habits that refill the closet",
-  "format": "short/reel",
-  "source": "https://pathways2goodlife.com (work-area text and tagline as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
-  "hook": "Letting go of the things is half of it. The other half: the habits that refill the closet.",
-  "networks": [
-   "instagram",
-   "youtube"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "5502572254309010977"
- },
- {
-  "date": "2026-10-16",
-  "time": "10:00",
-  "slot": "main",
-  "piece": "image",
-  "area": "brand: Less clutter. Fewer cycles. More you. (three work areas)",
-  "format": "carousel",
-  "source": "https://pathways2goodlife.com (tagline, work areas and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
-  "hook": "Less clutter. Fewer cycles. More you.",
-  "networks": [
-   "facebook",
-   "instagram"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "5485458961850125641"
- },
- {
-  "date": "2026-10-16",
-  "time": "10:00",
-  "slot": "main",
-  "piece": "video",
-  "area": "brand: Less clutter. Fewer cycles. More you. (three work areas)",
-  "format": "short/reel",
-  "source": "https://pathways2goodlife.com (tagline, work areas and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
-  "hook": "Less clutter. Fewer cycles. More you.",
-  "networks": [
-   "instagram",
-   "youtube"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "2529532039534365020"
- },
- {
-  "date": "2026-10-16",
-  "time": "10:00",
-  "slot": "main",
-  "piece": "pin",
-  "area": "brand: Less clutter. Fewer cycles. More you. (three work areas)",
-  "format": "pin",
-  "source": "https://pathways2goodlife.com (tagline, work areas and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
-  "hook": "Less clutter. Fewer cycles. More you.",
-  "networks": [
-   "pinterest"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "6817967156295584954"
- },
- {
-  "date": "2026-10-16",
-  "time": "11:00",
-  "slot": "main",
-  "piece": "story",
-  "area": "brand: Less clutter. Fewer cycles. More you. (three work areas)",
-  "format": "story",
-  "source": "https://pathways2goodlife.com (tagline, work areas and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
-  "hook": "Less clutter. Fewer cycles. More you.",
-  "networks": [
-   "facebook",
-   "instagram"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-5548775605423748876"
- },
- {
-  "date": "2026-10-16",
-  "time": "18:00",
-  "slot": "evening",
-  "piece": "image",
-  "area": "owning less / simplicity: keep daily life simple enough to have room for the work (Bill's quote)",
-  "format": "single",
-  "source": "https://pathways2goodlife.com (tagline, work areas and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
-  "hook": "Keep your daily life simple enough that you have room to do that work.",
-  "networks": [
-   "facebook",
-   "instagram"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "279599223749365350"
- },
- {
-  "date": "2026-10-16",
-  "time": "18:00",
-  "slot": "evening",
-  "piece": "video",
-  "area": "owning less / simplicity: keep daily life simple enough to have room for the work (Bill's quote)",
-  "format": "short/reel",
-  "source": "https://pathways2goodlife.com (tagline, work areas and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
-  "hook": "Keep your daily life simple enough that you have room to do that work.",
-  "networks": [
-   "instagram",
-   "youtube"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "8094828029843817804"
- },
- {
-  "date": "2026-10-17",
-  "time": "10:00",
-  "slot": "main",
-  "piece": "image",
-  "area": "relationship patterns: I repeat the same mistakes (entry point) + The Freedom Paradox chapter list (course post 2 of week)",
-  "format": "carousel",
-  "source": "https://pathways2goodlife.com (entry point, course facts and work-area text as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
-  "hook": "\"I repeat the same mistakes.\"",
-  "networks": [
-   "facebook",
-   "instagram"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-895842369083389496"
- },
- {
-  "date": "2026-10-17",
-  "time": "10:00",
-  "slot": "main",
-  "piece": "video",
-  "area": "relationship patterns: I repeat the same mistakes (entry point) + The Freedom Paradox chapter list (course post 2 of week)",
-  "format": "short/reel",
-  "source": "https://pathways2goodlife.com (entry point, course facts and work-area text as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
-  "hook": "\"I repeat the same mistakes.\"",
-  "networks": [
-   "instagram",
-   "youtube"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "1967547386155123764"
- },
- {
-  "date": "2026-10-17",
-  "time": "10:00",
-  "slot": "main",
-  "piece": "pin",
-  "area": "relationship patterns: I repeat the same mistakes (entry point) + The Freedom Paradox chapter list (course post 2 of week)",
-  "format": "pin",
-  "source": "https://pathways2goodlife.com (entry point, course facts and work-area text as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
-  "hook": "\"I repeat the same mistakes.\"",
-  "networks": [
-   "pinterest"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-644756624174659496"
- },
- {
-  "date": "2026-10-17",
-  "time": "11:00",
-  "slot": "main",
-  "piece": "story",
-  "area": "relationship patterns: I repeat the same mistakes (entry point) + The Freedom Paradox chapter list (course post 2 of week)",
-  "format": "story",
-  "source": "https://pathways2goodlife.com (entry point, course facts and work-area text as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
-  "hook": "\"I repeat the same mistakes.\"",
-  "networks": [
-   "facebook",
-   "instagram"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-6150770396905454594"
- },
- {
-  "date": "2026-10-17",
-  "time": "18:00",
-  "slot": "evening",
-  "piece": "image",
-  "area": "steady solo life: one income, one household, one set of shoulders",
-  "format": "single",
-  "source": "https://pathways2goodlife.com (entry point, course facts and work-area text as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
-  "hook": "One income. One household. One set of shoulders keeping it all running.",
-  "networks": [
-   "facebook",
-   "instagram"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-3489046576336319031"
- },
- {
-  "date": "2026-10-17",
-  "time": "18:00",
-  "slot": "evening",
-  "piece": "video",
-  "area": "steady solo life: one income, one household, one set of shoulders",
-  "format": "short/reel",
-  "source": "https://pathways2goodlife.com (entry point, course facts and work-area text as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
-  "hook": "One income. One household. One set of shoulders keeping it all running.",
-  "networks": [
-   "instagram",
-   "youtube"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-1621828177433113228"
- },
- {
-  "date": "2026-10-18",
-  "time": "10:00",
-  "slot": "main",
-  "piece": "image",
-  "area": "relationship patterns: testing the people who love you + Bill's 'be true to yourself and your feelings'",
-  "format": "carousel",
-  "source": "https://pathways2goodlife.com (patterns, entry point, closing line and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
-  "hook": "Do you test the people who love you?",
-  "networks": [
-   "facebook",
-   "instagram"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "8903170159885894364"
- },
- {
-  "date": "2026-10-18",
-  "time": "10:00",
-  "slot": "main",
-  "piece": "video",
-  "area": "relationship patterns: testing the people who love you + Bill's 'be true to yourself and your feelings'",
-  "format": "short/reel",
-  "source": "https://pathways2goodlife.com (patterns, entry point, closing line and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
-  "hook": "Do you test the people who love you?",
-  "networks": [
-   "instagram",
-   "youtube"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-2467599216850746332"
- },
- {
-  "date": "2026-10-18",
-  "time": "10:00",
-  "slot": "main",
-  "piece": "pin",
-  "area": "relationship patterns: testing the people who love you + Bill's 'be true to yourself and your feelings'",
-  "format": "pin",
-  "source": "https://pathways2goodlife.com (patterns, entry point, closing line and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
-  "hook": "Do you test the people who love you?",
-  "networks": [
-   "pinterest"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-1132489819645325795"
- },
- {
-  "date": "2026-10-18",
-  "time": "11:00",
-  "slot": "main",
-  "piece": "story",
-  "area": "relationship patterns: testing the people who love you + Bill's 'be true to yourself and your feelings'",
-  "format": "story",
-  "source": "https://pathways2goodlife.com (patterns, entry point, closing line and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
-  "hook": "Do you test the people who love you?",
-  "networks": [
-   "facebook",
-   "instagram"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "2796495740432305164"
- },
- {
-  "date": "2026-10-18",
-  "time": "18:00",
-  "slot": "evening",
-  "piece": "image",
-  "area": "a steady solo life: I'm starting over on my own (entry point) + closing line Simple isn't easy. It's just lighter.",
-  "format": "mini carousel",
-  "source": "https://pathways2goodlife.com (patterns, entry point, closing line and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
-  "hook": "\"I'm starting over on my own.\"",
-  "networks": [
-   "facebook",
-   "instagram"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "6916485636970267763"
- },
- {
-  "date": "2026-10-18",
-  "time": "18:00",
-  "slot": "evening",
-  "piece": "video",
-  "area": "a steady solo life: I'm starting over on my own (entry point) + closing line Simple isn't easy. It's just lighter.",
-  "format": "short/reel",
-  "source": "https://pathways2goodlife.com (patterns, entry point, closing line and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
-  "hook": "\"I'm starting over on my own.\"",
-  "networks": [
-   "instagram",
-   "youtube"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "1442289181223700522"
- },
- {
-  "date": "2026-10-20",
-  "time": "18:00",
-  "slot": "daily",
-  "piece": "video",
-  "area": "Self-honesty",
-  "format": "reel (IG feed + FB reel + YT short)",
-  "source": "original (pathways/ideas.md #1)",
-  "hook": "Three questions for the end of a hard day",
-  "networks": [
-   "instagram",
-   "facebook",
-   "youtube"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-3230436713799988001"
- },
- {
-  "date": "2026-10-21",
-  "time": "10:00",
-  "slot": "daily",
-  "area": "Brain & behavior",
-  "source": "https://deepblue.lib.umich.edu/bitstream/2027.42/44342/1/10608_2004_Article_464752.pdf (Treynor, Gonzalez & Nolen-Hoeksema 2003, Cognitive Therapy and Research; ideas.md B8)",
-  "hook": "Brooding or reflecting?",
-  "status": "scheduled",
-  "piece": "image",
-  "format": "carousel (IG + FB)",
-  "networks": [
-   "instagram",
-   "facebook"
-  ],
-  "metricoolUuid": "-3079496697153109163"
- },
- {
-  "date": "2026-10-21",
-  "time": "10:00",
-  "slot": "daily",
-  "area": "Brain & behavior",
-  "source": "https://deepblue.lib.umich.edu/bitstream/2027.42/44342/1/10608_2004_Article_464752.pdf (Treynor, Gonzalez & Nolen-Hoeksema 2003, Cognitive Therapy and Research; ideas.md B8)",
-  "hook": "Brooding or reflecting?",
-  "status": "scheduled",
-  "piece": "video",
-  "format": "youtube short of slides",
-  "networks": [
-   "youtube"
-  ],
-  "metricoolUuid": "5784217941038088259"
- },
- {
-  "date": "2026-10-21",
-  "time": "10:00",
-  "slot": "daily",
-  "area": "Brain & behavior",
-  "source": "https://deepblue.lib.umich.edu/bitstream/2027.42/44342/1/10608_2004_Article_464752.pdf (Treynor, Gonzalez & Nolen-Hoeksema 2003, Cognitive Therapy and Research; ideas.md B8)",
-  "hook": "Brooding or reflecting?",
-  "status": "scheduled",
-  "piece": "pin",
-  "format": "pinterest pin of cover",
-  "networks": [
-   "pinterest"
-  ],
-  "metricoolUuid": "5369045596593539881"
- },
- {
-  "date": "2026-10-22",
-  "time": "18:00",
-  "slot": "daily",
-  "piece": "video",
-  "area": "Relationship patterns",
-  "format": "reel (IG feed + FB reel + YT short)",
-  "source": "original (pathways/ideas.md #8)",
-  "hook": "A boundary or a punishment?",
-  "networks": [
-   "instagram",
-   "facebook",
-   "youtube"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-6076018158497216895"
- },
- {
-  "date": "2026-10-23",
-  "time": "09:00",
-  "slot": "daily",
-  "area": "Brain & behavior",
-  "source": "https://www.uclahealth.org/news/release/putting-feelings-into-words-produces-therapeutic-effects-in-the-brain-ucla-neuroimaging-study-supports-ancient-buddhist-teachings (Lieberman et al. 2007, Psychological Science; ideas.md B6)",
-  "hook": "Name it to slow it down",
-  "status": "scheduled",
-  "piece": "image",
-  "format": "carousel (IG + FB)",
-  "networks": [
-   "instagram",
-   "facebook"
-  ],
-  "metricoolUuid": "-6096878035830617603"
- },
- {
-  "date": "2026-10-23",
-  "time": "09:00",
-  "slot": "daily",
-  "area": "Brain & behavior",
-  "source": "https://www.uclahealth.org/news/release/putting-feelings-into-words-produces-therapeutic-effects-in-the-brain-ucla-neuroimaging-study-supports-ancient-buddhist-teachings (Lieberman et al. 2007, Psychological Science; ideas.md B6)",
-  "hook": "Name it to slow it down",
-  "status": "scheduled",
-  "piece": "video",
-  "format": "youtube short of slides",
-  "networks": [
-   "youtube"
-  ],
-  "metricoolUuid": "5622674905751440404"
- },
- {
-  "date": "2026-10-23",
-  "time": "09:00",
-  "slot": "daily",
-  "area": "Brain & behavior",
-  "source": "https://www.uclahealth.org/news/release/putting-feelings-into-words-produces-therapeutic-effects-in-the-brain-ucla-neuroimaging-study-supports-ancient-buddhist-teachings (Lieberman et al. 2007, Psychological Science; ideas.md B6)",
-  "hook": "Name it to slow it down",
-  "status": "scheduled",
-  "piece": "pin",
-  "format": "pinterest pin of cover",
-  "networks": [
-   "pinterest"
-  ],
-  "metricoolUuid": "-9138796546610740786"
- },
- {
-  "date": "2026-10-24",
-  "time": "18:00",
-  "slot": "daily",
-  "piece": "video",
-  "area": "How change actually happens",
-  "format": "reel (IG feed + FB reel + YT short)",
-  "source": "original (pathways/ideas.md #14)",
-  "hook": "Start smaller than feels useful.",
-  "networks": [
-   "instagram",
-   "facebook",
-   "youtube"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-3777731475277789518"
- },
- {
-  "date": "2026-10-25",
-  "time": "10:00",
-  "slot": "daily",
-  "area": "Mental clutter",
-  "source": "original (pathways/ideas.md #20)",
-  "hook": "What are you still carrying?",
-  "status": "scheduled",
-  "piece": "image",
-  "format": "carousel (IG + FB)",
-  "networks": [
-   "instagram",
-   "facebook"
-  ],
-  "metricoolUuid": "-694188629027372092"
- },
- {
-  "date": "2026-10-25",
-  "time": "10:00",
-  "slot": "daily",
-  "area": "Mental clutter",
-  "source": "original (pathways/ideas.md #20)",
-  "hook": "What are you still carrying?",
-  "status": "scheduled",
-  "piece": "video",
-  "format": "youtube short of slides",
-  "networks": [
-   "youtube"
-  ],
-  "metricoolUuid": "-1367456994222978933"
- },
- {
-  "date": "2026-10-25",
-  "time": "10:00",
-  "slot": "daily",
-  "area": "Mental clutter",
-  "source": "original (pathways/ideas.md #20)",
-  "hook": "What are you still carrying?",
-  "status": "scheduled",
-  "piece": "pin",
-  "format": "pinterest pin of cover",
-  "networks": [
-   "pinterest"
-  ],
-  "metricoolUuid": "2804208492684463692"
- },
- {
-  "date": "2026-10-26",
-  "time": "18:00",
-  "slot": "daily",
-  "piece": "video",
-  "area": "Brain & behavior",
-  "format": "reel (IG feed + FB reel + YT short)",
-  "source": "https://newsarchive.berkeley.edu/news/media/releases/2007/10/22_sleeploss.shtml (pathways/ideas.md B5)",
-  "hook": "Tired makes feelings louder.",
-  "networks": [
-   "instagram",
-   "facebook",
-   "youtube"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-8758377288675340709"
- },
- {
-  "date": "2026-10-27",
-  "time": "09:00",
-  "slot": "daily",
-  "area": "Self-honesty",
-  "source": "original (pathways/ideas.md #3)",
-  "hook": "What happened, or the story?",
-  "status": "scheduled",
-  "piece": "image",
-  "format": "carousel (IG + FB)",
-  "networks": [
-   "instagram",
-   "facebook"
-  ],
-  "metricoolUuid": "9193988282032737690"
- },
- {
-  "date": "2026-10-27",
-  "time": "09:00",
-  "slot": "daily",
-  "area": "Self-honesty",
-  "source": "original (pathways/ideas.md #3)",
-  "hook": "What happened, or the story?",
-  "status": "scheduled",
-  "piece": "video",
-  "format": "youtube short of slides",
-  "networks": [
-   "youtube"
-  ],
-  "metricoolUuid": "-6430603980668189331"
- },
- {
-  "date": "2026-10-27",
-  "time": "09:00",
-  "slot": "daily",
-  "area": "Self-honesty",
-  "source": "original (pathways/ideas.md #3)",
-  "hook": "What happened, or the story?",
-  "status": "scheduled",
-  "piece": "pin",
-  "format": "pinterest pin of cover",
-  "networks": [
-   "pinterest"
-  ],
-  "metricoolUuid": "1619607956493520472"
- },
- {
-  "date": "2026-10-28",
-  "time": "18:00",
-  "slot": "daily",
-  "piece": "video",
-  "area": "Relationship patterns",
-  "format": "reel (IG feed + FB reel + YT short)",
-  "source": "original (pathways/ideas.md #7)",
-  "hook": "Take space. Don't disappear.",
-  "networks": [
-   "instagram",
-   "facebook",
-   "youtube"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "1389354349617955147"
- },
- {
-  "date": "2026-10-29",
-  "time": "10:00",
-  "slot": "daily",
-  "area": "Brain & behavior",
-  "source": "https://www.health.harvard.edu/healthy-aging-and-longevity/understanding-the-stress-response (pathways/ideas.md B4)",
-  "hook": "Your body reacts first.",
-  "status": "scheduled",
-  "piece": "image",
-  "format": "carousel (IG + FB)",
-  "networks": [
-   "instagram",
-   "facebook"
-  ],
-  "metricoolUuid": "600580691556321790"
- },
- {
-  "date": "2026-10-29",
-  "time": "10:00",
-  "slot": "daily",
-  "area": "Brain & behavior",
-  "source": "https://www.health.harvard.edu/healthy-aging-and-longevity/understanding-the-stress-response (pathways/ideas.md B4)",
-  "hook": "Your body reacts first.",
-  "status": "scheduled",
-  "piece": "video",
-  "format": "youtube short of slides",
-  "networks": [
-   "youtube"
-  ],
-  "metricoolUuid": "-8464768445026710816"
- },
- {
-  "date": "2026-10-29",
-  "time": "10:00",
-  "slot": "daily",
-  "area": "Brain & behavior",
-  "source": "https://www.health.harvard.edu/healthy-aging-and-longevity/understanding-the-stress-response (pathways/ideas.md B4)",
-  "hook": "Your body reacts first.",
-  "status": "scheduled",
-  "piece": "pin",
-  "format": "pinterest pin of cover",
-  "networks": [
-   "pinterest"
-  ],
-  "metricoolUuid": "-7887748307660092335"
- },
- {
-  "date": "2026-10-30",
-  "time": "18:00",
-  "slot": "daily",
-  "piece": "video",
-  "area": "How change actually happens",
-  "format": "reel (IG feed + FB reel + YT short)",
-  "source": "original (pathways/ideas.md #15)",
-  "hook": "A bad day isn't starting over.",
-  "networks": [
-   "instagram",
-   "facebook",
-   "youtube"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-4563553037138377442"
- },
- {
-  "date": "2026-10-31",
-  "time": "11:00",
-  "slot": "daily",
-  "area": "Mental clutter",
-  "source": "original (pathways/ideas.md #21)",
-  "hook": "Did you say yes, or did you feel guilty?",
-  "status": "scheduled",
-  "piece": "image",
-  "format": "carousel (IG + FB)",
-  "networks": [
-   "instagram",
-   "facebook"
-  ],
-  "metricoolUuid": "8862800356695493709"
- },
- {
-  "date": "2026-10-31",
-  "time": "11:00",
-  "slot": "daily",
-  "area": "Mental clutter",
-  "source": "original (pathways/ideas.md #21)",
-  "hook": "Did you say yes, or did you feel guilty?",
-  "status": "scheduled",
-  "piece": "video",
-  "format": "youtube short of slides",
-  "networks": [
-   "youtube"
-  ],
-  "metricoolUuid": "-7188161955161816408"
- },
- {
-  "date": "2026-10-31",
-  "time": "11:00",
-  "slot": "daily",
-  "area": "Mental clutter",
-  "source": "original (pathways/ideas.md #21)",
-  "hook": "Did you say yes, or did you feel guilty?",
-  "status": "scheduled",
-  "piece": "pin",
-  "format": "pinterest pin of cover",
-  "networks": [
-   "pinterest"
-  ],
-  "metricoolUuid": "880715643228537641"
- },
- {
-  "date": "2026-11-01",
-  "time": "09:00",
-  "slot": "daily",
-  "area": "Relationship patterns",
-  "source": "original (pathways/ideas.md #13)",
-  "hook": "Do you pull back when it's good?",
-  "status": "scheduled",
-  "piece": "2026-11-01-pull-back",
-  "format": "carousel (IG + FB)",
-  "networks": [
-   "instagram",
-   "facebook"
-  ],
-  "metricoolUuid": "3774948985774689703"
- },
- {
-  "date": "2026-11-01",
-  "time": "09:00",
-  "slot": "daily",
-  "area": "Relationship patterns",
-  "source": "original (pathways/ideas.md #13)",
-  "hook": "Do you pull back when it's good?",
-  "status": "scheduled",
-  "piece": "2026-11-01-pull-back-video",
-  "format": "youtube short of slides",
-  "networks": [
-   "youtube"
-  ],
-  "metricoolUuid": "-7404414708455944215"
- },
- {
-  "date": "2026-11-01",
-  "time": "09:00",
-  "slot": "daily",
-  "area": "Relationship patterns",
-  "source": "original (pathways/ideas.md #13)",
-  "hook": "Do you pull back when it's good?",
-  "status": "scheduled",
-  "piece": "2026-11-01-pull-back-01",
-  "format": "pinterest pin of cover",
-  "networks": [
-   "pinterest"
-  ],
-  "metricoolUuid": "179848626112446481"
- },
- {
-  "date": "2026-11-02",
-  "time": "18:00",
-  "slot": "daily",
-  "piece": "video",
-  "area": "Brain & behavior",
-  "format": "reel (IG feed + FB reel + YT short)",
-  "source": "https://www.apa.org/topics/research/multitasking (pathways/ideas.md B3)",
-  "hook": "Every switch costs something.",
-  "networks": [
-   "instagram",
-   "facebook",
-   "youtube"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-648345893826770430"
- },
- {
-  "date": "2026-11-03",
-  "time": "10:00",
-  "slot": "daily",
-  "area": "Self-honesty",
-  "source": "original (pathways/ideas.md #5)",
-  "hook": "What do you complain about most?",
-  "status": "scheduled",
-  "piece": "2026-11-03-complain",
-  "format": "carousel (IG + FB)",
-  "networks": [
-   "instagram",
-   "facebook"
-  ],
-  "metricoolUuid": "-4729054512100585866"
- },
- {
-  "date": "2026-11-03",
-  "time": "10:00",
-  "slot": "daily",
-  "area": "Self-honesty",
-  "source": "original (pathways/ideas.md #5)",
-  "hook": "What do you complain about most?",
-  "status": "scheduled",
-  "piece": "2026-11-03-complain-video",
-  "format": "youtube short of slides",
-  "networks": [
-   "youtube"
-  ],
-  "metricoolUuid": "-8595344397735606930"
- },
- {
-  "date": "2026-11-03",
-  "time": "10:00",
-  "slot": "daily",
-  "area": "Self-honesty",
-  "source": "original (pathways/ideas.md #5)",
-  "hook": "What do you complain about most?",
-  "status": "scheduled",
-  "piece": "2026-11-03-complain-01",
-  "format": "pinterest pin of cover",
-  "networks": [
-   "pinterest"
-  ],
-  "metricoolUuid": "-6276299117653176413"
- },
- {
-  "date": "2026-11-04",
-  "time": "18:00",
-  "slot": "daily",
-  "piece": "2026-11-04-sorry-but-video",
-  "area": "Relationship patterns",
-  "format": "reel (IG feed + FB reel + YT short)",
-  "source": "original (pathways/ideas.md #11)",
-  "hook": "An apology with \"but\" in it is an argument.",
-  "networks": [
-   "instagram",
-   "facebook",
-   "youtube"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-4438400988902699778"
- },
- {
-  "date": "2026-11-05",
-  "time": "09:00",
-  "slot": "daily",
-  "area": "Brain & behavior",
-  "source": "https://www.mpi.nl/news/our-brain-prediction-machine-always-active (ideas.md B7)",
-  "hook": "Your brain is always guessing.",
-  "status": "scheduled",
-  "piece": "2026-11-05-guessing",
-  "format": "carousel (IG + FB)",
-  "networks": [
-   "instagram",
-   "facebook"
-  ],
-  "metricoolUuid": "-7167877706903500008"
- },
- {
-  "date": "2026-11-05",
-  "time": "09:00",
-  "slot": "daily",
-  "area": "Brain & behavior",
-  "source": "https://www.mpi.nl/news/our-brain-prediction-machine-always-active (ideas.md B7)",
-  "hook": "Your brain is always guessing.",
-  "status": "scheduled",
-  "piece": "2026-11-05-guessing-video",
-  "format": "youtube short of slides",
-  "networks": [
-   "youtube"
-  ],
-  "metricoolUuid": "-2801851293783407313"
- },
- {
-  "date": "2026-11-05",
-  "time": "09:00",
-  "slot": "daily",
-  "area": "Brain & behavior",
-  "source": "https://www.mpi.nl/news/our-brain-prediction-machine-always-active (ideas.md B7)",
-  "hook": "Your brain is always guessing.",
-  "status": "scheduled",
-  "piece": "2026-11-05-guessing-01",
-  "format": "pinterest pin of cover",
-  "networks": [
-   "pinterest"
-  ],
-  "metricoolUuid": "-8458004986025523174"
- },
- {
-  "date": "2026-11-06",
-  "time": "18:00",
-  "slot": "daily",
-  "piece": "2026-11-06-stop-one-video",
-  "area": "How change actually happens",
-  "format": "reel (IG feed + FB reel + YT short)",
-  "source": "original (pathways/ideas.md #16)",
-  "hook": "Stop one thing first.",
-  "networks": [
-   "instagram",
-   "facebook",
-   "youtube"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-2699671523828479803"
- },
- {
-  "date": "2026-11-07",
-  "time": "10:00",
-  "slot": "daily",
-  "area": "Mental clutter",
-  "source": "original (pathways/ideas.md #23)",
-  "hook": "Who are you still trying to be?",
-  "status": "scheduled",
-  "piece": "2026-11-07-old-version",
-  "format": "carousel (IG + FB)",
-  "networks": [
-   "instagram",
-   "facebook"
-  ],
-  "metricoolUuid": "1877254962690345160"
- },
- {
-  "date": "2026-11-07",
-  "time": "10:00",
-  "slot": "daily",
-  "area": "Mental clutter",
-  "source": "original (pathways/ideas.md #23)",
-  "hook": "Who are you still trying to be?",
-  "status": "scheduled",
-  "piece": "2026-11-07-old-version-video",
-  "format": "youtube short of slides",
-  "networks": [
-   "youtube"
-  ],
-  "metricoolUuid": "-7724366411919243730"
- },
- {
-  "date": "2026-11-07",
-  "time": "10:00",
-  "slot": "daily",
-  "area": "Mental clutter",
-  "source": "original (pathways/ideas.md #23)",
-  "hook": "Who are you still trying to be?",
-  "status": "scheduled",
-  "piece": "2026-11-07-old-version-01",
-  "format": "pinterest pin of cover",
-  "networks": [
-   "pinterest"
-  ],
-  "metricoolUuid": "3214593202072142025"
- },
- {
-  "date": "2026-11-08",
-  "time": "18:00",
-  "slot": "daily",
-  "piece": "2026-11-08-always-never-video",
-  "area": "Self-honesty",
-  "format": "reel (IG feed + FB reel + YT short)",
-  "source": "original (pathways/ideas.md #4)",
-  "hook": "Listen for your \"always\" and \"never.\"",
-  "networks": [
-   "instagram",
-   "facebook",
-   "youtube"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-8756613275624256579"
- },
- {
-  "date": "2026-11-09",
-  "time": "10:00",
-  "slot": "daily",
-  "piece": "2026-11-09-practice",
-  "area": "Brain & behavior",
-  "format": "carousel (IG + FB)",
-  "source": "https://ox.ac.uk/node/8103 (pathways/ideas.md B1)",
-  "hook": "Practice counts before it looks good.",
-  "networks": [
-   "instagram",
-   "facebook"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-6127479040502706490"
- },
- {
-  "date": "2026-11-09",
-  "time": "10:00",
-  "slot": "daily",
-  "piece": "2026-11-09-practice-video",
-  "area": "Brain & behavior",
-  "format": "youtube short of slides",
-  "source": "https://ox.ac.uk/node/8103 (pathways/ideas.md B1)",
-  "hook": "Practice counts before it looks good.",
-  "networks": [
-   "youtube"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-1855625629275566386"
- },
- {
-  "date": "2026-11-09",
-  "time": "10:00",
-  "slot": "daily",
-  "piece": "2026-11-09-practice-01",
-  "area": "Brain & behavior",
-  "format": "pinterest pin of cover",
-  "source": "https://ox.ac.uk/node/8103 (pathways/ideas.md B1)",
-  "hook": "Practice counts before it looks good.",
-  "networks": [
-   "pinterest"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-3079955472950410329"
- },
- {
-  "date": "2026-11-10",
-  "time": "18:00",
-  "slot": "daily",
-  "piece": "2026-11-10-before-send-video",
-  "area": "Relationship patterns",
-  "format": "reel (IG feed + FB reel + YT short)",
-  "source": "original (pathways/ideas.md #9)",
-  "hook": "Wait before you hit send.",
-  "networks": [
-   "instagram",
-   "facebook",
-   "youtube"
-  ],
-  "status": "scheduled",
-  "metricoolUuid": "-1035997525852795630"
- }
+  {
+    "date": "2026-10-05",
+    "time": "11:00",
+    "slot": "main",
+    "piece": "image",
+    "area": "intro: four pathways + three areas",
+    "format": "carousel-6",
+    "source": "https://pathways2goodlife.com",
+    "hook": "What feels heaviest right now? (Which pathway are you on?)",
+    "networks": [
+      "facebook",
+      "instagram"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-4764195202704453990"
+  },
+  {
+    "date": "2026-10-05",
+    "time": "11:00",
+    "slot": "main",
+    "piece": "video",
+    "area": "intro: four pathways + three areas",
+    "format": "short",
+    "source": "https://pathways2goodlife.com",
+    "hook": "What feels heaviest right now? (Which pathway are you on?)",
+    "networks": [
+      "youtube",
+      "instagram TRIAL_REEL"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-4827229542091699322"
+  },
+  {
+    "date": "2026-10-05",
+    "time": "12:00",
+    "slot": "main",
+    "piece": "story",
+    "area": "intro: four pathways + three areas",
+    "format": "story",
+    "source": "https://pathways2goodlife.com",
+    "hook": "What feels heaviest right now? (Which pathway are you on?)",
+    "networks": [
+      "instagram STORY",
+      "facebook STORY"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "9115051004523530264"
+  },
+  {
+    "date": "2026-10-05",
+    "time": "18:30",
+    "slot": "evening",
+    "piece": "image",
+    "area": "simplicity: what simple means",
+    "format": "carousel-5",
+    "source": "https://pathways2goodlife.com",
+    "hook": "\"Simple\" doesn't mean easy.",
+    "networks": [
+      "facebook",
+      "instagram"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-9168220128975958934"
+  },
+  {
+    "date": "2026-10-05",
+    "time": "18:30",
+    "slot": "evening",
+    "piece": "video",
+    "area": "simplicity: what simple means",
+    "format": "short",
+    "source": "https://pathways2goodlife.com",
+    "hook": "\"Simple\" doesn't mean easy.",
+    "networks": [
+      "youtube",
+      "instagram TRIAL_REEL"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-2629688435254735598"
+  },
+  {
+    "date": "2026-10-06",
+    "area": "a steady solo life",
+    "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
+    "hook": "One set of shoulders (one income, one household, one person)",
+    "status": "scheduled",
+    "time": "10:00",
+    "slot": "main",
+    "piece": "image",
+    "format": "carousel-3",
+    "networks": [
+      "facebook",
+      "instagram"
+    ],
+    "metricoolUuid": "-883879514791851206"
+  },
+  {
+    "date": "2026-10-06",
+    "area": "a steady solo life",
+    "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
+    "hook": "One set of shoulders (one income, one household, one person)",
+    "status": "scheduled",
+    "time": "10:00",
+    "slot": "main",
+    "piece": "video",
+    "format": "short",
+    "networks": [
+      "youtube"
+    ],
+    "metricoolUuid": "4389751201547898737"
+  },
+  {
+    "date": "2026-10-06",
+    "area": "a steady solo life",
+    "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
+    "hook": "One set of shoulders (one income, one household, one person)",
+    "status": "scheduled",
+    "time": "11:00",
+    "slot": "main",
+    "piece": "story",
+    "format": "story",
+    "networks": [
+      "instagram STORY",
+      "facebook STORY"
+    ],
+    "metricoolUuid": "-1536952891341061790"
+  },
+  {
+    "date": "2026-10-06",
+    "area": "relationship patterns: testing the people who love you",
+    "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
+    "hook": "Do you test the people who love you?",
+    "status": "scheduled",
+    "time": "17:00",
+    "slot": "evening",
+    "piece": "image",
+    "format": "carousel-2",
+    "networks": [
+      "facebook",
+      "instagram"
+    ],
+    "metricoolUuid": "3426839686973442948"
+  },
+  {
+    "date": "2026-10-06",
+    "area": "relationship patterns: testing the people who love you",
+    "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
+    "hook": "Do you test the people who love you?",
+    "status": "scheduled",
+    "time": "17:00",
+    "slot": "evening",
+    "piece": "video",
+    "format": "short",
+    "networks": [
+      "youtube"
+    ],
+    "metricoolUuid": "-977153144753993766"
+  },
+  {
+    "date": "2026-10-07",
+    "area": "relationship patterns: repeating the same mistakes (Bill's three starting points)",
+    "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
+    "hook": "I repeat the same mistakes.",
+    "status": "scheduled",
+    "time": "12:00",
+    "slot": "main",
+    "piece": "image",
+    "format": "carousel-5",
+    "networks": [
+      "facebook",
+      "instagram"
+    ],
+    "metricoolUuid": "-1150161182044896594"
+  },
+  {
+    "date": "2026-10-07",
+    "area": "relationship patterns: repeating the same mistakes (Bill's three starting points)",
+    "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
+    "hook": "I repeat the same mistakes.",
+    "status": "scheduled",
+    "time": "12:00",
+    "slot": "main",
+    "piece": "video",
+    "format": "short",
+    "networks": [
+      "youtube",
+      "instagram REEL (off-grid)"
+    ],
+    "metricoolUuid": "-298327789660126745"
+  },
+  {
+    "date": "2026-10-07",
+    "area": "relationship patterns: repeating the same mistakes (Bill's three starting points)",
+    "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
+    "hook": "I repeat the same mistakes.",
+    "status": "scheduled",
+    "time": "13:00",
+    "slot": "main",
+    "piece": "story",
+    "format": "story",
+    "networks": [
+      "instagram STORY",
+      "facebook STORY"
+    ],
+    "metricoolUuid": "-7692765973832578934"
+  },
+  {
+    "date": "2026-10-07",
+    "area": "owning less: cluttered and loud",
+    "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
+    "hook": "Does your life feel cluttered and loud?",
+    "status": "scheduled",
+    "time": "17:00",
+    "slot": "evening",
+    "piece": "image",
+    "format": "carousel-2",
+    "networks": [
+      "facebook",
+      "instagram"
+    ],
+    "metricoolUuid": "3965428144316697846"
+  },
+  {
+    "date": "2026-10-07",
+    "area": "owning less: cluttered and loud",
+    "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
+    "hook": "Does your life feel cluttered and loud?",
+    "status": "scheduled",
+    "time": "17:00",
+    "slot": "evening",
+    "piece": "video",
+    "format": "short",
+    "networks": [
+      "youtube",
+      "instagram REEL (off-grid)"
+    ],
+    "metricoolUuid": "-7807681303968594931"
+  },
+  {
+    "date": "2026-10-08",
+    "area": "course: The Freedom Paradox (free chapter: The Invisible Wall)",
+    "source": "https://bill-s-site-680c.thinkific.com/products/courses/the-freedom-paradox (course facts as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
+    "hook": "Start with The Invisible Wall.",
+    "status": "scheduled",
+    "time": "10:00",
+    "slot": "main",
+    "piece": "image",
+    "format": "carousel-5",
+    "networks": [
+      "facebook",
+      "instagram"
+    ],
+    "metricoolUuid": "5100867039461524951"
+  },
+  {
+    "date": "2026-10-08",
+    "area": "course: The Freedom Paradox (free chapter: The Invisible Wall)",
+    "source": "https://bill-s-site-680c.thinkific.com/products/courses/the-freedom-paradox (course facts as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
+    "hook": "Start with The Invisible Wall.",
+    "status": "scheduled",
+    "time": "10:00",
+    "slot": "main",
+    "piece": "video",
+    "format": "short",
+    "networks": [
+      "youtube",
+      "instagram REEL (off-grid)"
+    ],
+    "metricoolUuid": "-4763756309414918104"
+  },
+  {
+    "date": "2026-10-08",
+    "area": "course: The Freedom Paradox (free chapter: The Invisible Wall)",
+    "source": "https://bill-s-site-680c.thinkific.com/products/courses/the-freedom-paradox (course facts as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
+    "hook": "Start with The Invisible Wall.",
+    "status": "scheduled",
+    "time": "11:00",
+    "slot": "main",
+    "piece": "story",
+    "format": "story",
+    "networks": [
+      "instagram STORY",
+      "facebook STORY"
+    ],
+    "metricoolUuid": "6173511797178781553"
+  },
+  {
+    "date": "2026-10-08",
+    "area": "a steady solo life: I'm starting over on my own (entry point)",
+    "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
+    "hook": "I'm starting over on my own.",
+    "status": "scheduled",
+    "time": "18:00",
+    "slot": "evening",
+    "piece": "image",
+    "format": "carousel-2",
+    "networks": [
+      "facebook",
+      "instagram"
+    ],
+    "metricoolUuid": "-5544969811661141009"
+  },
+  {
+    "date": "2026-10-08",
+    "area": "a steady solo life: I'm starting over on my own (entry point)",
+    "source": "https://pathways2goodlife.com (text as recorded in pathways/PLAYBOOK.md; live fetch unavailable this run)",
+    "hook": "I'm starting over on my own.",
+    "status": "scheduled",
+    "time": "18:00",
+    "slot": "evening",
+    "piece": "video",
+    "format": "short",
+    "networks": [
+      "youtube",
+      "instagram REEL (off-grid)"
+    ],
+    "metricoolUuid": "-8936789414105494623"
+  },
+  {
+    "date": "2026-10-11",
+    "time": "10:00",
+    "slot": "main",
+    "piece": "image",
+    "area": "relationship patterns: listen first (The Wisdom of Speaking Less)",
+    "format": "carousel",
+    "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
+    "hook": "First listen. Then understand. Then speak.",
+    "networks": [
+      "facebook",
+      "instagram"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "6393031144925775340"
+  },
+  {
+    "date": "2026-10-11",
+    "time": "10:00",
+    "slot": "main",
+    "piece": "video",
+    "area": "relationship patterns: listen first (The Wisdom of Speaking Less)",
+    "format": "video",
+    "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
+    "hook": "First listen. Then understand. Then speak.",
+    "networks": [
+      "youtube",
+      "instagram-reel"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-2698739121194908623"
+  },
+  {
+    "date": "2026-10-11",
+    "time": "10:00",
+    "slot": "main",
+    "piece": "pin",
+    "area": "relationship patterns: listen first (The Wisdom of Speaking Less)",
+    "format": "pin",
+    "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
+    "hook": "First listen. Then understand. Then speak.",
+    "networks": [
+      "pinterest"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "7325156432310258835"
+  },
+  {
+    "date": "2026-10-11",
+    "time": "11:00",
+    "slot": "main",
+    "piece": "story",
+    "area": "relationship patterns: listen first (The Wisdom of Speaking Less)",
+    "format": "story",
+    "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
+    "hook": "First listen. Then understand. Then speak.",
+    "networks": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "8439065818708396740"
+  },
+  {
+    "date": "2026-10-11",
+    "time": "18:00",
+    "slot": "evening",
+    "piece": "image",
+    "area": "relationship patterns: breaking the talk-without-listening loop (The Wisdom of Speaking Less)",
+    "format": "carousel",
+    "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
+    "hook": "Talking without listening is a loop.",
+    "networks": [
+      "facebook",
+      "instagram"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "8808820605296200137"
+  },
+  {
+    "date": "2026-10-11",
+    "time": "18:00",
+    "slot": "evening",
+    "piece": "video",
+    "area": "relationship patterns: breaking the talk-without-listening loop (The Wisdom of Speaking Less)",
+    "format": "video",
+    "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
+    "hook": "Talking without listening is a loop.",
+    "networks": [
+      "youtube",
+      "instagram-reel"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-7004519900686367904"
+  },
+  {
+    "date": "2026-10-13",
+    "time": "12:00",
+    "slot": "main",
+    "piece": "image",
+    "area": "relationship patterns: leave room to learn / humility (The Wisdom of Speaking Less)",
+    "format": "carousel",
+    "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
+    "hook": "You don't have to be the smartest person in the room.",
+    "networks": [
+      "facebook",
+      "instagram"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "4786260911020591304"
+  },
+  {
+    "date": "2026-10-13",
+    "time": "12:00",
+    "slot": "main",
+    "piece": "video",
+    "area": "relationship patterns: leave room to learn / humility (The Wisdom of Speaking Less)",
+    "format": "video",
+    "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
+    "hook": "You don't have to be the smartest person in the room.",
+    "networks": [
+      "youtube",
+      "instagram-reel"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-3517663737935738917"
+  },
+  {
+    "date": "2026-10-13",
+    "time": "12:00",
+    "slot": "main",
+    "piece": "pin",
+    "area": "relationship patterns: leave room to learn / humility (The Wisdom of Speaking Less)",
+    "format": "pin",
+    "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
+    "hook": "You don't have to be the smartest person in the room.",
+    "networks": [
+      "pinterest"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "7132751476688896604"
+  },
+  {
+    "date": "2026-10-13",
+    "time": "13:00",
+    "slot": "main",
+    "piece": "story",
+    "area": "relationship patterns: leave room to learn / humility (The Wisdom of Speaking Less)",
+    "format": "story",
+    "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
+    "hook": "You don't have to be the smartest person in the room.",
+    "networks": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-5464528818594296911"
+  },
+  {
+    "date": "2026-10-13",
+    "time": "17:00",
+    "slot": "evening",
+    "piece": "image",
+    "area": "mindset: change is possible (Bill's quote)",
+    "format": "single",
+    "source": "https://pathways2goodlife.com (Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+    "hook": "Change is possible for anyone. Is it easy? No. But it can be done.",
+    "networks": [
+      "facebook",
+      "instagram"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-608668379636412794"
+  },
+  {
+    "date": "2026-10-13",
+    "time": "17:00",
+    "slot": "evening",
+    "piece": "video",
+    "area": "mindset: change is possible (Bill's quote)",
+    "format": "video",
+    "source": "https://pathways2goodlife.com (Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+    "hook": "Change is possible for anyone. Is it easy? No. But it can be done.",
+    "networks": [
+      "youtube",
+      "instagram-reel"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "6824004403854920577"
+  },
+  {
+    "date": "2026-10-14",
+    "time": "12:00",
+    "slot": "main",
+    "piece": "image",
+    "area": "relationship patterns: the discipline of quiet (The Wisdom of Speaking Less)",
+    "format": "carousel 6",
+    "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
+    "hook": "Listening isn't waiting for your turn to talk.",
+    "networks": [
+      "facebook",
+      "instagram"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "7638865130700032213"
+  },
+  {
+    "date": "2026-10-14",
+    "time": "12:00",
+    "slot": "main",
+    "piece": "video",
+    "area": "relationship patterns: the discipline of quiet (The Wisdom of Speaking Less)",
+    "format": "short/reel",
+    "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
+    "hook": "Listening isn't waiting for your turn to talk.",
+    "networks": [
+      "instagram",
+      "youtube"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "3649912207521369258"
+  },
+  {
+    "date": "2026-10-14",
+    "time": "12:00",
+    "slot": "main",
+    "piece": "pin",
+    "area": "relationship patterns: the discipline of quiet (The Wisdom of Speaking Less)",
+    "format": "pin",
+    "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
+    "hook": "Listening isn't waiting for your turn to talk.",
+    "networks": [
+      "pinterest"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "4426544826001081146"
+  },
+  {
+    "date": "2026-10-14",
+    "time": "13:00",
+    "slot": "main",
+    "piece": "story",
+    "area": "relationship patterns: the discipline of quiet (The Wisdom of Speaking Less)",
+    "format": "story",
+    "source": "https://pathways2goodlife.com/the-wisdom-of-speaking-less.html (text from pathways/sources/the-wisdom-of-speaking-less.md; live fetch blocked this run)",
+    "hook": "Listening isn't waiting for your turn to talk.",
+    "networks": [
+      "facebook",
+      "instagram"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "7083004265127496648"
+  },
+  {
+    "date": "2026-10-14",
+    "time": "17:00",
+    "slot": "evening",
+    "piece": "image",
+    "area": "mindset: be honest about hidden inner struggles (Bill's quote)",
+    "format": "single",
+    "source": "https://pathways2goodlife.com (Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+    "hook": "Be honest about the inner struggles most of us learn to hide.",
+    "networks": [
+      "facebook",
+      "instagram"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-860989043658371606"
+  },
+  {
+    "date": "2026-10-14",
+    "time": "17:00",
+    "slot": "evening",
+    "piece": "video",
+    "area": "mindset: be honest about hidden inner struggles (Bill's quote)",
+    "format": "short/reel",
+    "source": "https://pathways2goodlife.com (Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+    "hook": "Be honest about the inner struggles most of us learn to hide.",
+    "networks": [
+      "instagram",
+      "youtube"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-6905419654243597360"
+  },
+  {
+    "date": "2026-10-15",
+    "time": "10:00",
+    "slot": "main",
+    "piece": "image",
+    "area": "relationship patterns: I keep pushing good people away (entry point) + course mention (The Freedom Paradox)",
+    "format": "carousel",
+    "source": "https://pathways2goodlife.com (entry point, work areas and course facts as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+    "hook": "\"I keep pushing good people away.\"",
+    "networks": [
+      "facebook",
+      "instagram"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "1883873866558357538"
+  },
+  {
+    "date": "2026-10-15",
+    "time": "10:00",
+    "slot": "main",
+    "piece": "video",
+    "area": "relationship patterns: I keep pushing good people away (entry point) + course mention (The Freedom Paradox)",
+    "format": "short/reel",
+    "source": "https://pathways2goodlife.com (entry point, work areas and course facts as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+    "hook": "\"I keep pushing good people away.\"",
+    "networks": [
+      "instagram",
+      "youtube"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-7315935613627905554"
+  },
+  {
+    "date": "2026-10-15",
+    "time": "10:00",
+    "slot": "main",
+    "piece": "pin",
+    "area": "relationship patterns: I keep pushing good people away (entry point) + course mention (The Freedom Paradox)",
+    "format": "pin",
+    "source": "https://pathways2goodlife.com (entry point, work areas and course facts as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+    "hook": "\"I keep pushing good people away.\"",
+    "networks": [
+      "pinterest"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "1160269181563719195"
+  },
+  {
+    "date": "2026-10-15",
+    "time": "11:00",
+    "slot": "main",
+    "piece": "story",
+    "area": "relationship patterns: I keep pushing good people away (entry point) + course mention (The Freedom Paradox)",
+    "format": "story",
+    "source": "https://pathways2goodlife.com (entry point, work areas and course facts as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+    "hook": "\"I keep pushing good people away.\"",
+    "networks": [
+      "facebook",
+      "instagram"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-4472727136961281399"
+  },
+  {
+    "date": "2026-10-15",
+    "time": "18:00",
+    "slot": "evening",
+    "piece": "image",
+    "area": "owning less: the habits that refill the closet",
+    "format": "single",
+    "source": "https://pathways2goodlife.com (work-area text and tagline as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+    "hook": "Letting go of the things is half of it. The other half: the habits that refill the closet.",
+    "networks": [
+      "facebook",
+      "instagram"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "5047065390366738997"
+  },
+  {
+    "date": "2026-10-15",
+    "time": "18:00",
+    "slot": "evening",
+    "piece": "video",
+    "area": "owning less: the habits that refill the closet",
+    "format": "short/reel",
+    "source": "https://pathways2goodlife.com (work-area text and tagline as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+    "hook": "Letting go of the things is half of it. The other half: the habits that refill the closet.",
+    "networks": [
+      "instagram",
+      "youtube"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "5502572254309010977"
+  },
+  {
+    "date": "2026-10-16",
+    "time": "10:00",
+    "slot": "main",
+    "piece": "image",
+    "area": "brand: Less clutter. Fewer cycles. More you. (three work areas)",
+    "format": "carousel",
+    "source": "https://pathways2goodlife.com (tagline, work areas and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+    "hook": "Less clutter. Fewer cycles. More you.",
+    "networks": [
+      "facebook",
+      "instagram"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "5485458961850125641"
+  },
+  {
+    "date": "2026-10-16",
+    "time": "10:00",
+    "slot": "main",
+    "piece": "video",
+    "area": "brand: Less clutter. Fewer cycles. More you. (three work areas)",
+    "format": "short/reel",
+    "source": "https://pathways2goodlife.com (tagline, work areas and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+    "hook": "Less clutter. Fewer cycles. More you.",
+    "networks": [
+      "instagram",
+      "youtube"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "2529532039534365020"
+  },
+  {
+    "date": "2026-10-16",
+    "time": "10:00",
+    "slot": "main",
+    "piece": "pin",
+    "area": "brand: Less clutter. Fewer cycles. More you. (three work areas)",
+    "format": "pin",
+    "source": "https://pathways2goodlife.com (tagline, work areas and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+    "hook": "Less clutter. Fewer cycles. More you.",
+    "networks": [
+      "pinterest"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "6817967156295584954"
+  },
+  {
+    "date": "2026-10-16",
+    "time": "11:00",
+    "slot": "main",
+    "piece": "story",
+    "area": "brand: Less clutter. Fewer cycles. More you. (three work areas)",
+    "format": "story",
+    "source": "https://pathways2goodlife.com (tagline, work areas and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+    "hook": "Less clutter. Fewer cycles. More you.",
+    "networks": [
+      "facebook",
+      "instagram"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-5548775605423748876"
+  },
+  {
+    "date": "2026-10-16",
+    "time": "18:00",
+    "slot": "evening",
+    "piece": "image",
+    "area": "owning less / simplicity: keep daily life simple enough to have room for the work (Bill's quote)",
+    "format": "single",
+    "source": "https://pathways2goodlife.com (tagline, work areas and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+    "hook": "Keep your daily life simple enough that you have room to do that work.",
+    "networks": [
+      "facebook",
+      "instagram"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "279599223749365350"
+  },
+  {
+    "date": "2026-10-16",
+    "time": "18:00",
+    "slot": "evening",
+    "piece": "video",
+    "area": "owning less / simplicity: keep daily life simple enough to have room for the work (Bill's quote)",
+    "format": "short/reel",
+    "source": "https://pathways2goodlife.com (tagline, work areas and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+    "hook": "Keep your daily life simple enough that you have room to do that work.",
+    "networks": [
+      "instagram",
+      "youtube"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "8094828029843817804"
+  },
+  {
+    "date": "2026-10-17",
+    "time": "10:00",
+    "slot": "main",
+    "piece": "image",
+    "area": "relationship patterns: I repeat the same mistakes (entry point) + The Freedom Paradox chapter list (course post 2 of week)",
+    "format": "carousel",
+    "source": "https://pathways2goodlife.com (entry point, course facts and work-area text as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+    "hook": "\"I repeat the same mistakes.\"",
+    "networks": [
+      "facebook",
+      "instagram"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-895842369083389496"
+  },
+  {
+    "date": "2026-10-17",
+    "time": "10:00",
+    "slot": "main",
+    "piece": "video",
+    "area": "relationship patterns: I repeat the same mistakes (entry point) + The Freedom Paradox chapter list (course post 2 of week)",
+    "format": "short/reel",
+    "source": "https://pathways2goodlife.com (entry point, course facts and work-area text as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+    "hook": "\"I repeat the same mistakes.\"",
+    "networks": [
+      "instagram",
+      "youtube"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "1967547386155123764"
+  },
+  {
+    "date": "2026-10-17",
+    "time": "10:00",
+    "slot": "main",
+    "piece": "pin",
+    "area": "relationship patterns: I repeat the same mistakes (entry point) + The Freedom Paradox chapter list (course post 2 of week)",
+    "format": "pin",
+    "source": "https://pathways2goodlife.com (entry point, course facts and work-area text as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+    "hook": "\"I repeat the same mistakes.\"",
+    "networks": [
+      "pinterest"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-644756624174659496"
+  },
+  {
+    "date": "2026-10-17",
+    "time": "11:00",
+    "slot": "main",
+    "piece": "story",
+    "area": "relationship patterns: I repeat the same mistakes (entry point) + The Freedom Paradox chapter list (course post 2 of week)",
+    "format": "story",
+    "source": "https://pathways2goodlife.com (entry point, course facts and work-area text as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+    "hook": "\"I repeat the same mistakes.\"",
+    "networks": [
+      "facebook",
+      "instagram"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-6150770396905454594"
+  },
+  {
+    "date": "2026-10-17",
+    "time": "18:00",
+    "slot": "evening",
+    "piece": "image",
+    "area": "steady solo life: one income, one household, one set of shoulders",
+    "format": "single",
+    "source": "https://pathways2goodlife.com (entry point, course facts and work-area text as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+    "hook": "One income. One household. One set of shoulders keeping it all running.",
+    "networks": [
+      "facebook",
+      "instagram"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-3489046576336319031"
+  },
+  {
+    "date": "2026-10-17",
+    "time": "18:00",
+    "slot": "evening",
+    "piece": "video",
+    "area": "steady solo life: one income, one household, one set of shoulders",
+    "format": "short/reel",
+    "source": "https://pathways2goodlife.com (entry point, course facts and work-area text as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+    "hook": "One income. One household. One set of shoulders keeping it all running.",
+    "networks": [
+      "instagram",
+      "youtube"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-1621828177433113228"
+  },
+  {
+    "date": "2026-10-18",
+    "time": "10:00",
+    "slot": "main",
+    "piece": "image",
+    "area": "relationship patterns: testing the people who love you + Bill's 'be true to yourself and your feelings'",
+    "format": "carousel",
+    "source": "https://pathways2goodlife.com (patterns, entry point, closing line and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+    "hook": "Do you test the people who love you?",
+    "networks": [
+      "facebook",
+      "instagram"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "8903170159885894364"
+  },
+  {
+    "date": "2026-10-18",
+    "time": "10:00",
+    "slot": "main",
+    "piece": "video",
+    "area": "relationship patterns: testing the people who love you + Bill's 'be true to yourself and your feelings'",
+    "format": "short/reel",
+    "source": "https://pathways2goodlife.com (patterns, entry point, closing line and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+    "hook": "Do you test the people who love you?",
+    "networks": [
+      "instagram",
+      "youtube"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-2467599216850746332"
+  },
+  {
+    "date": "2026-10-18",
+    "time": "10:00",
+    "slot": "main",
+    "piece": "pin",
+    "area": "relationship patterns: testing the people who love you + Bill's 'be true to yourself and your feelings'",
+    "format": "pin",
+    "source": "https://pathways2goodlife.com (patterns, entry point, closing line and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+    "hook": "Do you test the people who love you?",
+    "networks": [
+      "pinterest"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-1132489819645325795"
+  },
+  {
+    "date": "2026-10-18",
+    "time": "11:00",
+    "slot": "main",
+    "piece": "story",
+    "area": "relationship patterns: testing the people who love you + Bill's 'be true to yourself and your feelings'",
+    "format": "story",
+    "source": "https://pathways2goodlife.com (patterns, entry point, closing line and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+    "hook": "Do you test the people who love you?",
+    "networks": [
+      "facebook",
+      "instagram"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "2796495740432305164"
+  },
+  {
+    "date": "2026-10-18",
+    "time": "18:00",
+    "slot": "evening",
+    "piece": "image",
+    "area": "a steady solo life: I'm starting over on my own (entry point) + closing line Simple isn't easy. It's just lighter.",
+    "format": "mini carousel",
+    "source": "https://pathways2goodlife.com (patterns, entry point, closing line and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+    "hook": "\"I'm starting over on my own.\"",
+    "networks": [
+      "facebook",
+      "instagram"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "6916485636970267763"
+  },
+  {
+    "date": "2026-10-18",
+    "time": "18:00",
+    "slot": "evening",
+    "piece": "video",
+    "area": "a steady solo life: I'm starting over on my own (entry point) + closing line Simple isn't easy. It's just lighter.",
+    "format": "short/reel",
+    "source": "https://pathways2goodlife.com (patterns, entry point, closing line and Bill's quote as recorded in pathways/PLAYBOOK.md; live fetch blocked this run)",
+    "hook": "\"I'm starting over on my own.\"",
+    "networks": [
+      "instagram",
+      "youtube"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "1442289181223700522"
+  },
+  {
+    "date": "2026-10-20",
+    "time": "18:00",
+    "slot": "daily",
+    "piece": "video",
+    "area": "Self-honesty",
+    "format": "reel (IG feed + FB reel + YT short)",
+    "source": "original (pathways/ideas.md #1)",
+    "hook": "Three questions for the end of a hard day",
+    "networks": [
+      "instagram",
+      "facebook",
+      "youtube"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-3230436713799988001"
+  },
+  {
+    "date": "2026-10-21",
+    "time": "10:00",
+    "slot": "daily",
+    "area": "Brain & behavior",
+    "source": "https://deepblue.lib.umich.edu/bitstream/2027.42/44342/1/10608_2004_Article_464752.pdf (Treynor, Gonzalez & Nolen-Hoeksema 2003, Cognitive Therapy and Research; ideas.md B8)",
+    "hook": "Brooding or reflecting?",
+    "status": "scheduled",
+    "piece": "image",
+    "format": "carousel (IG + FB)",
+    "networks": [
+      "instagram",
+      "facebook"
+    ],
+    "metricoolUuid": "-3079496697153109163"
+  },
+  {
+    "date": "2026-10-21",
+    "time": "10:00",
+    "slot": "daily",
+    "area": "Brain & behavior",
+    "source": "https://deepblue.lib.umich.edu/bitstream/2027.42/44342/1/10608_2004_Article_464752.pdf (Treynor, Gonzalez & Nolen-Hoeksema 2003, Cognitive Therapy and Research; ideas.md B8)",
+    "hook": "Brooding or reflecting?",
+    "status": "scheduled",
+    "piece": "video",
+    "format": "youtube short of slides",
+    "networks": [
+      "youtube"
+    ],
+    "metricoolUuid": "5784217941038088259"
+  },
+  {
+    "date": "2026-10-21",
+    "time": "10:00",
+    "slot": "daily",
+    "area": "Brain & behavior",
+    "source": "https://deepblue.lib.umich.edu/bitstream/2027.42/44342/1/10608_2004_Article_464752.pdf (Treynor, Gonzalez & Nolen-Hoeksema 2003, Cognitive Therapy and Research; ideas.md B8)",
+    "hook": "Brooding or reflecting?",
+    "status": "scheduled",
+    "piece": "pin",
+    "format": "pinterest pin of cover",
+    "networks": [
+      "pinterest"
+    ],
+    "metricoolUuid": "5369045596593539881"
+  },
+  {
+    "date": "2026-10-22",
+    "time": "18:00",
+    "slot": "daily",
+    "piece": "video",
+    "area": "Relationship patterns",
+    "format": "reel (IG feed + FB reel + YT short)",
+    "source": "original (pathways/ideas.md #8)",
+    "hook": "A boundary or a punishment?",
+    "networks": [
+      "instagram",
+      "facebook",
+      "youtube"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-6076018158497216895"
+  },
+  {
+    "date": "2026-10-23",
+    "time": "09:00",
+    "slot": "daily",
+    "area": "Brain & behavior",
+    "source": "https://www.uclahealth.org/news/release/putting-feelings-into-words-produces-therapeutic-effects-in-the-brain-ucla-neuroimaging-study-supports-ancient-buddhist-teachings (Lieberman et al. 2007, Psychological Science; ideas.md B6)",
+    "hook": "Name it to slow it down",
+    "status": "scheduled",
+    "piece": "image",
+    "format": "carousel (IG + FB)",
+    "networks": [
+      "instagram",
+      "facebook"
+    ],
+    "metricoolUuid": "-6096878035830617603"
+  },
+  {
+    "date": "2026-10-23",
+    "time": "09:00",
+    "slot": "daily",
+    "area": "Brain & behavior",
+    "source": "https://www.uclahealth.org/news/release/putting-feelings-into-words-produces-therapeutic-effects-in-the-brain-ucla-neuroimaging-study-supports-ancient-buddhist-teachings (Lieberman et al. 2007, Psychological Science; ideas.md B6)",
+    "hook": "Name it to slow it down",
+    "status": "scheduled",
+    "piece": "video",
+    "format": "youtube short of slides",
+    "networks": [
+      "youtube"
+    ],
+    "metricoolUuid": "5622674905751440404"
+  },
+  {
+    "date": "2026-10-23",
+    "time": "09:00",
+    "slot": "daily",
+    "area": "Brain & behavior",
+    "source": "https://www.uclahealth.org/news/release/putting-feelings-into-words-produces-therapeutic-effects-in-the-brain-ucla-neuroimaging-study-supports-ancient-buddhist-teachings (Lieberman et al. 2007, Psychological Science; ideas.md B6)",
+    "hook": "Name it to slow it down",
+    "status": "scheduled",
+    "piece": "pin",
+    "format": "pinterest pin of cover",
+    "networks": [
+      "pinterest"
+    ],
+    "metricoolUuid": "-9138796546610740786"
+  },
+  {
+    "date": "2026-10-24",
+    "time": "18:00",
+    "slot": "daily",
+    "piece": "video",
+    "area": "How change actually happens",
+    "format": "reel (IG feed + FB reel + YT short)",
+    "source": "original (pathways/ideas.md #14)",
+    "hook": "Start smaller than feels useful.",
+    "networks": [
+      "instagram",
+      "facebook",
+      "youtube"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-3777731475277789518"
+  },
+  {
+    "date": "2026-10-25",
+    "time": "10:00",
+    "slot": "daily",
+    "area": "Mental clutter",
+    "source": "original (pathways/ideas.md #20)",
+    "hook": "What are you still carrying?",
+    "status": "scheduled",
+    "piece": "image",
+    "format": "carousel (IG + FB)",
+    "networks": [
+      "instagram",
+      "facebook"
+    ],
+    "metricoolUuid": "-694188629027372092"
+  },
+  {
+    "date": "2026-10-25",
+    "time": "10:00",
+    "slot": "daily",
+    "area": "Mental clutter",
+    "source": "original (pathways/ideas.md #20)",
+    "hook": "What are you still carrying?",
+    "status": "scheduled",
+    "piece": "video",
+    "format": "youtube short of slides",
+    "networks": [
+      "youtube"
+    ],
+    "metricoolUuid": "-1367456994222978933"
+  },
+  {
+    "date": "2026-10-25",
+    "time": "10:00",
+    "slot": "daily",
+    "area": "Mental clutter",
+    "source": "original (pathways/ideas.md #20)",
+    "hook": "What are you still carrying?",
+    "status": "scheduled",
+    "piece": "pin",
+    "format": "pinterest pin of cover",
+    "networks": [
+      "pinterest"
+    ],
+    "metricoolUuid": "2804208492684463692"
+  },
+  {
+    "date": "2026-10-26",
+    "time": "18:00",
+    "slot": "daily",
+    "piece": "video",
+    "area": "Brain & behavior",
+    "format": "reel (IG feed + FB reel + YT short)",
+    "source": "https://newsarchive.berkeley.edu/news/media/releases/2007/10/22_sleeploss.shtml (pathways/ideas.md B5)",
+    "hook": "Tired makes feelings louder.",
+    "networks": [
+      "instagram",
+      "facebook",
+      "youtube"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-8758377288675340709"
+  },
+  {
+    "date": "2026-10-27",
+    "time": "09:00",
+    "slot": "daily",
+    "area": "Self-honesty",
+    "source": "original (pathways/ideas.md #3)",
+    "hook": "What happened, or the story?",
+    "status": "scheduled",
+    "piece": "image",
+    "format": "carousel (IG + FB)",
+    "networks": [
+      "instagram",
+      "facebook"
+    ],
+    "metricoolUuid": "9193988282032737690"
+  },
+  {
+    "date": "2026-10-27",
+    "time": "09:00",
+    "slot": "daily",
+    "area": "Self-honesty",
+    "source": "original (pathways/ideas.md #3)",
+    "hook": "What happened, or the story?",
+    "status": "scheduled",
+    "piece": "video",
+    "format": "youtube short of slides",
+    "networks": [
+      "youtube"
+    ],
+    "metricoolUuid": "-6430603980668189331"
+  },
+  {
+    "date": "2026-10-27",
+    "time": "09:00",
+    "slot": "daily",
+    "area": "Self-honesty",
+    "source": "original (pathways/ideas.md #3)",
+    "hook": "What happened, or the story?",
+    "status": "scheduled",
+    "piece": "pin",
+    "format": "pinterest pin of cover",
+    "networks": [
+      "pinterest"
+    ],
+    "metricoolUuid": "1619607956493520472"
+  },
+  {
+    "date": "2026-10-28",
+    "time": "18:00",
+    "slot": "daily",
+    "piece": "video",
+    "area": "Relationship patterns",
+    "format": "reel (IG feed + FB reel + YT short)",
+    "source": "original (pathways/ideas.md #7)",
+    "hook": "Take space. Don't disappear.",
+    "networks": [
+      "instagram",
+      "facebook",
+      "youtube"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "1389354349617955147"
+  },
+  {
+    "date": "2026-10-29",
+    "time": "10:00",
+    "slot": "daily",
+    "area": "Brain & behavior",
+    "source": "https://www.health.harvard.edu/healthy-aging-and-longevity/understanding-the-stress-response (pathways/ideas.md B4)",
+    "hook": "Your body reacts first.",
+    "status": "scheduled",
+    "piece": "image",
+    "format": "carousel (IG + FB)",
+    "networks": [
+      "instagram",
+      "facebook"
+    ],
+    "metricoolUuid": "600580691556321790"
+  },
+  {
+    "date": "2026-10-29",
+    "time": "10:00",
+    "slot": "daily",
+    "area": "Brain & behavior",
+    "source": "https://www.health.harvard.edu/healthy-aging-and-longevity/understanding-the-stress-response (pathways/ideas.md B4)",
+    "hook": "Your body reacts first.",
+    "status": "scheduled",
+    "piece": "video",
+    "format": "youtube short of slides",
+    "networks": [
+      "youtube"
+    ],
+    "metricoolUuid": "-8464768445026710816"
+  },
+  {
+    "date": "2026-10-29",
+    "time": "10:00",
+    "slot": "daily",
+    "area": "Brain & behavior",
+    "source": "https://www.health.harvard.edu/healthy-aging-and-longevity/understanding-the-stress-response (pathways/ideas.md B4)",
+    "hook": "Your body reacts first.",
+    "status": "scheduled",
+    "piece": "pin",
+    "format": "pinterest pin of cover",
+    "networks": [
+      "pinterest"
+    ],
+    "metricoolUuid": "-7887748307660092335"
+  },
+  {
+    "date": "2026-10-30",
+    "time": "18:00",
+    "slot": "daily",
+    "piece": "video",
+    "area": "How change actually happens",
+    "format": "reel (IG feed + FB reel + YT short)",
+    "source": "original (pathways/ideas.md #15)",
+    "hook": "A bad day isn't starting over.",
+    "networks": [
+      "instagram",
+      "facebook",
+      "youtube"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-4563553037138377442"
+  },
+  {
+    "date": "2026-10-31",
+    "time": "11:00",
+    "slot": "daily",
+    "area": "Mental clutter",
+    "source": "original (pathways/ideas.md #21)",
+    "hook": "Did you say yes, or did you feel guilty?",
+    "status": "scheduled",
+    "piece": "image",
+    "format": "carousel (IG + FB)",
+    "networks": [
+      "instagram",
+      "facebook"
+    ],
+    "metricoolUuid": "8862800356695493709"
+  },
+  {
+    "date": "2026-10-31",
+    "time": "11:00",
+    "slot": "daily",
+    "area": "Mental clutter",
+    "source": "original (pathways/ideas.md #21)",
+    "hook": "Did you say yes, or did you feel guilty?",
+    "status": "scheduled",
+    "piece": "video",
+    "format": "youtube short of slides",
+    "networks": [
+      "youtube"
+    ],
+    "metricoolUuid": "-7188161955161816408"
+  },
+  {
+    "date": "2026-10-31",
+    "time": "11:00",
+    "slot": "daily",
+    "area": "Mental clutter",
+    "source": "original (pathways/ideas.md #21)",
+    "hook": "Did you say yes, or did you feel guilty?",
+    "status": "scheduled",
+    "piece": "pin",
+    "format": "pinterest pin of cover",
+    "networks": [
+      "pinterest"
+    ],
+    "metricoolUuid": "880715643228537641"
+  },
+  {
+    "date": "2026-11-01",
+    "time": "09:00",
+    "slot": "daily",
+    "area": "Relationship patterns",
+    "source": "original (pathways/ideas.md #13)",
+    "hook": "Do you pull back when it's good?",
+    "status": "scheduled",
+    "piece": "2026-11-01-pull-back",
+    "format": "carousel (IG + FB)",
+    "networks": [
+      "instagram",
+      "facebook"
+    ],
+    "metricoolUuid": "3774948985774689703"
+  },
+  {
+    "date": "2026-11-01",
+    "time": "09:00",
+    "slot": "daily",
+    "area": "Relationship patterns",
+    "source": "original (pathways/ideas.md #13)",
+    "hook": "Do you pull back when it's good?",
+    "status": "scheduled",
+    "piece": "2026-11-01-pull-back-video",
+    "format": "youtube short of slides",
+    "networks": [
+      "youtube"
+    ],
+    "metricoolUuid": "-7404414708455944215"
+  },
+  {
+    "date": "2026-11-01",
+    "time": "09:00",
+    "slot": "daily",
+    "area": "Relationship patterns",
+    "source": "original (pathways/ideas.md #13)",
+    "hook": "Do you pull back when it's good?",
+    "status": "scheduled",
+    "piece": "2026-11-01-pull-back-01",
+    "format": "pinterest pin of cover",
+    "networks": [
+      "pinterest"
+    ],
+    "metricoolUuid": "179848626112446481"
+  },
+  {
+    "date": "2026-11-02",
+    "time": "18:00",
+    "slot": "daily",
+    "piece": "video",
+    "area": "Brain & behavior",
+    "format": "reel (IG feed + FB reel + YT short)",
+    "source": "https://www.apa.org/topics/research/multitasking (pathways/ideas.md B3)",
+    "hook": "Every switch costs something.",
+    "networks": [
+      "instagram",
+      "facebook",
+      "youtube"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-648345893826770430"
+  },
+  {
+    "date": "2026-11-03",
+    "time": "10:00",
+    "slot": "daily",
+    "area": "Self-honesty",
+    "source": "original (pathways/ideas.md #5)",
+    "hook": "What do you complain about most?",
+    "status": "scheduled",
+    "piece": "2026-11-03-complain",
+    "format": "carousel (IG + FB)",
+    "networks": [
+      "instagram",
+      "facebook"
+    ],
+    "metricoolUuid": "-4729054512100585866"
+  },
+  {
+    "date": "2026-11-03",
+    "time": "10:00",
+    "slot": "daily",
+    "area": "Self-honesty",
+    "source": "original (pathways/ideas.md #5)",
+    "hook": "What do you complain about most?",
+    "status": "scheduled",
+    "piece": "2026-11-03-complain-video",
+    "format": "youtube short of slides",
+    "networks": [
+      "youtube"
+    ],
+    "metricoolUuid": "-8595344397735606930"
+  },
+  {
+    "date": "2026-11-03",
+    "time": "10:00",
+    "slot": "daily",
+    "area": "Self-honesty",
+    "source": "original (pathways/ideas.md #5)",
+    "hook": "What do you complain about most?",
+    "status": "scheduled",
+    "piece": "2026-11-03-complain-01",
+    "format": "pinterest pin of cover",
+    "networks": [
+      "pinterest"
+    ],
+    "metricoolUuid": "-6276299117653176413"
+  },
+  {
+    "date": "2026-11-04",
+    "time": "18:00",
+    "slot": "daily",
+    "piece": "2026-11-04-sorry-but-video",
+    "area": "Relationship patterns",
+    "format": "reel (IG feed + FB reel + YT short)",
+    "source": "original (pathways/ideas.md #11)",
+    "hook": "An apology with \"but\" in it is an argument.",
+    "networks": [
+      "instagram",
+      "facebook",
+      "youtube"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-4438400988902699778"
+  },
+  {
+    "date": "2026-11-05",
+    "time": "09:00",
+    "slot": "daily",
+    "area": "Brain & behavior",
+    "source": "https://www.mpi.nl/news/our-brain-prediction-machine-always-active (ideas.md B7)",
+    "hook": "Your brain is always guessing.",
+    "status": "scheduled",
+    "piece": "2026-11-05-guessing",
+    "format": "carousel (IG + FB)",
+    "networks": [
+      "instagram",
+      "facebook"
+    ],
+    "metricoolUuid": "-7167877706903500008"
+  },
+  {
+    "date": "2026-11-05",
+    "time": "09:00",
+    "slot": "daily",
+    "area": "Brain & behavior",
+    "source": "https://www.mpi.nl/news/our-brain-prediction-machine-always-active (ideas.md B7)",
+    "hook": "Your brain is always guessing.",
+    "status": "scheduled",
+    "piece": "2026-11-05-guessing-video",
+    "format": "youtube short of slides",
+    "networks": [
+      "youtube"
+    ],
+    "metricoolUuid": "-2801851293783407313"
+  },
+  {
+    "date": "2026-11-05",
+    "time": "09:00",
+    "slot": "daily",
+    "area": "Brain & behavior",
+    "source": "https://www.mpi.nl/news/our-brain-prediction-machine-always-active (ideas.md B7)",
+    "hook": "Your brain is always guessing.",
+    "status": "scheduled",
+    "piece": "2026-11-05-guessing-01",
+    "format": "pinterest pin of cover",
+    "networks": [
+      "pinterest"
+    ],
+    "metricoolUuid": "-8458004986025523174"
+  },
+  {
+    "date": "2026-11-06",
+    "time": "18:00",
+    "slot": "daily",
+    "piece": "2026-11-06-stop-one-video",
+    "area": "How change actually happens",
+    "format": "reel (IG feed + FB reel + YT short)",
+    "source": "original (pathways/ideas.md #16)",
+    "hook": "Stop one thing first.",
+    "networks": [
+      "instagram",
+      "facebook",
+      "youtube"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-2699671523828479803"
+  },
+  {
+    "date": "2026-11-07",
+    "time": "10:00",
+    "slot": "daily",
+    "area": "Mental clutter",
+    "source": "original (pathways/ideas.md #23)",
+    "hook": "Who are you still trying to be?",
+    "status": "scheduled",
+    "piece": "2026-11-07-old-version",
+    "format": "carousel (IG + FB)",
+    "networks": [
+      "instagram",
+      "facebook"
+    ],
+    "metricoolUuid": "1877254962690345160"
+  },
+  {
+    "date": "2026-11-07",
+    "time": "10:00",
+    "slot": "daily",
+    "area": "Mental clutter",
+    "source": "original (pathways/ideas.md #23)",
+    "hook": "Who are you still trying to be?",
+    "status": "scheduled",
+    "piece": "2026-11-07-old-version-video",
+    "format": "youtube short of slides",
+    "networks": [
+      "youtube"
+    ],
+    "metricoolUuid": "-7724366411919243730"
+  },
+  {
+    "date": "2026-11-07",
+    "time": "10:00",
+    "slot": "daily",
+    "area": "Mental clutter",
+    "source": "original (pathways/ideas.md #23)",
+    "hook": "Who are you still trying to be?",
+    "status": "scheduled",
+    "piece": "2026-11-07-old-version-01",
+    "format": "pinterest pin of cover",
+    "networks": [
+      "pinterest"
+    ],
+    "metricoolUuid": "3214593202072142025"
+  },
+  {
+    "date": "2026-11-08",
+    "time": "18:00",
+    "slot": "daily",
+    "piece": "2026-11-08-always-never-video",
+    "area": "Self-honesty",
+    "format": "reel (IG feed + FB reel + YT short)",
+    "source": "original (pathways/ideas.md #4)",
+    "hook": "Listen for your \"always\" and \"never.\"",
+    "networks": [
+      "instagram",
+      "facebook",
+      "youtube"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-8756613275624256579"
+  },
+  {
+    "date": "2026-11-09",
+    "time": "10:00",
+    "slot": "daily",
+    "piece": "2026-11-09-practice",
+    "area": "Brain & behavior",
+    "format": "carousel (IG + FB)",
+    "source": "https://ox.ac.uk/node/8103 (pathways/ideas.md B1)",
+    "hook": "Practice counts before it looks good.",
+    "networks": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-6127479040502706490"
+  },
+  {
+    "date": "2026-11-09",
+    "time": "10:00",
+    "slot": "daily",
+    "piece": "2026-11-09-practice-video",
+    "area": "Brain & behavior",
+    "format": "youtube short of slides",
+    "source": "https://ox.ac.uk/node/8103 (pathways/ideas.md B1)",
+    "hook": "Practice counts before it looks good.",
+    "networks": [
+      "youtube"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-1855625629275566386"
+  },
+  {
+    "date": "2026-11-09",
+    "time": "10:00",
+    "slot": "daily",
+    "piece": "2026-11-09-practice-01",
+    "area": "Brain & behavior",
+    "format": "pinterest pin of cover",
+    "source": "https://ox.ac.uk/node/8103 (pathways/ideas.md B1)",
+    "hook": "Practice counts before it looks good.",
+    "networks": [
+      "pinterest"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-3079955472950410329"
+  },
+  {
+    "date": "2026-11-10",
+    "time": "18:00",
+    "slot": "daily",
+    "piece": "2026-11-10-before-send-video",
+    "area": "Relationship patterns",
+    "format": "reel (IG feed + FB reel + YT short)",
+    "source": "original (pathways/ideas.md #9)",
+    "hook": "Wait before you hit send.",
+    "networks": [
+      "instagram",
+      "facebook",
+      "youtube"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-1035997525852795630"
+  },
+  {
+    "date": "2026-11-11",
+    "time": "09:00",
+    "slot": "daily",
+    "piece": "2026-11-11-last-month",
+    "area": "How change actually happens",
+    "format": "carousel (IG + FB)",
+    "source": "original (pathways/ideas.md #18)",
+    "hook": "Measure against last month's you.",
+    "networks": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-6886282360628425322"
+  },
+  {
+    "date": "2026-11-11",
+    "time": "09:00",
+    "slot": "daily",
+    "piece": "2026-11-11-last-month-video",
+    "area": "How change actually happens",
+    "format": "youtube short of slides",
+    "source": "original (pathways/ideas.md #18)",
+    "hook": "Measure against last month's you.",
+    "networks": [
+      "youtube"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "-1654169239213553932"
+  },
+  {
+    "date": "2026-11-11",
+    "time": "09:00",
+    "slot": "daily",
+    "piece": "2026-11-11-last-month-01",
+    "area": "How change actually happens",
+    "format": "pinterest pin of cover",
+    "source": "original (pathways/ideas.md #18)",
+    "hook": "Measure against last month's you.",
+    "networks": [
+      "pinterest"
+    ],
+    "status": "scheduled",
+    "metricoolUuid": "6136673480195460361"
+  }
 ]
