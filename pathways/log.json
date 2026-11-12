@@ -1737,5 +1737,51 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "2523525427158794996"
+ },
+ {
+  "date": "2026-11-13",
+  "time": "09:00",
+  "slot": "daily",
+  "area": "Brain & behavior",
+  "source": "https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit (pathways/ideas.md B2)",
+  "hook": "Give a new habit a moment to live in.",
+  "status": "scheduled",
+  "piece": "2026-11-13-habit-cue",
+  "format": "carousel (IG + FB)",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "metricoolUuid": "-5324149590169139443"
+ },
+ {
+  "date": "2026-11-13",
+  "time": "09:00",
+  "slot": "daily",
+  "area": "Brain & behavior",
+  "source": "https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit (pathways/ideas.md B2)",
+  "hook": "Give a new habit a moment to live in.",
+  "status": "scheduled",
+  "piece": "2026-11-13-habit-cue-video",
+  "format": "youtube short of slides",
+  "networks": [
+   "youtube"
+  ],
+  "metricoolUuid": "801293539326840371"
+ },
+ {
+  "date": "2026-11-13",
+  "time": "09:00",
+  "slot": "daily",
+  "area": "Brain & behavior",
+  "source": "https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit (pathways/ideas.md B2)",
+  "hook": "Give a new habit a moment to live in.",
+  "status": "scheduled",
+  "piece": "2026-11-13-habit-cue-01",
+  "format": "pinterest pin of cover",
+  "networks": [
+   "pinterest"
+  ],
+  "metricoolUuid": "-2103660339927366256"
  }
 ]
