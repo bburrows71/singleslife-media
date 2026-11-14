@@ -1783,5 +1783,51 @@
    "pinterest"
   ],
   "metricoolUuid": "-2103660339927366256"
+ },
+ {
+  "date": "2026-11-15",
+  "time": "09:00",
+  "slot": "daily",
+  "area": "Self-honesty",
+  "source": "original (pathways/ideas.md #6)",
+  "hook": "Write the thing you won't say out loud.",
+  "status": "scheduled",
+  "piece": "2026-11-15-unsaid",
+  "format": "carousel (IG + FB)",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "metricoolUuid": "6598929275545274284"
+ },
+ {
+  "date": "2026-11-15",
+  "time": "09:00",
+  "slot": "daily",
+  "area": "Self-honesty",
+  "source": "original (pathways/ideas.md #6)",
+  "hook": "Write the thing you won't say out loud.",
+  "status": "scheduled",
+  "piece": "2026-11-15-unsaid-video",
+  "format": "youtube short of slides",
+  "networks": [
+   "youtube"
+  ],
+  "metricoolUuid": "-111240415248168048"
+ },
+ {
+  "date": "2026-11-15",
+  "time": "09:00",
+  "slot": "daily",
+  "area": "Self-honesty",
+  "source": "original (pathways/ideas.md #6)",
+  "hook": "Write the thing you won't say out loud.",
+  "status": "scheduled",
+  "piece": "2026-11-15-unsaid-01",
+  "format": "pinterest pin of cover",
+  "networks": [
+   "pinterest"
+  ],
+  "metricoolUuid": "-3713488002984229764"
  }
 ]
