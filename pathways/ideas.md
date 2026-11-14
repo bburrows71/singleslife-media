@@ -30,7 +30,7 @@ B12. Decision fatigue / self-control: what newer research does and doesn't suppo
 3. [used 2026-10-27] What happened vs. the story you told yourself about it: write them in two columns.
 4. [used 2026-11-08] Listen for your "always" and "never." They're usually the story talking.
 5. [used 2026-11-03] What you complain about most points to what you care about most.
-6. Write down the thing you won't say out loud. Nobody has to read it.
+6. [used 2026-11-15] Write down the thing you won't say out loud. Nobody has to read it.
 
 ## Relationship patterns
 7. [used 2026-10-28] Taking space without disappearing: "I need an hour. I'll call you at 8."
@@ -55,3 +55,10 @@ B12. Decision fatigue / self-control: what newer research does and doesn't suppo
 22. Ten minutes with no input: no phone, no music, no podcast. Notice what comes up.
 23. [used 2026-11-07] Letting go of an old version of yourself you keep trying to live up to.
 24. Holding onto something because of who gave it, not because you want it.
+
+## Added 2026-11-14 (coaching / inner work)
+25. (Self-honesty) Notice the compliment you can't accept. What would it mean if it were true?
+26. (Relationship patterns) When someone's upset with you, listen for the request inside the complaint.
+27. (How change actually happens) Tell one person what you're working on. Change you keep secret is easy to quietly drop.
+28. (Mental clutter) The conversation you keep rehearsing in your head: is it for them, or for you?
+29. (Relationship patterns) Notice who you go quiet around and who you get loud around. What's the difference?
