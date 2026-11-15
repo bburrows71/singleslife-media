@@ -1829,5 +1829,22 @@
    "pinterest"
   ],
   "metricoolUuid": "-3713488002984229764"
+ },
+ {
+  "date": "2026-11-16",
+  "time": "18:00",
+  "slot": "daily",
+  "piece": "2026-11-16-retelling-video",
+  "area": "Brain & behavior",
+  "format": "reel (IG feed + FB reel + YT short)",
+  "source": "https://www.sciencedaily.com/releases/2012/09/120919125736.htm (Northwestern University; pathways/ideas.md B11)",
+  "hook": "Every retelling edits the memory.",
+  "networks": [
+   "instagram",
+   "facebook",
+   "youtube"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "2498437426894882384"
  }
 ]
