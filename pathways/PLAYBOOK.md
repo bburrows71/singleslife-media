@@ -143,3 +143,6 @@ Everything here overrides the Singles Life playbook for this brand.
 - 2026-11-09 (week Nov 2-8): Instagram 137 -> 134 followers (0 gained, 3 lost). Reels carry the reach: "An apology with 'but' in it is an argument." (Nov 4)
   68 views / 66 reached and brain Reel "Every switch costs something." (Nov 2, APA) 65 / 59 / 3 interactions; every Reel beat every carousel (carousels 10-25 views).
   Concrete-sentence relationship Reels win again. Facebook 0 followers; YouTube 268 views Nov 2-6, 0 subs. Report: reports/2026-11-09.md
+- 2026-11-16 (week Nov 9-15): Instagram 134 -> 131 followers (0 gained, 3 lost). Quietest week: account views 124 / reach 46. Reels still lead but smaller:
+  "Wait before you hit send." (Nov 10) 20 views / 19 reached, "Ask before it turns bitter." (Nov 12) 15 / 11; carousels 10-13 views, 1 interaction each.
+  No post went out Nov 14 (missed day). Facebook 0 followers; YouTube 312 views Nov 9-13, 0 subs. Report: reports/2026-11-16.md

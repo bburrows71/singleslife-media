@@ -1846,5 +1846,51 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "2498437426894882384"
+ },
+ {
+  "date": "2026-11-17",
+  "time": "10:00",
+  "slot": "daily",
+  "area": "Relationship patterns",
+  "source": "original (pathways/ideas.md #10)",
+  "hook": "What did you want them to understand?",
+  "status": "scheduled",
+  "piece": "2026-11-17-understand",
+  "format": "carousel (IG + FB)",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "metricoolUuid": "-3530529728068038937"
+ },
+ {
+  "date": "2026-11-17",
+  "time": "10:00",
+  "slot": "daily",
+  "area": "Relationship patterns",
+  "source": "original (pathways/ideas.md #10)",
+  "hook": "What did you want them to understand?",
+  "status": "scheduled",
+  "piece": "2026-11-17-understand-video",
+  "format": "youtube short of slides",
+  "networks": [
+   "youtube"
+  ],
+  "metricoolUuid": "776151000893899404"
+ },
+ {
+  "date": "2026-11-17",
+  "time": "10:00",
+  "slot": "daily",
+  "area": "Relationship patterns",
+  "source": "original (pathways/ideas.md #10)",
+  "hook": "What did you want them to understand?",
+  "status": "scheduled",
+  "piece": "2026-11-17-understand-01",
+  "format": "pinterest pin of cover",
+  "networks": [
+   "pinterest"
+  ],
+  "metricoolUuid": "125838208986074216"
  }
 ]
