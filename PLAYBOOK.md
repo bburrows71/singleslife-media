@@ -23,7 +23,7 @@ Every post is built from the owner's own material, quoting or closely paraphrasi
   the-wisdom-of-speaking-less.html (seen 2026-10-10 in the owner's own Metricool draft; not yet read by Claude) (blog index: singles-life.app/blog.html — check for new ones).
 - Unattended runs may be unable to WebFetch singles-life.app (permission prompt unanswered). If so, skip the slot
   rather than write from memory, and tell the owner. (2026-10-09: Oct 10 evening was filled later the same day. 2026-10-10: blocked again for singles-life.app AND
-  thinkific; Oct 11 left empty. 2026-10-12: blocked again for both; Oct 13 left empty. 2026-10-13: blocked again for both; Oct 14 left empty. 2026-10-14: blocked again for both; Oct 15 left empty. 2026-10-15: blocked again for both; Oct 16 left empty. 2026-10-16 (first WEEKLY run): blocked again for both; Oct 17-23 left empty. 2026-10-23 (weekly run): blocked again for both; Oct 24-30 left empty. 2026-10-26 (Monday report): still blocked. 2026-10-30 (weekly run): blocked again for both; Oct 31-Nov 6 left empty. 2026-11-02 (Monday report): still blocked. 2026-11-06 (weekly run): blocked again for both; Nov 7-13 left empty. 2026-11-13 (weekly run): blocked again for both; Nov 14-20 left empty.)
+  thinkific; Oct 11 left empty. 2026-10-12: blocked again for both; Oct 13 left empty. 2026-10-13: blocked again for both; Oct 14 left empty. 2026-10-14: blocked again for both; Oct 15 left empty. 2026-10-15: blocked again for both; Oct 16 left empty. 2026-10-16 (first WEEKLY run): blocked again for both; Oct 17-23 left empty. 2026-10-23 (weekly run): blocked again for both; Oct 24-30 left empty. 2026-10-26 (Monday report): still blocked. 2026-10-30 (weekly run): blocked again for both; Oct 31-Nov 6 left empty. 2026-11-02 (Monday report): still blocked. 2026-11-06 (weekly run): blocked again for both; Nov 7-13 left empty. 2026-11-13 (weekly run): blocked again for both; Nov 14-20 left empty. 2026-11-16 (Monday report): still blocked.)
   Fix options: approve web fetches for singles-life.app + the Thinkific URL in the task's settings, or commit the
   article text into a `sources/` folder here so runs can read it from the repo.
 - The Freedom Paradox course (Thinkific, $129): bill-s-site-680c.thinkific.com/products/courses/the-freedom-paradox
@@ -125,3 +125,6 @@ The owner can still edit or delete anything in the Metricool planner before it g
 - 2026-11-09 (week Nov 2-8): fourth straight week with nothing published (sources still blocked). IG followers rose anyway 51 -> 55
   (13 views, 8 reached); TikTok 7 -> 8 (1 view); FB flat at 3 (0 activity); YT flat at 50 (1 view). No new learnings.
   Report: reports/2026-11-09.md
+- 2026-11-16 (week Nov 9-15): fifth straight week with nothing published (sources still blocked). IG followers 55 -> 54, 0 reach;
+  TikTok flat at 8 (8 views on old videos); FB flat at 3 (2 media views); YT flat at 50 (0 views). No new learnings.
+  Report: reports/2026-11-16.md
