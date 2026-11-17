@@ -1892,5 +1892,22 @@
    "pinterest"
   ],
   "metricoolUuid": "125838208986074216"
+ },
+ {
+  "date": "2026-11-18",
+  "time": "18:00",
+  "slot": "daily",
+  "piece": "2026-11-18-no-video.mp4",
+  "area": "How change actually happens",
+  "format": "reel (IG feed + FB reel + YT short)",
+  "source": "original (pathways/ideas.md #19)",
+  "hook": "\"No\" doesn't need a speech.",
+  "networks": [
+   "instagram",
+   "facebook",
+   "youtube"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "8667329951040815146"
  }
 ]
