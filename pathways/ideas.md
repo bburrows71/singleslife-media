@@ -61,4 +61,4 @@ B12. Decision fatigue / self-control: what newer research does and doesn't suppo
 26. (Relationship patterns) When someone's upset with you, listen for the request inside the complaint.
 27. (How change actually happens) Tell one person what you're working on. Change you keep secret is easy to quietly drop.
 28. (Mental clutter) The conversation you keep rehearsing in your head: is it for them, or for you?
-29. (Relationship patterns) Notice who you go quiet around and who you get loud around. What's the difference?
+29. [used 2026-11-20] (Relationship patterns) Notice who you go quiet around and who you get loud around. What's the difference?
