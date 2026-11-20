@@ -1972,5 +1972,51 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "4337202368060933462"
+ },
+ {
+  "date": "2026-11-21",
+  "time": "10:00",
+  "slot": "daily",
+  "area": "Mental clutter",
+  "source": "original (pathways/ideas.md #22)",
+  "hook": "Ten minutes. No input.",
+  "status": "scheduled",
+  "piece": "2026-11-21-no-input",
+  "format": "carousel (IG + FB)",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "metricoolUuid": "7219532560566010973"
+ },
+ {
+  "date": "2026-11-21",
+  "time": "10:00",
+  "slot": "daily",
+  "area": "Mental clutter",
+  "source": "original (pathways/ideas.md #22)",
+  "hook": "Ten minutes. No input.",
+  "status": "scheduled",
+  "piece": "2026-11-21-no-input-video",
+  "format": "youtube short of slides",
+  "networks": [
+   "youtube"
+  ],
+  "metricoolUuid": "74905497198152611"
+ },
+ {
+  "date": "2026-11-21",
+  "time": "10:00",
+  "slot": "daily",
+  "area": "Mental clutter",
+  "source": "original (pathways/ideas.md #22)",
+  "hook": "Ten minutes. No input.",
+  "status": "scheduled",
+  "piece": "2026-11-21-no-input-01",
+  "format": "pinterest pin of cover",
+  "networks": [
+   "pinterest"
+  ],
+  "metricoolUuid": "-5074125288684697763"
  }
 ]
