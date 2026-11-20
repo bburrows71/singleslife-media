@@ -45,14 +45,14 @@ B12. Decision fatigue / self-control: what newer research does and doesn't suppo
 14. [used 2026-10-24] Start smaller than feels useful.
 15. [used 2026-10-30] A bad day isn't starting over.
 16. [used 2026-11-06] Pick one thing to stop this month instead of five to start.
-17. A 10-minute weekly look back: what worked, what didn't, one change.
+17. (close to #18, used 2026-11-11: hold until 2026-12-11) A 10-minute weekly look back: what worked, what didn't, one change.
 18. [used 2026-11-11] Compare yourself to last month's you, not to someone else's highlight reel.
 19. [used 2026-11-18] "No" is a complete sentence. You don't owe a long explanation.
 
 ## Mental clutter
 20. [used 2026-10-25] The open-loops list: write down everything you're carrying in your head. Then pick one to close.
 21. [used 2026-10-31] Audit your yeses: which commitments did you agree to out of guilt?
-22. Ten minutes with no input: no phone, no music, no podcast. Notice what comes up.
+22. [used 2026-11-21] Ten minutes with no input: no phone, no music, no podcast. Notice what comes up.
 23. [used 2026-11-07] Letting go of an old version of yourself you keep trying to live up to.
 24. Holding onto something because of who gave it, not because you want it.
 
@@ -62,3 +62,10 @@ B12. Decision fatigue / self-control: what newer research does and doesn't suppo
 27. (How change actually happens) Tell one person what you're working on. Change you keep secret is easy to quietly drop.
 28. (Mental clutter) The conversation you keep rehearsing in your head: is it for them, or for you?
 29. [used 2026-11-20] (Relationship patterns) Notice who you go quiet around and who you get loud around. What's the difference?
+
+## Added 2026-11-20 (coaching / inner work)
+30. (Self-honesty) Which feeling do you skip straight past to get to anger? Name the one underneath.
+31. (Relationship patterns) Notice the role you slip into in a group: fixer, peacekeeper, joker. Who would you be if you put it down for one evening?
+32. (How change actually happens) Your old pattern will feel "right" for a while after you stop it. Familiar isn't the same as good.
+33. (Mental clutter) The decision you keep re-making: write down why you made it, once, and stop reopening it.
+34. (Self-honesty) Ask yourself: who am I trying to impress with this? Then ask whether they're even watching.
