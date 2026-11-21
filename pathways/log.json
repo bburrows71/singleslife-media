@@ -2018,5 +2018,22 @@
    "pinterest"
   ],
   "metricoolUuid": "-5074125288684697763"
+ },
+ {
+  "date": "2026-11-22",
+  "time": "18:00",
+  "slot": "daily",
+  "piece": "2026-11-22-compliment-video",
+  "area": "Self-honesty",
+  "format": "reel (IG feed + FB reel + YT short)",
+  "source": "original (pathways/ideas.md #25)",
+  "hook": "The compliment you wave off.",
+  "networks": [
+   "instagram",
+   "facebook",
+   "youtube"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "7193012573146924004"
  }
 ]
