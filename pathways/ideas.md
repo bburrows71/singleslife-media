@@ -57,7 +57,7 @@ B12. Decision fatigue / self-control: what newer research does and doesn't suppo
 24. Holding onto something because of who gave it, not because you want it.
 
 ## Added 2026-11-14 (coaching / inner work)
-25. (Self-honesty) Notice the compliment you can't accept. What would it mean if it were true?
+25. [used 2026-11-22] (Self-honesty) Notice the compliment you can't accept. What would it mean if it were true?
 26. (Relationship patterns) When someone's upset with you, listen for the request inside the complaint.
 27. (How change actually happens) Tell one person what you're working on. Change you keep secret is easy to quietly drop.
 28. (Mental clutter) The conversation you keep rehearsing in your head: is it for them, or for you?
