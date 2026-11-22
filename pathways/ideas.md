@@ -19,7 +19,7 @@ B5. [used 2026-10-26] Sleep and emotion: what research says about sleep and emot
 B6. [used 2026-10-23] Naming emotions ("affect labeling"): what studies found about putting feelings into words.
 B7. [used 2026-11-05] Prediction: the brain as a prediction machine, and why the familiar feels safer.
 B8. [used 2026-10-21] Rumination vs reflection: what research distinguishes them.
-B9. Social connection and the brain: what studies say about loneliness and belonging.
+B9. [used 2026-11-23] Social connection and the brain: what studies say about loneliness and belonging.
 B10. [used 2026-11-19] Exercise and the brain: what research says about movement, mood and thinking.
 B11. [used 2026-11-16] Memory: why memories change each time they're recalled.
 B12. Decision fatigue / self-control: what newer research does and doesn't support.
