@@ -146,3 +146,7 @@ Everything here overrides the Singles Life playbook for this brand.
 - 2026-11-16 (week Nov 9-15): Instagram 134 -> 131 followers (0 gained, 3 lost). Quietest week: account views 124 / reach 46. Reels still lead but smaller:
   "Wait before you hit send." (Nov 10) 20 views / 19 reached, "Ask before it turns bitter." (Nov 12) 15 / 11; carousels 10-13 views, 1 interaction each.
   No post went out Nov 14 (missed day). Facebook 0 followers; YouTube 312 views Nov 9-13, 0 subs. Report: reports/2026-11-16.md
+- 2026-11-23 (week Nov 16-22): Instagram 131 -> 130 followers (1 gained, 2 lost). Reach recovered: account views 185 / reach 111 (vs 124 / 46).
+  Reels lead again: "Quiet with some. Loud with others." (Nov 20) 46 views / 40 reached / 2 interactions, brain Reel "Every retelling edits the memory."
+  (Nov 16) 39 / 32, "'No' doesn't need a speech." (Nov 18) 32 / 26; carousels 6-24 views, 3-7 reached. Brain topics do better as Reels than carousels.
+  Facebook 0 followers; YouTube 107 views Nov 16-20, 0 subs. Report: reports/2026-11-23.md
