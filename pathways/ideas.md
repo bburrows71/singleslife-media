@@ -58,7 +58,7 @@ B12. Decision fatigue / self-control: what newer research does and doesn't suppo
 
 ## Added 2026-11-14 (coaching / inner work)
 25. [used 2026-11-22] (Self-honesty) Notice the compliment you can't accept. What would it mean if it were true?
-26. (Relationship patterns) When someone's upset with you, listen for the request inside the complaint.
+26. [used 2026-11-24] (Relationship patterns) When someone's upset with you, listen for the request inside the complaint.
 27. (How change actually happens) Tell one person what you're working on. Change you keep secret is easy to quietly drop.
 28. (Mental clutter) The conversation you keep rehearsing in your head: is it for them, or for you?
 29. [used 2026-11-20] (Relationship patterns) Notice who you go quiet around and who you get loud around. What's the difference?
