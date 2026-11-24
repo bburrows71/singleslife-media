@@ -67,5 +67,5 @@ B12. Decision fatigue / self-control: what newer research does and doesn't suppo
 30. (Self-honesty) Which feeling do you skip straight past to get to anger? Name the one underneath.
 31. (Relationship patterns) Notice the role you slip into in a group: fixer, peacekeeper, joker. Who would you be if you put it down for one evening?
 32. (How change actually happens) Your old pattern will feel "right" for a while after you stop it. Familiar isn't the same as good.
-33. (Mental clutter) The decision you keep re-making: write down why you made it, once, and stop reopening it.
+33. [used 2026-11-25] (Mental clutter) The decision you keep re-making: write down why you made it, once, and stop reopening it.
 34. (Self-honesty) Ask yourself: who am I trying to impress with this? Then ask whether they're even watching.
