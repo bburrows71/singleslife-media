@@ -2144,5 +2144,22 @@
    "pinterest"
   ],
   "metricoolUuid": "651856108174462939"
+ },
+ {
+  "date": "2026-11-26",
+  "time": "18:00",
+  "slot": "daily",
+  "piece": "2026-11-26-roles-video",
+  "area": "Relationship patterns",
+  "format": "reel (IG feed + FB reel + YT short)",
+  "source": "original (pathways/ideas.md #31)",
+  "hook": "Fixer, peacekeeper, or joker?",
+  "networks": [
+   "instagram",
+   "facebook",
+   "youtube"
+  ],
+  "status": "scheduled",
+  "metricoolUuid": "4256298308297900974"
  }
 ]
