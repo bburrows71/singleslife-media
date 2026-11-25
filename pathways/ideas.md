@@ -65,7 +65,14 @@ B12. Decision fatigue / self-control: what newer research does and doesn't suppo
 
 ## Added 2026-11-20 (coaching / inner work)
 30. (Self-honesty) Which feeling do you skip straight past to get to anger? Name the one underneath.
-31. (Relationship patterns) Notice the role you slip into in a group: fixer, peacekeeper, joker. Who would you be if you put it down for one evening?
+31. [used 2026-11-26] (Relationship patterns) Notice the role you slip into in a group: fixer, peacekeeper, joker. Who would you be if you put it down for one evening?
 32. (How change actually happens) Your old pattern will feel "right" for a while after you stop it. Familiar isn't the same as good.
 33. [used 2026-11-25] (Mental clutter) The decision you keep re-making: write down why you made it, once, and stop reopening it.
 34. (Self-honesty) Ask yourself: who am I trying to impress with this? Then ask whether they're even watching.
+
+## Added 2026-11-25 (coaching / inner work)
+35. (Self-honesty) Notice what you say "I don't care" about. Is it true, or is it safer than admitting you do?
+36. (Relationship patterns) Who do you only call when you need something, and who only calls you then? What does each side of that feel like?
+37. (How change actually happens) Name the payoff of the habit you want to quit. Every pattern that sticks is doing something for you.
+38. (Mental clutter) The apology you're still waiting for: what would it change if it came? What would you do if it never does?
+39. (Self-honesty) Notice when you say "I'm just tired." Sometimes it's true. Sometimes it's the easiest word for something else.
