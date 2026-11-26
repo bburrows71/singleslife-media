@@ -22,7 +22,12 @@ B8. [used 2026-10-21] Rumination vs reflection: what research distinguishes them
 B9. [used 2026-11-23] Social connection and the brain: what studies say about loneliness and belonging.
 B10. [used 2026-11-19] Exercise and the brain: what research says about movement, mood and thinking.
 B11. [used 2026-11-16] Memory: why memories change each time they're recalled.
-B12. Decision fatigue / self-control: what newer research does and doesn't support.
+B12. [used 2026-11-27] Decision fatigue / self-control: what newer research does and doesn't support.
+B13. Mind-wandering: what research says about how often attention drifts and how that relates to mood.
+B14. Gratitude and the brain: what studies have (and haven't) shown about noticing what's going well.
+B15. Self-compassion vs self-criticism: what research says about how people respond to their own mistakes.
+B16. Expressive writing: what studies found about writing down difficult experiences.
+B17. Social rejection: what brain research says about how being left out registers.
 
 ## Self-honesty
 1. [used 2026-10-20] Three questions for the end of a hard day: What did I feel today that I didn't say? Where did I run on autopilot? What's one thing I'd do differently tomorrow?
