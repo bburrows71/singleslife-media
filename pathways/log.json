@@ -2224,5 +2224,51 @@
   ],
   "status": "scheduled",
   "metricoolUuid": "-8606008173793032209"
+ },
+ {
+  "date": "2026-11-29",
+  "time": "09:00",
+  "slot": "daily",
+  "area": "How change actually happens",
+  "source": "original (pathways/ideas.md #27)",
+  "hook": "Tell one person what you're working on.",
+  "status": "scheduled",
+  "piece": "2026-11-29-tell-one-person",
+  "format": "carousel (IG + FB)",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "metricoolUuid": "5767564741645192983"
+ },
+ {
+  "date": "2026-11-29",
+  "time": "09:00",
+  "slot": "daily",
+  "area": "How change actually happens",
+  "source": "original (pathways/ideas.md #27)",
+  "hook": "Tell one person what you're working on.",
+  "status": "scheduled",
+  "piece": "2026-11-29-tell-one-person-video",
+  "format": "youtube short of slides",
+  "networks": [
+   "youtube"
+  ],
+  "metricoolUuid": "162329949335801149"
+ },
+ {
+  "date": "2026-11-29",
+  "time": "09:00",
+  "slot": "daily",
+  "area": "How change actually happens",
+  "source": "original (pathways/ideas.md #27)",
+  "hook": "Tell one person what you're working on.",
+  "status": "scheduled",
+  "piece": "2026-11-29-tell-one-person-01",
+  "format": "pinterest pin of cover",
+  "networks": [
+   "pinterest"
+  ],
+  "metricoolUuid": "-87786498725100711"
  }
 ]
